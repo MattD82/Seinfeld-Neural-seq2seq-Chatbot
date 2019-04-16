@@ -41,7 +41,7 @@ class JerryChatBot(object):
 
         self.model = Model([encoder_inputs, decoder_inputs], decoder_outputs)
 
-        self.model.load_weights('models/jerry/jerry_char-weights_test.h5')
+        self.model.load_weights('models/jerry/jerry_char-weights_best.h5')
 
         # create encoder and decoder models for prediction
         self.encoder_model = Model(encoder_inputs, encoder_states)
@@ -68,7 +68,7 @@ class JerryChatBot(object):
         
         return encoder_input_sent
     
-    def _sample_with_diversity(self, preds, temperature=0.5):
+    def _sample_with_diversity(self, preds, temperature=1):
         preds = np.asarray(preds).astype('float64')
         preds = np.log(preds) / temperature
         exp_preds = np.exp(preds)
@@ -76,7 +76,6 @@ class JerryChatBot(object):
         probas = np.random.multinomial(1, preds, 1)
         
         return np.argmax(probas)
-
 
     def reply(self, sentence, diversity=False):
         self.encoder_input_sent = self._encode_input_sentence(sentence)
@@ -119,13 +118,13 @@ class JerryChatBot(object):
 
         return decoded_sentence
 
-    def test_run(self):
-        input_sentence_1 = "Who are you?"
-        input_sentence_2 = "Holy cow!"
-        input_sentence_3 = "What's up?"
-        input_sentence_4 = "Ask her about Kramer."
+    def test_run(self, chat=False):
+        input_sentence_1 = "Do you know?"
+        input_sentence_2 = "Do you know?"
+        input_sentence_3 = "Ha."
+        input_sentence_4 = "Wait wait wait, what"
         print(f"Input Sentence #1: {input_sentence_1}")
-        print(f"Reply #1: {self.reply(input_sentence_1, diversity=False)}")
+        print(f"Reply #1: {self.reply(input_sentence_1, diversity=True)}")
         print(f"Input Sentence #2: {input_sentence_2}")
         print(f"Reply #2: {self.reply(input_sentence_2)}")
         print(f"Input Sentence #3: {input_sentence_3}")
@@ -133,11 +132,28 @@ class JerryChatBot(object):
         print(f"Input Sentence #4: {input_sentence_4}")
         print(f"Reply #4: {self.reply(input_sentence_4)}")
 
+        if chat:
+            self._chat_over_command_line()
 
+    def _chat_over_command_line(self):
+        print("Welcome to the Jerry ChatBot!")
+        print("Please type anything, and Jerry will respond!")
+        print("Type 'exit' to stop")
+
+        user_sent = input("User: " )
+
+        while user_sent != 'exit':
+            try:
+                print(f"Jerry: {self.reply(user_sent)[:-1]}")
+            except:
+                print(f"What's the deal with that sentence?! \nPlease try something else!")
+            user_sent = input("User: " )
+
+        exit()
 
 def main():
     model = JerryChatBot()
-    model.test_run()
+    model.test_run(chat=True)
 
 if __name__ == "__main__":
     main()

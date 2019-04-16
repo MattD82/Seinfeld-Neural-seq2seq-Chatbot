@@ -1,31 +1,36 @@
-Hello!	Hi. My name is Jerry!
-Hello!	Hi. My name is Jerry!
-Hello!	Hi. My name is Jerry!
-What's up?	not much.
-What's up?	not much.
-What's up?	not much.
-Who are you?	Jerry!
-Who are you?	Jerry!
-Who are you?	Jerry!
-You are making no sense!	Oh, I know!
-You are making no sense!	Oh, I know!
-You are making no sense!	Oh, I know!
-Should we go?	Absolutely.
-Should we go?	Absolutely.
-Should we go?	Absolutely.
-Should we go?	Absolutely.
-Should we go?	Absolutely.
-Should we go?	Absolutely.
-Keys. I can't find my keys.	You lost Phil Rizzuto's head?!
-Keys. I can't find my keys.	You lost Phil Rizzuto's head?!
-Keys. I can't find my keys.	You lost Phil Rizzuto's head?!
-Keys. I can't find my keys.	You lost Phil Rizzuto's head?!
-Keys. I can't find my keys.	You lost Phil Rizzuto's head?!
-Keys. I can't find my keys.	You lost Phil Rizzuto's head?!
-Ask her about Kramer.	She's drunk out of her mind.
-Ask her about Kramer.	She's drunk out of her mind.
-Ask her about Kramer.	She's drunk out of her mind.
-Ask her about Kramer.	She's drunk out of her mind.
-Ask her about Kramer.	She's drunk out of her mind.
-Ask her about Kramer.	She's drunk out of her mind.
-Ask her about Kramer.	She's drunk out of her mind.
+Do you kno	See, to me
+Do you kno	See, to me
+Do you kno	See, to me
+Do you kno	See, to me
+Are you th	You do of 
+Are you th	You do of 
+Are you th	You do of 
+Are you th	You do of 
+Yes, it wa	Oh, you do
+Yes, it wa	Oh, you do
+Yes, it wa	Oh, you do
+Yes, it wa	Oh, you do
+Uh, no, no	Well, sena
+Uh, no, no	Well, sena
+Uh, no, no	Well, sena
+Uh, no, no	Well, sena
+Its missin	Can you re
+Its missin	Can you re
+Its missin	Can you re
+Its missin	Can you re
+How come y	Well, ther
+How come y	Well, ther
+How come y	Well, ther
+How come y	Well, ther
+Wait a sec	I told you
+Wait a sec	I told you
+Wait a sec	I told you
+Wait a sec	I told you
+No, you di	I thought 
+No, you di	I thought 
+No, you di	I thought 
+No, you di	I thought 
+Ha.	Theres no 
+Ha.	Theres no 
+Ha.	Theres no 
+Ha.	Theres no 

@@ -1,0 +1,4002 @@
+{' ': 0, '!': 1, "'": 2, ',': 3, '.': 4, '?': 5, 'A': 6, 'B': 7, 'C': 8, 'D': 9, 'E': 10, 'F': 11, 'G': 12, 'H': 13, 'I': 14, 'J': 15, 'K': 16, 'L': 17, 'M': 18, 'N': 19, 'O': 20, 'P': 21, 'Q': 22, 'R': 23, 'S': 24, 'T': 25, 'U': 26, 'V': 27, 'W': 28, 'Y': 29, 'a': 30, 'b': 31, 'c': 32, 'd': 33, 'e': 34, 'f': 35, 'g': 36, 'h': 37, 'i': 38, 'j': 39, 'k': 40, 'l': 41, 'm': 42, 'n': 43, 'o': 44, 'p': 45, 'q': 46, 'r': 47, 's': 48, 't': 49, 'u': 50, 'v': 51, 'w': 52, 'x': 53, 'y': 54, 'z': 55}
+{'\t': 0, '\n': 1, ' ': 2, '!': 3, '"': 4, ',': 5, '.': 6, '?': 7, 'A': 8, 'B': 9, 'C': 10, 'D': 11, 'E': 12, 'F': 13, 'G': 14, 'H': 15, 'I': 16, 'J': 17, 'K': 18, 'L': 19, 'M': 20, 'N': 21, 'O': 22, 'P': 23, 'Q': 24, 'R': 25, 'S': 26, 'T': 27, 'U': 28, 'V': 29, 'W': 30, 'Y': 31, 'a': 32, 'b': 33, 'c': 34, 'd': 35, 'e': 36, 'f': 37, 'g': 38, 'h': 39, 'i': 40, 'j': 41, 'k': 42, 'l': 43, 'm': 44, 'n': 45, 'o': 46, 'p': 47, 'q': 48, 'r': 49, 's': 50, 't': 51, 'u': 52, 'v': 53, 'w': 54, 'x': 55, 'y': 56, 'z': 57}
+Do you know what thi	See, to me, that but
+Do you know what thi	See, to me, that but
+Do you know what thi	See, to me, that but
+Do you know what thi	See, to me, that but
+Are you through?	You do of course try
+Are you through?	You do of course try
+Are you through?	You do of course try
+Are you through?	You do of course try
+Yes, it was purple, 	Oh, you dont recall?
+Yes, it was purple, 	Oh, you dont recall?
+Yes, it was purple, 	Oh, you dont recall?
+Yes, it was purple, 	Oh, you dont recall?
+Uh, no, not at this 	Well, senator, Id ju
+Uh, no, not at this 	Well, senator, Id ju
+Uh, no, not at this 	Well, senator, Id ju
+Uh, no, not at this 	Well, senator, Id ju
+Its missing, I have 	Can you relax, its a
+Its missing, I have 	Can you relax, its a
+Its missing, I have 	Can you relax, its a
+Its missing, I have 	Can you relax, its a
+How come youre not d	Well, theres this uh
+How come youre not d	Well, theres this uh
+How come youre not d	Well, theres this uh
+How come youre not d	Well, theres this uh
+Wait a second, wait 	I told you about Lau
+Wait a second, wait 	I told you about Lau
+Wait a second, wait 	I told you about Lau
+Wait a second, wait 	I told you about Lau
+No, you didnt!	I thought I told you
+No, you didnt!	I thought I told you
+No, you didnt!	I thought I told you
+No, you didnt!	I thought I told you
+Ha.	Theres no milk in he
+Ha.	Theres no milk in he
+Ha.	Theres no milk in he
+Ha.	Theres no milk in he
+Wait wait wait, what	Oh, shes really grea
+Wait wait wait, what	Oh, shes really grea
+Wait wait wait, what	Oh, shes really grea
+Wait wait wait, what	Oh, shes really grea
+So, you know, what, 	Oh, nothing happened
+So, you know, what, 	Oh, nothing happened
+So, you know, what, 	Oh, nothing happened
+So, you know, what, 	Oh, nothing happened
+Oh, nothing happened	Yeah.
+Oh, nothing happened	Yeah.
+Oh, nothing happened	Yeah.
+Oh, nothing happened	Yeah.
+This is great!	Yeah.
+This is great!	Yeah.
+This is great!	Yeah.
+This is great!	Yeah.
+So, you know, she ca	Yeah, well.
+So, you know, she ca	Yeah, well.
+So, you know, she ca	Yeah, well.
+So, you know, she ca	Yeah, well.
+Ho ho ho, Had to?	Yeah, but.
+Ho ho ho, Had to?	Yeah, but.
+Ho ho ho, Had to?	Yeah, but.
+Ho ho ho, Had to?	Yeah, but.
+Had to come in and m	Yeah!
+Had to come in and m	Yeah!
+Had to come in and m	Yeah!
+Had to come in and m	Yeah!
+No.	What, are you seriou
+No.	What, are you seriou
+No.	What, are you seriou
+No.	What, are you seriou
+How do I know, maybe	To be polite?
+How do I know, maybe	To be polite?
+How do I know, maybe	To be polite?
+How do I know, maybe	To be polite?
+All right, all right	Yes!
+All right, all right	Yes!
+All right, all right	Yes!
+All right, all right	Yes!
+Youre a backup, your	Oh, I get it, this i
+Youre a backup, your	Oh, I get it, this i
+Youre a backup, your	Oh, I get it, this i
+Youre a backup, your	Oh, I get it, this i
+She says she has to 	Oh you are beautiful
+She says she has to 	Oh you are beautiful
+She says she has to 	Oh you are beautiful
+She says she has to 	Oh you are beautiful
+To be polite.	Good.
+To be polite.	Good.
+To be polite.	Good.
+To be polite.	Good.
+Im not gonna watch y	Oh, come on, be a co
+Im not gonna watch y	Oh, come on, be a co
+Im not gonna watch y	Oh, come on, be a co
+Im not gonna watch y	Oh, come on, be a co
+Jerry?	Well, look at this g
+Jerry?	Well, look at this g
+Jerry?	Well, look at this g
+Jerry?	Well, look at this g
+I need a break, Jerr	And you didnt even h
+I need a break, Jerr	And you didnt even h
+I need a break, Jerr	And you didnt even h
+I need a break, Jerr	And you didnt even h
+What?	Laura.
+What?	Laura.
+What?	Laura.
+What?	Laura.
+I cant believe  WE A	Yeah, but how could 
+I cant believe  WE A	Yeah, but how could 
+I cant believe  WE A	Yeah, but how could 
+I cant believe  WE A	Yeah, but how could 
+Cause its signals, J	No.
+Cause its signals, J	No.
+Cause its signals, J	No.
+Cause its signals, J	No.
+She calls you today 	Yeah.
+She calls you today 	Yeah.
+She calls you today 	Yeah.
+She calls you today 	Yeah.
+What is that?	Maybe youre right.
+What is that?	Maybe youre right.
+What is that?	Maybe youre right.
+What is that?	Maybe youre right.
+Maybe Im right?	This is insane.
+Maybe Im right?	This is insane.
+Maybe Im right?	This is insane.
+Maybe Im right?	This is insane.
+I know, I know.	No no no, dont inter
+I know, I know.	No no no, dont inter
+I know, I know.	No no no, dont inter
+I know, I know.	No no no, dont inter
+Youre gonna overdry 	You, you cant overdr
+Youre gonna overdry 	You, you cant overdr
+Youre gonna overdry 	You, you cant overdr
+Youre gonna overdry 	You, you cant overdr
+Why not?	Same as you cant ove
+Why not?	Same as you cant ove
+Why not?	Same as you cant ove
+Why not?	Same as you cant ove
+Any questions?	How could she not te
+Any questions?	How could she not te
+Any questions?	How could she not te
+Any questions?	How could she not te
+Look at that.	Laundry day is the o
+Look at that.	Laundry day is the o
+Look at that.	Laundry day is the o
+Look at that.	Laundry day is the o
+Laundry day is the o	If you know what hap
+Laundry day is the o	If you know what hap
+Laundry day is the o	If you know what hap
+Laundry day is the o	If you know what hap
+If you know what hap	Yeah?
+If you know what hap	Yeah?
+If you know what hap	Yeah?
+If you know what hap	Yeah?
+Are you up?	Yeah.
+Are you up?	Yeah.
+Are you up?	Yeah.
+Are you up?	Yeah.
+Boy, the Mets blew i	Ohhhh, what are you 
+Boy, the Mets blew i	Ohhhh, what are you 
+Boy, the Mets blew i	Ohhhh, what are you 
+Boy, the Mets blew i	Ohhhh, what are you 
+Hey, Im sorry, I you	Meat?
+Hey, Im sorry, I you	Meat?
+Hey, Im sorry, I you	Meat?
+Hey, Im sorry, I you	Meat?
+You know, I almost w	Yeah you almost went
+You know, I almost w	Yeah you almost went
+You know, I almost w	Yeah you almost went
+You know, I almost w	Yeah you almost went
+Yeah.	No.
+Yeah.	No.
+Yeah.	No.
+Yeah.	No.
+When youre done, let	Yeah, yeah.
+When youre done, let	Yeah, yeah.
+When youre done, let	Yeah, yeah.
+When youre done, let	Yeah, yeah.
+I thought I wasnt al	No, its okay now, th
+I thought I wasnt al	No, its okay now, th
+I thought I wasnt al	No, its okay now, th
+I thought I wasnt al	No, its okay now, th
+You want me to talk 	I dont think so.
+You want me to talk 	I dont think so.
+You want me to talk 	I dont think so.
+You want me to talk 	I dont think so.
+Oh, I can be very pe	That close, huh?
+Oh, I can be very pe	That close, huh?
+Oh, I can be very pe	That close, huh?
+Oh, I can be very pe	That close, huh?
+You better believe i	Hello.
+You better believe i	Hello.
+You better believe i	Hello.
+You better believe i	Hello.
+Oh, give me it.	No believe me, Im al
+Oh, give me it.	No believe me, Im al
+Oh, give me it.	No believe me, Im al
+Oh, give me it.	No believe me, Im al
+SLIDE!	No, its, its just my
+SLIDE!	No, its, its just my
+SLIDE!	No, its, its just my
+SLIDE!	No, its, its just my
+No, its, its just my	If my father was mov
+No, its, its just my	If my father was mov
+No, its, its just my	If my father was mov
+No, its, its just my	If my father was mov
+You know, I cant bel	Look, its a very awk
+You know, I cant bel	Look, its a very awk
+You know, I cant bel	Look, its a very awk
+You know, I cant bel	Look, its a very awk
+All right, all right	All right, she said 
+All right, all right	All right, she said 
+All right, all right	All right, she said 
+All right, all right	All right, she said 
+A decent hotelroom.	Yeah, a decent hotel
+A decent hotelroom.	Yeah, a decent hotel
+A decent hotelroom.	Yeah, a decent hotel
+A decent hotelroom.	Yeah, a decent hotel
+You cant be serious.	This is the signal?
+You cant be serious.	This is the signal?
+You cant be serious.	This is the signal?
+You cant be serious.	This is the signal?
+Oh, hes gettin a dri	Yeah.
+Oh, hes gettin a dri	Yeah.
+Oh, hes gettin a dri	Yeah.
+Oh, hes gettin a dri	Yeah.
+Why even give her an	This is a person I l
+Why even give her an	This is a person I l
+Why even give her an	This is a person I l
+Why even give her an	This is a person I l
+Right, can we go?	Yeah, okay.
+Right, can we go?	Yeah, okay.
+Right, can we go?	Yeah, okay.
+Right, can we go?	Yeah, okay.
+So what?	Now, how could that 
+So what?	Now, how could that 
+So what?	Now, how could that 
+So what?	Now, how could that 
+Because filth is goo	This is how you oper
+Because filth is goo	This is how you oper
+Because filth is goo	This is how you oper
+Because filth is goo	This is how you oper
+Yeah, I wish.	Let me just wipe the
+Yeah, I wish.	Let me just wipe the
+Yeah, I wish.	Let me just wipe the
+Yeah, I wish.	Let me just wipe the
+Im aware of you.	The dating world is 
+Im aware of you.	The dating world is 
+Im aware of you.	The dating world is 
+Im aware of you.	The dating world is 
+The dating world is 	Wouldnt it be great 
+The dating world is 	Wouldnt it be great 
+The dating world is 	Wouldnt it be great 
+The dating world is 	Wouldnt it be great 
+What a world that wo	You know, instead, I
+What a world that wo	You know, instead, I
+What a world that wo	You know, instead, I
+What a world that wo	You know, instead, I
+Listen, listen, dont	Really?
+Listen, listen, dont	Really?
+Listen, listen, dont	Really?
+Listen, listen, dont	Really?
+Cause its all in the	Uhhuh.
+Cause its all in the	Uhhuh.
+Cause its all in the	Uhhuh.
+Cause its all in the	Uhhuh.
+All right, if she pu	Right.
+All right, if she pu	Right.
+All right, if she pu	Right.
+All right, if she pu	Right.
+You know, anything i	Lip area.
+You know, anything i	Lip area.
+You know, anything i	Lip area.
+You know, anything i	Lip area.
+You know a hug defin	Hug is definitely go
+You know a hug defin	Hug is definitely go
+You know a hug defin	Hug is definitely go
+You know a hug defin	Hug is definitely go
+Sure.	Although what if its
+Sure.	Although what if its
+Sure.	Although what if its
+Sure.	Although what if its
+Thats so brutal, I h	You know how they do
+Thats so brutal, I h	You know how they do
+Thats so brutal, I h	You know how they do
+Thats so brutal, I h	You know how they do
+Thats why, you know,	Shake is bad, but wh
+Thats why, you know,	Shake is bad, but wh
+Thats why, you know,	Shake is bad, but wh
+Thats why, you know,	Shake is bad, but wh
+Hand sandwich.	Right.
+Hand sandwich.	Right.
+Hand sandwich.	Right.
+Hand sandwich.	Right.
+Guess who?	Hey, hey.
+Guess who?	Hey, hey.
+Guess who?	Hey, hey.
+Guess who?	Hey, hey.
+Heeeey!	Its good to see you.
+Heeeey!	Its good to see you.
+Heeeey!	Its good to see you.
+Heeeey!	Its good to see you.
+Hi.	This is my friend Ge
+Hi.	This is my friend Ge
+Hi.	This is my friend Ge
+Hi.	This is my friend Ge
+Hi, how are you?	This is Laura.
+Hi, how are you?	This is Laura.
+Hi, how are you?	This is Laura.
+Hi, how are you?	This is Laura.
+Laura, sure.	I cant believe youre
+Laura, sure.	I cant believe youre
+Laura, sure.	I cant believe youre
+Laura, sure.	I cant believe youre
+Oh, thank you.	Now that was an inte
+Oh, thank you.	Now that was an inte
+Oh, thank you.	Now that was an inte
+Oh, thank you.	Now that was an inte
+Yes, the surprise bl	So uh, what do you t
+Yes, the surprise bl	So uh, what do you t
+Yes, the surprise bl	So uh, what do you t
+Yes, the surprise bl	So uh, what do you t
+Ooohhh, wow!	Yeah, it kind a moti
+Ooohhh, wow!	Yeah, it kind a moti
+Ooohhh, wow!	Yeah, it kind a moti
+Ooohhh, wow!	Yeah, it kind a moti
+Actually, um, do you	Uh, yeah, I think I 
+Actually, um, do you	Uh, yeah, I think I 
+Actually, um, do you	Uh, yeah, I think I 
+Actually, um, do you	Uh, yeah, I think I 
+Oh, do you mind if I	Uh, no, yeah, go rig
+Oh, do you mind if I	Uh, no, yeah, go rig
+Oh, do you mind if I	Uh, no, yeah, go rig
+Oh, do you mind if I	Uh, no, yeah, go rig
+Uh, Jerry, uh, I was	Uh, yeah, yeah, sure
+Uh, Jerry, uh, I was	Uh, yeah, yeah, sure
+Uh, Jerry, uh, I was	Uh, yeah, yeah, sure
+Uh, Jerry, uh, I was	Uh, yeah, yeah, sure
+No, Id love to do so	Really?
+No, Id love to do so	Really?
+No, Id love to do so	Really?
+No, Id love to do so	Really?
+Well.	Yeah, we could do th
+Well.	Yeah, we could do th
+Well.	Yeah, we could do th
+Well.	Yeah, we could do th
+Yeah, we could do th	Yeah, hello.
+Yeah, we could do th	Yeah, hello.
+Yeah, we could do th	Yeah, hello.
+Yeah, we could do th	Yeah, hello.
+Hello?	Youre engaged?
+Hello?	Youre engaged?
+Hello?	Youre engaged?
+Hello?	Youre engaged?
+You, you really have	Youre engaged?
+You, you really have	Youre engaged?
+You, you really have	Youre engaged?
+You, you really have	Youre engaged?
+You know, I cant bel	Youre engaged.
+You know, I cant bel	Youre engaged.
+You know, I cant bel	Youre engaged.
+You know, I cant bel	Youre engaged.
+Yeah, yeah, hes a gr	Yeah.
+Yeah, yeah, hes a gr	Yeah.
+Yeah, yeah, hes a gr	Yeah.
+Yeah, yeah, hes a gr	Yeah.
+Youd really like him	Me too!
+Youd really like him	Me too!
+Youd really like him	Me too!
+Youd really like him	Me too!
+Me too!	I swear, I have abso
+Me too!	I swear, I have abso
+Me too!	I swear, I have abso
+Me too!	I swear, I have abso
+I swear, I have abso	So, Im on line at th
+I swear, I have abso	So, Im on line at th
+I swear, I have abso	So, Im on line at th
+I swear, I have abso	So, Im on line at th
+Cheque.	Cheque.
+Cheque.	Cheque.
+Cheque.	Cheque.
+Cheque.	Cheque.
+Cheque.	Whats that one?
+Cheque.	Whats that one?
+Cheque.	Whats that one?
+Cheque.	Whats that one?
+Coccoon II The Retur	Maybe they came back
+Coccoon II The Retur	Maybe they came back
+Coccoon II The Retur	Maybe they came back
+Coccoon II The Retur	Maybe they came back
+Okay, whatre we doin	Oh yeah?
+Okay, whatre we doin	Oh yeah?
+Okay, whatre we doin	Oh yeah?
+Okay, whatre we doin	Oh yeah?
+Oh, lovely.	Yeah.
+Oh, lovely.	Yeah.
+Oh, lovely.	Yeah.
+Oh, lovely.	Yeah.
+What do you think th	So, uh, whats your s
+What do you think th	So, uh, whats your s
+What do you think th	So, uh, whats your s
+What do you think th	So, uh, whats your s
+Yknow what?	Pamela?
+Yknow what?	Pamela?
+Yknow what?	Pamela?
+Yknow what?	Pamela?
+Yeah, you met her wh	Oh yeah, right.
+Yeah, you met her wh	Oh yeah, right.
+Yeah, you met her wh	Oh yeah, right.
+Yeah, you met her wh	Oh yeah, right.
+You have no idea who	No.
+You have no idea who	No.
+You have no idea who	No.
+You have no idea who	No.
+Blonde hair, remembe	Riverside Drive.
+Blonde hair, remembe	Riverside Drive.
+Blonde hair, remembe	Riverside Drive.
+Blonde hair, remembe	Riverside Drive.
+Right!	Well, what is it?
+Right!	Well, what is it?
+Right!	Well, what is it?
+Right!	Well, what is it?
+Well, a bunch of peo	Wait a second, wait 
+Well, a bunch of peo	Wait a second, wait 
+Well, a bunch of peo	Wait a second, wait 
+Well, a bunch of peo	Wait a second, wait 
+What little deal?	I will go to that, i
+What little deal?	I will go to that, i
+What little deal?	I will go to that, i
+What little deal?	I will go to that, i
+A wedding?	Yknow, my parents ar
+A wedding?	Yknow, my parents ar
+A wedding?	Yknow, my parents ar
+A wedding?	Yknow, my parents ar
+Theyre coming in?	Yeah, tomorrow.
+Theyre coming in?	Yeah, tomorrow.
+Theyre coming in?	Yeah, tomorrow.
+Theyre coming in?	Yeah, tomorrow.
+Hey, did your father	No, no.
+Hey, did your father	No, no.
+Hey, did your father	No, no.
+Hey, did your father	No, no.
+Why does he do that?	Doesnt think anyone 
+Why does he do that?	Doesnt think anyone 
+Why does he do that?	Doesnt think anyone 
+Why does he do that?	Doesnt think anyone 
+A wedding?	Theres a lot of peop
+A wedding?	Theres a lot of peop
+A wedding?	Theres a lot of peop
+A wedding?	Theres a lot of peop
+All right, what the 	Great!
+All right, what the 	Great!
+All right, what the 	Great!
+All right, what the 	Great!
+Cmon lets go.	Was I supposed to br
+Cmon lets go.	Was I supposed to br
+Cmon lets go.	Was I supposed to br
+Cmon lets go.	Was I supposed to br
+You could have.	I met her one time.
+You could have.	I met her one time.
+You could have.	I met her one time.
+You could have.	I met her one time.
+It is not necessary.	What did you say the
+It is not necessary.	What did you say the
+It is not necessary.	What did you say the
+It is not necessary.	What did you say the
+Yes, we met.	Hi, happy birthday.
+Yes, we met.	Hi, happy birthday.
+Yes, we met.	Hi, happy birthday.
+Yes, we met.	Hi, happy birthday.
+Hi	I didnt bring anythi
+Hi	I didnt bring anythi
+Hi	I didnt bring anythi
+Hi	I didnt bring anythi
+Uh, I put you two ri	Oh, Okay  Im sorry, 
+Uh, I put you two ri	Oh, Okay  Im sorry, 
+Uh, I put you two ri	Oh, Okay  Im sorry, 
+Uh, I put you two ri	Oh, Okay  Im sorry, 
+How big a tip do you	Im in for five.
+How big a tip do you	Im in for five.
+How big a tip do you	Im in for five.
+How big a tip do you	Im in for five.
+Ill supply the hat.	Uhoh.
+Ill supply the hat.	Uhoh.
+Ill supply the hat.	Uhoh.
+Ill supply the hat.	Uhoh.
+Why dont you relax a	Oh, I cant.
+Why dont you relax a	Oh, I cant.
+Why dont you relax a	Oh, I cant.
+Why dont you relax a	Oh, I cant.
+How masculine.	Plus Im wearing shor
+How masculine.	Plus Im wearing shor
+How masculine.	Plus Im wearing shor
+How masculine.	Plus Im wearing shor
+Oh, you know Bricker	Whats going on here?
+Oh, you know Bricker	Whats going on here?
+Oh, you know Bricker	Whats going on here?
+Oh, you know Bricker	Whats going on here?
+How do you know Pame	Uh, friend of a frie
+How do you know Pame	Uh, friend of a frie
+How do you know Pame	Uh, friend of a frie
+How do you know Pame	Uh, friend of a frie
+Oh, Jerry!	Oh no, not now.
+Oh, Jerry!	Oh no, not now.
+Oh, Jerry!	Oh no, not now.
+Oh, Jerry!	Oh no, not now.
+I had this dream las	Oh really?
+I had this dream las	Oh really?
+I had this dream las	Oh really?
+I had this dream las	Oh really?
+You were you, but, y	No kidding.
+You were you, but, y	No kidding.
+You were you, but, y	No kidding.
+You were you, but, y	No kidding.
+I think, I think we 	This is brutal.
+I think, I think we 	This is brutal.
+I think, I think we 	This is brutal.
+I think, I think we 	This is brutal.
+You turned around an	How do you like that
+You turned around an	How do you like that
+You turned around an	How do you like that
+You turned around an	How do you like that
+Jerry?	Yes, I heard you.
+Jerry?	Yes, I heard you.
+Jerry?	Yes, I heard you.
+Jerry?	Yes, I heard you.
+Elaine, whats the na	Thank you, Pamela!
+Elaine, whats the na	Thank you, Pamela!
+Elaine, whats the na	Thank you, Pamela!
+Elaine, whats the na	Thank you, Pamela!
+Sagman, Bennet, Robb	Sagman, Bennet, Robb
+Sagman, Bennet, Robb	Sagman, Bennet, Robb
+Sagman, Bennet, Robb	Sagman, Bennet, Robb
+Sagman, Bennet, Robb	Sagman, Bennet, Robb
+Oh, that was you?	Imagine, spelling Mo
+Oh, that was you?	Imagine, spelling Mo
+Oh, that was you?	Imagine, spelling Mo
+Oh, that was you?	Imagine, spelling Mo
+Very funny!	Comedian.
+Very funny!	Comedian.
+Very funny!	Comedian.
+Very funny!	Comedian.
+Really?	Sagman, Bennet, Robb
+Really?	Sagman, Bennet, Robb
+Really?	Sagman, Bennet, Robb
+Really?	Sagman, Bennet, Robb
+We gotta run.	I cant believe it.
+We gotta run.	I cant believe it.
+We gotta run.	I cant believe it.
+We gotta run.	I cant believe it.
+I cant believe it.	That wasnt so bad, r
+I cant believe it.	That wasnt so bad, r
+I cant believe it.	That wasnt so bad, r
+I cant believe it.	That wasnt so bad, r
+Yknow, um, you could	Why?
+Yknow, um, you could	Why?
+Yknow, um, you could	Why?
+Yknow, um, you could	Why?
+WelWell, I just dont	I was listening!
+WelWell, I just dont	I was listening!
+WelWell, I just dont	I was listening!
+WelWell, I just dont	I was listening!
+No!	No, you were talking
+No!	No, you were talking
+No!	No, you were talking
+No!	No, you were talking
+Uhhuh.	Where you had, uh, w
+Uhhuh.	Where you had, uh, w
+Uhhuh.	Where you had, uh, w
+Uhhuh.	Where you had, uh, w
+No!	All right, so I had 
+No!	All right, so I had 
+No!	All right, so I had 
+No!	All right, so I had 
+So nothing!	Apparently Plato, wh
+So nothing!	Apparently Plato, wh
+So nothing!	Apparently Plato, wh
+So nothing!	Apparently Plato, wh
+Apparently Plato, wh	Hey!
+Apparently Plato, wh	Hey!
+Apparently Plato, wh	Hey!
+Apparently Plato, wh	Hey!
+Ah, there he is!	This is what I like,
+Ah, there he is!	This is what I like,
+Ah, there he is!	This is what I like,
+Ah, there he is!	This is what I like,
+Yknow, Jerry, we don	What are you talkin 
+Yknow, Jerry, we don	What are you talkin 
+Yknow, Jerry, we don	What are you talkin 
+Yknow, Jerry, we don	What are you talkin 
+Tomorrow well go to 	Ma, will you stop?
+Tomorrow well go to 	Ma, will you stop?
+Tomorrow well go to 	Ma, will you stop?
+Tomorrow well go to 	Ma, will you stop?
+No, why should we ta	I dont care.
+No, why should we ta	I dont care.
+No, why should we ta	I dont care.
+No, why should we ta	I dont care.
+Your friend Kramer d	No, hes making a bou
+Your friend Kramer d	No, hes making a bou
+Your friend Kramer d	No, hes making a bou
+Your friend Kramer d	No, hes making a bou
+No, hes making a bou	So, dad, lemme ask y
+No, hes making a bou	So, dad, lemme ask y
+No, hes making a bou	So, dad, lemme ask y
+No, hes making a bou	So, dad, lemme ask y
+Depends on the firm.	Yeah, but if you cal
+Depends on the firm.	Yeah, but if you cal
+Depends on the firm.	Yeah, but if you cal
+Depends on the firm.	Yeah, but if you cal
+Whats the matter?	No, I met someone at
+Whats the matter?	No, I met someone at
+Whats the matter?	No, I met someone at
+Whats the matter?	No, I met someone at
+So why dont you ask 	Nah, the only one I 
+So why dont you ask 	Nah, the only one I 
+So why dont you ask 	Nah, the only one I 
+So why dont you ask 	Nah, the only one I 
+Why not?	Because its complica
+Why not?	Because its complica
+Why not?	Because its complica
+Why not?	Because its complica
+Oh yeah, very alert.	Oh yeah, shes great.
+Oh yeah, very alert.	Oh yeah, shes great.
+Oh yeah, very alert.	Oh yeah, shes great.
+Oh yeah, very alert.	Oh yeah, shes great.
+So, how come nothing	Well, its a tough th
+So, how come nothing	Well, its a tough th
+So, how come nothing	Well, its a tough th
+So, how come nothing	Well, its a tough th
+I know what it was.	You dont know what i
+I know what it was.	You dont know what i
+I know what it was.	You dont know what i
+I know what it was.	You dont know what i
+So, what was it?	Well, we fight a lot
+So, what was it?	Well, we fight a lot
+So, what was it?	Well, we fight a lot
+So, what was it?	Well, we fight a lot
+Oh, well.	And there was a litt
+Oh, well.	And there was a litt
+Oh, well.	And there was a litt
+Oh, well.	And there was a litt
+Well, I think shes a	Oh, she is, she abso
+Well, I think shes a	Oh, she is, she abso
+Well, I think shes a	Oh, she is, she abso
+Well, I think shes a	Oh, she is, she abso
+I can see if there w	No, its not that.
+I can see if there w	No, its not that.
+I can see if there w	No, its not that.
+I can see if there w	No, its not that.
+You know, you cant b	I know, I know.
+You know, you cant b	I know, I know.
+You know, you cant b	I know, I know.
+You know, you cant b	I know, I know.
+Idiot.	Thats got nothin to 
+Idiot.	Thats got nothin to 
+Idiot.	Thats got nothin to 
+Idiot.	Thats got nothin to 
+I like Elaine more t	What are you two tal
+I like Elaine more t	What are you two tal
+I like Elaine more t	What are you two tal
+I like Elaine more t	What are you two tal
+And this other ones 	I dunno, maybe.
+And this other ones 	I dunno, maybe.
+And this other ones 	I dunno, maybe.
+And this other ones 	I dunno, maybe.
+So ask Elaine there 	I cant.
+So ask Elaine there 	I cant.
+So ask Elaine there 	I cant.
+So ask Elaine there 	I cant.
+How could you still 	Were friends.
+How could you still 	Were friends.
+How could you still 	Were friends.
+How could you still 	Were friends.
+Doesnt sound like yo	Oh yeah.
+Doesnt sound like yo	Oh yeah.
+Doesnt sound like yo	Oh yeah.
+Doesnt sound like yo	Oh yeah.
+Go to the building.	I guess.
+Go to the building.	I guess.
+Go to the building.	I guess.
+Go to the building.	I guess.
+So, you stand in the	You mean stakeout th
+So, you stand in the	You mean stakeout th
+So, you stand in the	You mean stakeout th
+So, you stand in the	You mean stakeout th
+He pretends he bumpe	Yknow what?
+He pretends he bumpe	Yknow what?
+He pretends he bumpe	Yknow what?
+He pretends he bumpe	Yknow what?
+What does she look l	I dunno.
+What does she look l	I dunno.
+What does she look l	I dunno.
+What does she look l	I dunno.
+What actress does sh	Loni Anderson.
+What actress does sh	Loni Anderson.
+What actress does sh	Loni Anderson.
+What actress does sh	Loni Anderson.
+Loni Anderson?	What, theres somethi
+Loni Anderson?	What, theres somethi
+Loni Anderson?	What, theres somethi
+Loni Anderson?	What, theres somethi
+Yeah, sure.	Im a little nervous.
+Yeah, sure.	Im a little nervous.
+Yeah, sure.	Im a little nervous.
+Yeah, sure.	Im a little nervous.
+Yeah, me too.	If I see her, what d
+Yeah, me too.	If I see her, what d
+Yeah, me too.	If I see her, what d
+Yeah, me too.	If I see her, what d
+You came to see me.	What do you do?
+You came to see me.	What do you do?
+You came to see me.	What do you do?
+You came to see me.	What do you do?
+Im an architect.	Youre an architect?
+Im an architect.	Youre an architect?
+Im an architect.	Youre an architect?
+Im an architect.	Youre an architect?
+Im not?	I dont see architect
+Im not?	I dont see architect
+Im not?	I dont see architect
+Im not?	I dont see architect
+I suppose you could 	I never said that I 
+I suppose you could 	I never said that I 
+I suppose you could 	I never said that I 
+I suppose you could 	I never said that I 
+All right, shes not 	Well whaddaya want m
+All right, shes not 	Well whaddaya want m
+All right, shes not 	Well whaddaya want m
+All right, shes not 	Well whaddaya want m
+Were having lunch wi	What is his name?
+Were having lunch wi	What is his name?
+Were having lunch wi	What is his name?
+Were having lunch wi	What is his name?
+Bert.	Bert Harbinson?
+Bert.	Bert Harbinson?
+Bert.	Bert Harbinson?
+Bert.	Bert Harbinson?
+No good?	Art Cor.
+No good?	Art Cor.
+No good?	Art Cor.
+No good?	Art Cor.
+.	Corvelay?
+.	Corvelay?
+.	Corvelay?
+.	Corvelay?
+Yeah, right.	Well, what does he d
+Yeah, right.	Well, what does he d
+Yeah, right.	Well, what does he d
+Yeah, right.	Well, what does he d
+Hes an importer.	Just imports, no exp
+Hes an importer.	Just imports, no exp
+Hes an importer.	Just imports, no exp
+Hes an importer.	Just imports, no exp
+Hes an importerexpor	No, I guess shes sti
+Hes an importerexpor	No, I guess shes sti
+Hes an importerexpor	No, I guess shes sti
+Hes an importerexpor	No, I guess shes sti
+I dont understand, y	Never.
+I dont understand, y	Never.
+I dont understand, y	Never.
+I dont understand, y	Never.
+I forgot who I am!	Youre you.
+I forgot who I am!	Youre you.
+I forgot who I am!	Youre you.
+I forgot who I am!	Youre you.
+Vandelay!	Corvelay!
+Vandelay!	Corvelay!
+Vandelay!	Corvelay!
+Vandelay!	Corvelay!
+Let me be the archit	Hey, hey.
+Let me be the archit	Hey, hey.
+Let me be the archit	Hey, hey.
+Let me be the archit	Hey, hey.
+Sure!	Uh, this is George.
+Sure!	Uh, this is George.
+Sure!	Uh, this is George.
+Sure!	Uh, this is George.
+Nice to meet you.	Ah, Sagman, Bennet, 
+Nice to meet you.	Ah, Sagman, Bennet, 
+Nice to meet you.	Ah, Sagman, Bennet, 
+Nice to meet you.	Ah, Sagman, Bennet, 
+Thats right!	Oh, were meeting a f
+Thats right!	Oh, were meeting a f
+Thats right!	Oh, were meeting a f
+Thats right!	Oh, were meeting a f
+.	Hes an importerexpor
+.	Hes an importerexpor
+.	Hes an importerexpor
+.	Hes an importerexpor
+They can.	Yknow Im sorry you h
+They can.	Yknow Im sorry you h
+They can.	Yknow Im sorry you h
+They can.	Yknow Im sorry you h
+Oh, me too.	Oh, that guy was you
+Oh, me too.	Oh, that guy was you
+Oh, me too.	Oh, that guy was you
+Oh, me too.	Oh, that guy was you
+Yeah, and that woman	Friend!
+Yeah, and that woman	Friend!
+Yeah, and that woman	Friend!
+Yeah, and that woman	Friend!
+Ill just, uh, get a 	So, um, do you date 
+Ill just, uh, get a 	So, um, do you date 
+Ill just, uh, get a 	So, um, do you date 
+Ill just, uh, get a 	So, um, do you date 
+Bum bum bum bum.	Ma, will you go alre
+Bum bum bum bum.	Ma, will you go alre
+Bum bum bum bum.	Ma, will you go alre
+Bum bum bum bum.	Ma, will you go alre
+Bum bum bum bum.	What are you doing?
+Bum bum bum bum.	What are you doing?
+Bum bum bum bum.	What are you doing?
+Bum bum bum bum.	What are you doing?
+Wait, I just want to	You cant look in the
+Wait, I just want to	You cant look in the
+Wait, I just want to	You cant look in the
+Wait, I just want to	You cant look in the
+Hi.	Hi.
+Hi.	Hi.
+Hi.	Hi.
+Hi.	Hi.
+Hey Morty!	Look.
+Hey Morty!	Look.
+Hey Morty!	Look.
+Hey Morty!	Look.
+Quo.	Maybe!
+Quo.	Maybe!
+Quo.	Maybe!
+Quo.	Maybe!
+Will you challenge i	Ma, you cant look up
+Will you challenge i	Ma, you cant look up
+Will you challenge i	Ma, you cant look up
+Will you challenge i	Ma, you cant look up
+Youre such a stickle	Well put something d
+Youre such a stickle	Well put something d
+Youre such a stickle	Well put something d
+Youre such a stickle	Well put something d
+Theyll be here at tw	She said what?
+Theyll be here at tw	She said what?
+Theyll be here at tw	She said what?
+Theyll be here at tw	She said what?
+Just what I said, he	She knows!
+Just what I said, he	She knows!
+Just what I said, he	She knows!
+Just what I said, he	She knows!
+She knows what?	She knows the whole 
+She knows what?	She knows the whole 
+She knows what?	She knows the whole 
+She knows what?	She knows the whole 
+So, how did she find	Because, Vanessa pro
+So, how did she find	Because, Vanessa pro
+So, how did she find	Because, Vanessa pro
+So, how did she find	Because, Vanessa pro
+So, what are you?	Yes.
+So, what are you?	Yes.
+So, what are you?	Yes.
+So, what are you?	Yes.
+Whatever I wrote dow	Yeah, but what was t
+Whatever I wrote dow	Yeah, but what was t
+Whatever I wrote dow	Yeah, but what was t
+Whatever I wrote dow	Yeah, but what was t
+Well, she cant be to	Yeah, but now Im ner
+Well, she cant be to	Yeah, but now Im ner
+Well, she cant be to	Yeah, but now Im ner
+Well, she cant be to	Yeah, but now Im ner
+Oh, stop it.	Quone?
+Oh, stop it.	Quone?
+Oh, stop it.	Quone?
+Oh, stop it.	Quone?
+.	Quone?
+.	Quone?
+.	Quone?
+.	Quone?
+No, you dont have to	I am challenging.
+No, you dont have to	I am challenging.
+No, you dont have to	I am challenging.
+No, you dont have to	I am challenging.
+Quone.	Uhhuh.
+Quone.	Uhhuh.
+Quone.	Uhhuh.
+Quone.	Uhhuh.
+Quones not a word.	No good.
+Quones not a word.	No good.
+Quones not a word.	No good.
+Quones not a word.	No good.
+You want some funny 	You must have quite 
+You want some funny 	You must have quite 
+You want some funny 	You must have quite 
+You want some funny 	You must have quite 
+We got plenty of tim	Oh, Im sorry.
+We got plenty of tim	Oh, Im sorry.
+We got plenty of tim	Oh, Im sorry.
+We got plenty of tim	Oh, Im sorry.
+Watch what you say t	Yeah, yeah.
+Watch what you say t	Yeah, yeah.
+Watch what you say t	Yeah, yeah.
+Watch what you say t	Yeah, yeah.
+Jerry, did I tell yo	Yeah, Uncle Mac, you
+Jerry, did I tell yo	Yeah, Uncle Mac, you
+Jerry, did I tell yo	Yeah, Uncle Mac, you
+Jerry, did I tell yo	Yeah, Uncle Mac, you
+Its based on all my 	Thats perfect.
+Its based on all my 	Thats perfect.
+Its based on all my 	Thats perfect.
+Its based on all my 	Thats perfect.
+Thats perfect.	Could you excuse me 
+Thats perfect.	Could you excuse me 
+Thats perfect.	Could you excuse me 
+Thats perfect.	Could you excuse me 
+Could you excuse me 	How do you do?
+Could you excuse me 	How do you do?
+Could you excuse me 	How do you do?
+Could you excuse me 	How do you do?
+Oh, how do you do?	Um, do you want to d
+Oh, how do you do?	Um, do you want to d
+Oh, how do you do?	Um, do you want to d
+Oh, how do you do?	Um, do you want to d
+Oh no, lets do it no	All right, the whole
+Oh no, lets do it no	All right, the whole
+Oh no, lets do it no	All right, the whole
+Oh no, lets do it no	All right, the whole
+Jerry, were you goin	No, Im gonna take my
+Jerry, were you goin	No, Im gonna take my
+Jerry, were you goin	No, Im gonna take my
+Jerry, were you goin	No, Im gonna take my
+Thats why I brought 	Anyway, you know why
+Thats why I brought 	Anyway, you know why
+Thats why I brought 	Anyway, you know why
+Thats why I brought 	Anyway, you know why
+Oh, we didnt meet.	Oh, Im sorry.
+Oh, we didnt meet.	Oh, Im sorry.
+Oh, we didnt meet.	Oh, Im sorry.
+Oh, we didnt meet.	Oh, Im sorry.
+Levine.	Yeah, Levine.
+Levine.	Yeah, Levine.
+Levine.	Yeah, Levine.
+Levine.	Yeah, Levine.
+Yeah, obviously.	I mean, if were gonn
+Yeah, obviously.	I mean, if were gonn
+Yeah, obviously.	I mean, if were gonn
+Yeah, obviously.	I mean, if were gonn
+Couldnt agree more.	Good.
+Couldnt agree more.	Good.
+Couldnt agree more.	Good.
+Couldnt agree more.	Good.
+Good.	Good.
+Good.	Good.
+Good.	Good.
+Good.	Good.
+Great!	Great?
+Great!	Great?
+Great!	Great?
+Great!	Great?
+Its great to.	.
+Its great to.	.
+Its great to.	.
+Its great to.	.
+Yeah.	Uhhuh.
+Yeah.	Uhhuh.
+Yeah.	Uhhuh.
+Yeah.	Uhhuh.
+No.	Oh really?
+No.	Oh really?
+No.	Oh really?
+No.	Oh really?
+What?	No, thats great!
+What?	No, thats great!
+What?	No, thats great!
+What?	No, thats great!
+No, we just met.	Doesnt matter.
+No, we just met.	Doesnt matter.
+No, we just met.	Doesnt matter.
+No, we just met.	Doesnt matter.
+Hmmm, I dont think s	Well, what does he d
+Hmmm, I dont think s	Well, what does he d
+Hmmm, I dont think s	Well, what does he d
+Hmmm, I dont think s	Well, what does he d
+Wall street.	Ah, high finance.
+Wall street.	Ah, high finance.
+Wall street.	Ah, high finance.
+Wall street.	Ah, high finance.
+And he happens to be	All right, sir.
+And he happens to be	All right, sir.
+And he happens to be	All right, sir.
+And he happens to be	All right, sir.
+And.	Now thats not fair!
+And.	Now thats not fair!
+And.	Now thats not fair!
+And.	Now thats not fair!
+I staked out his hea	Uh huh.
+I staked out his hea	Uh huh.
+I staked out his hea	Uh huh.
+I staked out his hea	Uh huh.
+Uh huh.	Yknow I think that e
+Uh huh.	Yknow I think that e
+Uh huh.	Yknow I think that e
+Uh huh.	Yknow I think that e
+Yknow I think that e	So I move into the c
+Yknow I think that e	So I move into the c
+Yknow I think that e	So I move into the c
+Yknow I think that e	So I move into the c
+So I move into the c	Is that it?
+So I move into the c	Is that it?
+So I move into the c	Is that it?
+So I move into the c	Is that it?
+That is the single g	I am.
+That is the single g	I am.
+That is the single g	I am.
+That is the single g	I am.
+Yeah, right, youre t	What you must unders
+Yeah, right, youre t	What you must unders
+Yeah, right, youre t	What you must unders
+Yeah, right, youre t	What you must unders
+Scuse me, master pac	Yes.
+Scuse me, master pac	Yes.
+Scuse me, master pac	Yes.
+Scuse me, master pac	Yes.
+Just gimme your keys	All right, sir.
+Just gimme your keys	All right, sir.
+Just gimme your keys	All right, sir.
+Just gimme your keys	All right, sir.
+Okay, so, now, is th	Uh, yeah, the, uh, h
+Okay, so, now, is th	Uh, yeah, the, uh, h
+Okay, so, now, is th	Uh, yeah, the, uh, h
+Okay, so, now, is th	Uh, yeah, the, uh, h
+Okay, this is quite 	Theres more.
+Okay, this is quite 	Theres more.
+Okay, this is quite 	Theres more.
+Okay, this is quite 	Theres more.
+Theres more.	Deduct a minimum of 
+Theres more.	Deduct a minimum of 
+Theres more.	Deduct a minimum of 
+Theres more.	Deduct a minimum of 
+Ill eat out.	One more thing, Bene
+Ill eat out.	One more thing, Bene
+Ill eat out.	One more thing, Bene
+Ill eat out.	One more thing, Bene
+Ready?	Yeah, one sec.
+Ready?	Yeah, one sec.
+Ready?	Yeah, one sec.
+Ready?	Yeah, one sec.
+Yeah, well.	Im not looking.
+Yeah, well.	Im not looking.
+Yeah, well.	Im not looking.
+Yeah, well.	Im not looking.
+No no no, this ones 	Yeah, whats it like?
+No no no, this ones 	Yeah, whats it like?
+No no no, this ones 	Yeah, whats it like?
+No no no, this ones 	Yeah, whats it like?
+I havent seen it yet	How much?
+I havent seen it yet	How much?
+I havent seen it yet	How much?
+I havent seen it yet	How much?
+Uh, twice what youre	Two bedrooms?
+Uh, twice what youre	Two bedrooms?
+Uh, twice what youre	Two bedrooms?
+Uh, twice what youre	Two bedrooms?
+You oughta at least 	Really?
+You oughta at least 	Really?
+You oughta at least 	Really?
+You oughta at least 	Really?
+Cause then I could m	Ohhhh.
+Cause then I could m	Ohhhh.
+Cause then I could m	Ohhhh.
+Cause then I could m	Ohhhh.
+Jerry, come on, your	Like this?
+Jerry, come on, your	Like this?
+Jerry, come on, your	Like this?
+Jerry, come on, your	Like this?
+Jerry, what do you, 	I cant think about i
+Jerry, what do you, 	I cant think about i
+Jerry, what do you, 	I cant think about i
+Jerry, what do you, 	I cant think about i
+I cant think about i	Elaine.
+I cant think about i	Elaine.
+I cant think about i	Elaine.
+I cant think about i	Elaine.
+JERRY!	Great, I had fun.
+JERRY!	Great, I had fun.
+JERRY!	Great, I had fun.
+JERRY!	Great, I had fun.
+Great, I had fun.	What?
+Great, I had fun.	What?
+Great, I had fun.	What?
+Great, I had fun.	What?
+They were stolen.	Stolen?
+They were stolen.	Stolen?
+They were stolen.	Stolen?
+They were stolen.	Stolen?
+A couple a hours ago	Stolen?
+A couple a hours ago	Stolen?
+A couple a hours ago	Stolen?
+A couple a hours ago	Stolen?
+Someone left the doo	You left the door op
+Someone left the doo	You left the door op
+Someone left the doo	You left the door op
+Someone left the doo	You left the door op
+Uh, Jer, well you kn	Wait, you left the l
+Uh, Jer, well you kn	Wait, you left the l
+Uh, Jer, well you kn	Wait, you left the l
+Uh, Jer, well you kn	Wait, you left the l
+The door.	The door?
+The door.	The door?
+The door.	The door?
+The door.	The door?
+Yeah, well, I was go	Yeah, and?
+Yeah, well, I was go	Yeah, and?
+Yeah, well, I was go	Yeah, and?
+Yeah, well, I was go	Yeah, and?
+Well, I got caught u	So the door was wide
+Well, I got caught u	So the door was wide
+Well, I got caught u	So the door was wide
+Well, I got caught u	So the door was wide
+Wide open!	And where were you?
+Wide open!	And where were you?
+Wide open!	And where were you?
+Wide open!	And where were you?
+Look, Jerry, Im sorr	No.
+Look, Jerry, Im sorr	No.
+Look, Jerry, Im sorr	No.
+Look, Jerry, Im sorr	No.
+How can you not have	Because I spent my m
+How can you not have	Because I spent my m
+How can you not have	Because I spent my m
+How can you not have	Because I spent my m
+Jerry!	Yeah, dont investiga
+Jerry!	Yeah, dont investiga
+Jerry!	Yeah, dont investiga
+Jerry!	Yeah, dont investiga
+Im human.	In your way.
+Im human.	In your way.
+Im human.	In your way.
+Im human.	In your way.
+Answering machine.	Answering machine.
+Answering machine.	Answering machine.
+Answering machine.	Answering machine.
+Answering machine.	Answering machine.
+What do you mean?	Its a joke.
+What do you mean?	Its a joke.
+What do you mean?	Its a joke.
+What do you mean?	Its a joke.
+I see.	You ever find anythi
+I see.	You ever find anythi
+I see.	You ever find anythi
+I see.	You ever find anythi
+No.	Well, thanks anyway.
+No.	Well, thanks anyway.
+No.	Well, thanks anyway.
+No.	Well, thanks anyway.
+I didnt get that jok	The crook has the ma
+I didnt get that jok	The crook has the ma
+I didnt get that jok	The crook has the ma
+I didnt get that jok	The crook has the ma
+I walked in, your lo	Again?
+I walked in, your lo	Again?
+I walked in, your lo	Again?
+I walked in, your lo	Again?
+Yeah, tell im George	You would still wann
+Yeah, tell im George	You would still wann
+Yeah, tell im George	You would still wann
+Yeah, tell im George	You would still wann
+Yes!	Is that uh, other ap
+Yes!	Is that uh, other ap
+Yes!	Is that uh, other ap
+Yes!	Is that uh, other ap
+Is that uh, other ap	I got ripped off for
+Is that uh, other ap	I got ripped off for
+Is that uh, other ap	I got ripped off for
+Is that uh, other ap	I got ripped off for
+I didnt know there w	How do you get all t
+I didnt know there w	How do you get all t
+I didnt know there w	How do you get all t
+I didnt know there w	How do you get all t
+They deliver it.	They deliver wood?
+They deliver it.	They deliver wood?
+They deliver it.	They deliver wood?
+They deliver it.	They deliver wood?
+Yeah.	What do you tip a wo
+Yeah.	What do you tip a wo
+Yeah.	What do you tip a wo
+Yeah.	What do you tip a wo
+A garden!	Would I have to get 
+A garden!	Would I have to get 
+A garden!	Would I have to get 
+A garden!	Would I have to get 
+Yeah, you can get a 	You tip him?
+Yeah, you can get a 	You tip him?
+Yeah, you can get a 	You tip him?
+Yeah, you can get a 	You tip him?
+Jerry, you can barbe	They deliver the coa
+Jerry, you can barbe	They deliver the coa
+Jerry, you can barbe	They deliver the coa
+Jerry, you can barbe	They deliver the coa
+Sure, its.	Oh, then I gotta tip
+Sure, its.	Oh, then I gotta tip
+Sure, its.	Oh, then I gotta tip
+Sure, its.	Oh, then I gotta tip
+Oh, damn, this place	I dont have any plan
+Oh, damn, this place	I dont have any plan
+Oh, damn, this place	I dont have any plan
+Oh, damn, this place	I dont have any plan
+Jerry, look at this 	I like that.
+Jerry, look at this 	I like that.
+Jerry, look at this 	I like that.
+Jerry, look at this 	I like that.
+Its your decision.	Im takin it, Im taki
+Its your decision.	Im takin it, Im taki
+Its your decision.	Im takin it, Im taki
+Its your decision.	Im takin it, Im taki
+What about the couch	You like the couch?
+What about the couch	You like the couch?
+What about the couch	You like the couch?
+What about the couch	You like the couch?
+What?	Youre movin in, your
+What?	Youre movin in, your
+What?	Youre movin in, your
+What?	Youre movin in, your
+A hundred and fifty 	Yeah!
+A hundred and fifty 	Yeah!
+A hundred and fifty 	Yeah!
+A hundred and fifty 	Yeah!
+For this couch?	Okay, you tell me.
+For this couch?	Okay, you tell me.
+For this couch?	Okay, you tell me.
+For this couch?	Okay, you tell me.
+Okay, uh, Ill tell y	Yeah?
+Okay, uh, Ill tell y	Yeah?
+Okay, uh, Ill tell y	Yeah?
+Okay, uh, Ill tell y	Yeah?
+Yeah, its George.	Come on up.
+Yeah, its George.	Come on up.
+Yeah, its George.	Come on up.
+Yeah, its George.	Come on up.
+Okay okay okay okay,	You wanna get the ot
+Okay okay okay okay,	You wanna get the ot
+Okay okay okay okay,	You wanna get the ot
+Okay okay okay okay,	You wanna get the ot
+Fifty dollars, okay?	Fifty dollars?
+Fifty dollars, okay?	Fifty dollars?
+Fifty dollars, okay?	Fifty dollars?
+Fifty dollars, okay?	Fifty dollars?
+Uhhuh.	Thank you very much.
+Uhhuh.	Thank you very much.
+Uhhuh.	Thank you very much.
+Uhhuh.	Thank you very much.
+I just bought Jerrys	So did you bring the
+I just bought Jerrys	So did you bring the
+I just bought Jerrys	So did you bring the
+I just bought Jerrys	So did you bring the
+Oh, Jerry Jerry Jerr	Why?
+Oh, Jerry Jerry Jerr	Why?
+Oh, Jerry Jerry Jerr	Why?
+Oh, Jerry Jerry Jerr	Why?
+If youre having seco	You could take it?
+If youre having seco	You could take it?
+If youre having seco	You could take it?
+If youre having seco	You could take it?
+No, I dont want it.	So you do want it.
+No, I dont want it.	So you do want it.
+No, I dont want it.	So you do want it.
+No, I dont want it.	So you do want it.
+No I, I want it if y	You just said you wa
+No I, I want it if y	You just said you wa
+No I, I want it if y	You just said you wa
+No I, I want it if y	You just said you wa
+No, Im saying, if a 	So take it.
+No, Im saying, if a 	So take it.
+No, Im saying, if a 	So take it.
+No, Im saying, if a 	So take it.
+How can I take it?	How can I take it?
+How can I take it?	How can I take it?
+How can I take it?	How can I take it?
+How can I take it?	How can I take it?
+Its your apartment!	How can I want it no
+Its your apartment!	How can I want it no
+Its your apartment!	How can I want it no
+Its your apartment!	How can I want it no
+Yes, but I am not ta	I.
+Yes, but I am not ta	I.
+Yes, but I am not ta	I.
+Yes, but I am not ta	I.
+Well, one of you bet	Well, whaddaya wanna
+Well, one of you bet	Well, whaddaya wanna
+Well, one of you bet	Well, whaddaya wanna
+Well, one of you bet	Well, whaddaya wanna
+I, I dont know.	Do you wanna flip a 
+I, I dont know.	Do you wanna flip a 
+I, I dont know.	Do you wanna flip a 
+I, I dont know.	Do you wanna flip a 
+Who flips?	Okay, fine.
+Who flips?	Okay, fine.
+Who flips?	Okay, fine.
+Who flips?	Okay, fine.
+I dont know, who to 	All right, now you c
+I dont know, who to 	All right, now you c
+I dont know, who to 	All right, now you c
+I dont know, who to 	All right, now you c
+No catchin.	No no.
+No catchin.	No no.
+No catchin.	No no.
+No catchin.	No no.
+Heads!	Tails!
+Heads!	Tails!
+Heads!	Tails!
+Heads!	Tails!
+No, it hit the table	So what?
+No, it hit the table	So what?
+No, it hit the table	So what?
+No, it hit the table	So what?
+Interference!	You didnt call no in
+Interference!	You didnt call no in
+Interference!	You didnt call no in
+Interference!	You didnt call no in
+You dont have to cal	I dont believe this.
+You dont have to cal	I dont believe this.
+You dont have to cal	I dont believe this.
+You dont have to cal	I dont believe this.
+Oh oh oh, all right,	I dont wanna win it 
+Oh oh oh, all right,	I dont wanna win it 
+Oh oh oh, all right,	I dont wanna win it 
+Oh oh oh, all right,	I dont wanna win it 
+Id better not.	Well, Ill tell you w
+Id better not.	Well, Ill tell you w
+Id better not.	Well, Ill tell you w
+Id better not.	Well, Ill tell you w
+Okay.	Odds.
+Okay.	Odds.
+Okay.	Odds.
+Okay.	Odds.
+I want evens.	Good.
+I want evens.	Good.
+I want evens.	Good.
+I want evens.	Good.
+You got odds.	You got evens.
+You got odds.	You got evens.
+You got odds.	You got evens.
+You got odds.	You got evens.
+Right, ready?	For the apartment.
+Right, ready?	For the apartment.
+Right, ready?	For the apartment.
+Right, ready?	For the apartment.
+Once, twice, three, 	Mine!
+Once, twice, three, 	Mine!
+Once, twice, three, 	Mine!
+Once, twice, three, 	Mine!
+Once, twice, three, 	Mine!
+Once, twice, three, 	Mine!
+Once, twice, three, 	Mine!
+Once, twice, three, 	Mine!
+Congratulations.	Thanks.
+Congratulations.	Thanks.
+Congratulations.	Thanks.
+Congratulations.	Thanks.
+Jerry, I think Im on	Yeah.
+Jerry, I think Im on	Yeah.
+Jerry, I think Im on	Yeah.
+Jerry, I think Im on	Yeah.
+The last couple a da	Hard to imagine.
+The last couple a da	Hard to imagine.
+The last couple a da	Hard to imagine.
+The last couple a da	Hard to imagine.
+.	Right.
+.	Right.
+.	Right.
+.	Right.
+What stuff?	Ooh,  case closed!
+What stuff?	Ooh,  case closed!
+What stuff?	Ooh,  case closed!
+What stuff?	Ooh,  case closed!
+No, you dont underst	Okay, starting.
+No, you dont underst	Okay, starting.
+No, you dont underst	Okay, starting.
+No, you dont underst	Okay, starting.
+Yeah!	One of the problems 
+Yeah!	One of the problems 
+Yeah!	One of the problems 
+Yeah!	One of the problems 
+I love the mirror in	Its a good mirror.
+I love the mirror in	Its a good mirror.
+I love the mirror in	Its a good mirror.
+I love the mirror in	Its a good mirror.
+I dont know, I cant 	All right, forget it
+I dont know, I cant 	All right, forget it
+I dont know, I cant 	All right, forget it
+I dont know, I cant 	All right, forget it
+What?	How can I live there
+What?	How can I live there
+What?	How can I live there
+What?	How can I live there
+Why not?	Look at you, youre s
+Why not?	Look at you, youre s
+Why not?	Look at you, youre s
+Why not?	Look at you, youre s
+Oh, get outta here.	How can I ever have 
+Oh, get outta here.	How can I ever have 
+Oh, get outta here.	How can I ever have 
+Oh, get outta here.	How can I ever have 
+I wont mope.	Youre already moping
+I wont mope.	Youre already moping
+I wont mope.	Youre already moping
+I wont mope.	Youre already moping
+No, impossible!	You found the place.
+No, impossible!	You found the place.
+No, impossible!	You found the place.
+No, impossible!	You found the place.
+You won the choose.	All right, forget it
+You won the choose.	All right, forget it
+You won the choose.	All right, forget it
+You won the choose.	All right, forget it
+Well, me neither.	Definitely?
+Well, me neither.	Definitely?
+Well, me neither.	Definitely?
+Well, me neither.	Definitely?
+Definitely.	Alright, then just g
+Definitely.	Alright, then just g
+Definitely.	Alright, then just g
+Definitely.	Alright, then just g
+I dont know, what we	She wanted to thank 
+I dont know, what we	She wanted to thank 
+I dont know, what we	She wanted to thank 
+I dont know, what we	She wanted to thank 
+I cant believe I los	If only the coin had
+I cant believe I los	If only the coin had
+I cant believe I los	If only the coin had
+I cant believe I los	If only the coin had
+The table is interfe	It is not!
+The table is interfe	It is not!
+The table is interfe	It is not!
+The table is interfe	It is not!
+Couldnt be happier.	Its wonderful.
+Couldnt be happier.	Its wonderful.
+Couldnt be happier.	Its wonderful.
+Couldnt be happier.	Its wonderful.
+Nice meeting you.	How late are the sto
+Nice meeting you.	How late are the sto
+Nice meeting you.	How late are the sto
+Nice meeting you.	How late are the sto
+Whats the rent?	Most men like workin
+Whats the rent?	Most men like workin
+Whats the rent?	Most men like workin
+Whats the rent?	Most men like workin
+I had to say somethi	I dont think you did
+I had to say somethi	I dont think you did
+I had to say somethi	I dont think you did
+I had to say somethi	I dont think you did
+I told her I liked h	We can only thank Go
+I told her I liked h	We can only thank Go
+I told her I liked h	We can only thank Go
+I told her I liked h	We can only thank Go
+Im outta the picture	Youre imagining this
+Im outta the picture	Youre imagining this
+Im outta the picture	Youre imagining this
+Im outta the picture	Youre imagining this
+Ill tell you when it	What floss?
+Ill tell you when it	What floss?
+Ill tell you when it	What floss?
+Ill tell you when it	What floss?
+We were in the lobby	Ah, mint.
+We were in the lobby	Ah, mint.
+We were in the lobby	Ah, mint.
+We were in the lobby	Ah, mint.
+Of course.	So let me get this s
+Of course.	So let me get this s
+Of course.	So let me get this s
+Of course.	So let me get this s
+If I didnt put that 	And youre sure the f
+If I didnt put that 	And youre sure the f
+If I didnt put that 	And youre sure the f
+If I didnt put that 	And youre sure the f
+Yes, I am.	You dont think it mi
+Yes, I am.	You dont think it mi
+Yes, I am.	You dont think it mi
+Yes, I am.	You dont think it mi
+What?	It looks like your b
+What?	It looks like your b
+What?	It looks like your b
+What?	It looks like your b
+Oh, theyve got a cur	Who is it?
+Oh, theyve got a cur	Who is it?
+Oh, theyve got a cur	Who is it?
+Oh, theyve got a cur	Who is it?
+Take it.	Who is it?
+Take it.	Who is it?
+Take it.	Who is it?
+Take it.	Who is it?
+Its for you.	Hello?
+Its for you.	Hello?
+Its for you.	Hello?
+Its for you.	Hello?
+Well, its your phone	Maybe I didnt want t
+Well, its your phone	Maybe I didnt want t
+Well, its your phone	Maybe I didnt want t
+Well, its your phone	Maybe I didnt want t
+Well, why not?	He bothers me.
+Well, why not?	He bothers me.
+Well, why not?	He bothers me.
+Well, why not?	He bothers me.
+What do you mean Wed	Were going.
+What do you mean Wed	Were going.
+What do you mean Wed	Were going.
+What do you mean Wed	Were going.
+Oh.	His name is Joel Hor
+Oh.	His name is Joel Hor
+Oh.	His name is Joel Hor
+Oh.	His name is Joel Hor
+Thats for me.	Can you conduct your
+Thats for me.	Can you conduct your
+Thats for me.	Can you conduct your
+Thats for me.	Can you conduct your
+I dont know why you 	I dont bother with h
+I dont know why you 	I dont bother with h
+I dont know why you 	I dont bother with h
+I dont know why you 	I dont bother with h
+I dont understand wh	What can I do?
+I dont understand wh	What can I do?
+I dont understand wh	What can I do?
+I dont understand wh	What can I do?
+No no no no, you hav	Just break up with h
+No no no no, you hav	Just break up with h
+No no no no, you hav	Just break up with h
+No no no no, you hav	Just break up with h
+Absolutely.	The Truth.
+Absolutely.	The Truth.
+Absolutely.	The Truth.
+Absolutely.	The Truth.
+The Truth.	As a guy I dont know
+The Truth.	As a guy I dont know
+The Truth.	As a guy I dont know
+The Truth.	As a guy I dont know
+.	You know, I read the
+.	You know, I read the
+.	You know, I read the
+.	You know, I read the
+Hey hey hey hey, wer	So, Im thinking abou
+Hey hey hey hey, wer	So, Im thinking abou
+Hey hey hey hey, wer	So, Im thinking abou
+Hey hey hey hey, wer	So, Im thinking abou
+I have to eat!	Anyway, the Hizballa
+I have to eat!	Anyway, the Hizballa
+I have to eat!	Anyway, the Hizballa
+I have to eat!	Anyway, the Hizballa
+Yeah.	Im gonna do it in Fa
+Yeah.	Im gonna do it in Fa
+Yeah.	Im gonna do it in Fa
+Yeah.	Im gonna do it in Fa
+Are you ready?	Yeah, Ill have the e
+Are you ready?	Yeah, Ill have the e
+Are you ready?	Yeah, Ill have the e
+Are you ready?	Yeah, Ill have the e
+Well, how do you kno	How can you talk to 
+Well, how do you kno	How can you talk to 
+Well, how do you kno	How can you talk to 
+Well, how do you kno	How can you talk to 
+What are you saying?	Listen, Joel.
+What are you saying?	Listen, Joel.
+What are you saying?	Listen, Joel.
+What are you saying?	Listen, Joel.
+He asked me if I sti	Listen, Joel, I dont
+He asked me if I sti	Listen, Joel, I dont
+He asked me if I sti	Listen, Joel, I dont
+He asked me if I sti	Listen, Joel, I dont
+What?	This friendship Its 
+What?	This friendship Its 
+What?	This friendship Its 
+What?	This friendship Its 
+Not working?	Were just not suited
+Not working?	Were just not suited
+Not working?	Were just not suited
+Not working?	Were just not suited
+How can you say that	Look, youre a nice g
+How can you say that	Look, youre a nice g
+How can you say that	Look, youre a nice g
+How can you say that	Look, youre a nice g
+WaiWait.	YYou didnt do anythi
+WaiWait.	YYou didnt do anythi
+WaiWait.	YYou didnt do anythi
+WaiWait.	YYou didnt do anythi
+Look, I know I call 	No, its not that.
+Look, I know I call 	No, its not that.
+Look, I know I call 	No, its not that.
+Look, I know I call 	No, its not that.
+Youre one of the few	Oh, come on.
+Youre one of the few	Oh, come on.
+Youre one of the few	Oh, come on.
+Youre one of the few	Oh, come on.
+I always tell everyb	I know, I know.
+I always tell everyb	I know, I know.
+I always tell everyb	I know, I know.
+I always tell everyb	I know, I know.
+I mean, youre my bes	Best friend Ive neve
+I mean, youre my bes	Best friend Ive neve
+I mean, youre my bes	Best friend Ive neve
+I mean, youre my bes	Best friend Ive neve
+I cannot believe tha	Okay, okay.
+I cannot believe tha	Okay, okay.
+I cannot believe tha	Okay, okay.
+I cannot believe tha	Okay, okay.
+Didnt mean what?	What I said.
+Didnt mean what?	What I said.
+Didnt mean what?	What I said.
+Didnt mean what?	What I said.
+Oh, youve been under	Just, can we just fo
+Oh, youve been under	Just, can we just fo
+Oh, youve been under	Just, can we just fo
+Oh, youve been under	Just, can we just fo
+Tonight?	No, next Wednesday.
+Tonight?	No, next Wednesday.
+Tonight?	No, next Wednesday.
+Tonight?	No, next Wednesday.
+Do you really want m	Yes.
+Do you really want m	Yes.
+Do you really want m	Yes.
+Do you really want m	Yes.
+Okay.	Next Wednesday.
+Okay.	Next Wednesday.
+Okay.	Next Wednesday.
+Okay.	Next Wednesday.
+.	Yeah.
+.	Yeah.
+.	Yeah.
+.	Yeah.
+she says, We have to	Ugh, the four worst 
+she says, We have to	Ugh, the four worst 
+she says, We have to	Ugh, the four worst 
+she says, We have to	Ugh, the four worst 
+That, or Whos bra is	That is worse.
+That, or Whos bra is	That is worse.
+That, or Whos bra is	That is worse.
+That, or Whos bra is	That is worse.
+So we order lunch, a	Really.
+So we order lunch, a	Really.
+So we order lunch, a	Really.
+So we order lunch, a	Really.
+So, Im thinking, as 	Hm.
+So, Im thinking, as 	Hm.
+So, Im thinking, as 	Hm.
+So, Im thinking, as 	Hm.
+We sat there for twe	Someone says, Get ou
+We sat there for twe	Someone says, Get ou
+We sat there for twe	Someone says, Get ou
+We sat there for twe	Someone says, Get ou
+Have you ever had th	It is unbelievable.
+Have you ever had th	It is unbelievable.
+Have you ever had th	It is unbelievable.
+Have you ever had th	It is unbelievable.
+Its unbelievable.	How much could you p
+Its unbelievable.	How much could you p
+Its unbelievable.	How much could you p
+Its unbelievable.	How much could you p
+Its my money.	Yeah?
+Its my money.	Yeah?
+Its my money.	Yeah?
+Its my money.	Yeah?
+Thats funny.	Cmon, move up.
+Thats funny.	Cmon, move up.
+Thats funny.	Cmon, move up.
+Thats funny.	Cmon, move up.
+Geez.	Oh, God.
+Geez.	Oh, God.
+Geez.	Oh, God.
+Geez.	Oh, God.
+I got scared there f	Listen, George, litt
+I got scared there f	Listen, George, litt
+I got scared there f	Listen, George, litt
+I got scared there f	Listen, George, litt
+What about it?	The thing is, yester
+What about it?	The thing is, yester
+What about it?	The thing is, yester
+What about it?	The thing is, yester
+What?	I gave your ticket t
+What?	I gave your ticket t
+What?	I gave your ticket t
+What?	I gave your ticket t
+You what?	Yeah, Im sorry.
+You what?	Yeah, Im sorry.
+You what?	Yeah, Im sorry.
+You what?	Yeah, Im sorry.
+No!	Cmon, cmon, go ahead
+No!	Cmon, cmon, go ahead
+No!	Cmon, cmon, go ahead
+No!	Cmon, cmon, go ahead
+Why did you give him	You didnt see him.
+Why did you give him	You didnt see him.
+Why did you give him	You didnt see him.
+Why did you give him	You didnt see him.
+Oh, cmon, Jerry.	I had to do it.
+Oh, cmon, Jerry.	I had to do it.
+Oh, cmon, Jerry.	I had to do it.
+Oh, cmon, Jerry.	I had to do it.
+Im sorry, sir.	Do you want to go wi
+Im sorry, sir.	Do you want to go wi
+Im sorry, sir.	Do you want to go wi
+Im sorry, sir.	Do you want to go wi
+You want me to roll 	No, I do not like th
+You want me to roll 	No, I do not like th
+You want me to roll 	No, I do not like th
+You want me to roll 	No, I do not like th
+.	George.
+.	George.
+.	George.
+.	George.
+Not now.	Could you stop the c
+Not now.	Could you stop the c
+Not now.	Could you stop the c
+Not now.	Could you stop the c
+What?	Can I make it up to 
+What?	Can I make it up to 
+What?	Can I make it up to 
+What?	Can I make it up to 
+Oh, yeah, sure.	Well, then Im not go
+Oh, yeah, sure.	Well, then Im not go
+Oh, yeah, sure.	Well, then Im not go
+Oh, yeah, sure.	Well, then Im not go
+Oh geeeee.	I no, I dont want to
+Oh geeeee.	I no, I dont want to
+Oh geeeee.	I no, I dont want to
+Oh geeeee.	I no, I dont want to
+He was really crying	I had to give him a 
+He was really crying	I had to give him a 
+He was really crying	I had to give him a 
+He was really crying	I had to give him a 
+Wait a minute.	George, the man wept
+Wait a minute.	George, the man wept
+Wait a minute.	George, the man wept
+Wait a minute.	George, the man wept
+No, Im tellin you, p	II have to say somet
+No, Im tellin you, p	II have to say somet
+No, Im tellin you, p	II have to say somet
+No, Im tellin you, p	II have to say somet
+Thats you.	Im just saying.
+Thats you.	Im just saying.
+Thats you.	Im just saying.
+Thats you.	Im just saying.
+Okay, okay.	Okay.
+Okay, okay.	Okay.
+Okay, okay.	Okay.
+Okay, okay.	Okay.
+One day, youll beg m	Hi, Joel.
+One day, youll beg m	Hi, Joel.
+One day, youll beg m	Hi, Joel.
+One day, youll beg m	Hi, Joel.
+Trapezoid?	I know.
+Trapezoid?	I know.
+Trapezoid?	I know.
+Trapezoid?	I know.
+Come on, lets go do 	Okay.
+Come on, lets go do 	Okay.
+Come on, lets go do 	Okay.
+Come on, lets go do 	Okay.
+Want to go get somet	Where do you want to
+Want to go get somet	Where do you want to
+Want to go get somet	Where do you want to
+Want to go get somet	Where do you want to
+I dont care, Im not 	We could go to one o
+I dont care, Im not 	We could go to one o
+I dont care, Im not 	We could go to one o
+I dont care, Im not 	We could go to one o
+What are we gonna do	We could talk.
+What are we gonna do	We could talk.
+What are we gonna do	We could talk.
+What are we gonna do	We could talk.
+Ill go if I dont hav	Then well just sit t
+Ill go if I dont hav	Then well just sit t
+Ill go if I dont hav	Then well just sit t
+Ill go if I dont hav	Then well just sit t
+Okay.	Okay, just hand that
+Okay.	Okay, just hand that
+Okay.	Okay, just hand that
+Okay.	Okay, just hand that
+Oh, what is this?	Its a list of excuse
+Oh, what is this?	Its a list of excuse
+Oh, what is this?	Its a list of excuse
+Oh, what is this?	Its a list of excuse
+I got some for you.	I dont need any more
+I got some for you.	I dont need any more
+I got some for you.	I dont need any more
+I got some for you.	I dont need any more
+No no no no no, thes	Very funny.
+No no no no no, thes	Very funny.
+No no no no no, thes	Very funny.
+No no no no no, thes	Very funny.
+How about Youve been	Im Dan.
+How about Youve been	Im Dan.
+How about Youve been	Im Dan.
+How about Youve been	Im Dan.
+Here, here.	What can I do?
+Here, here.	What can I do?
+Here, here.	What can I do?
+Here, here.	What can I do?
+Deal with it.	Oh no.
+Deal with it.	Oh no.
+Deal with it.	Oh no.
+Deal with it.	Oh no.
+You made a man cry?	Couple of tough monk
+You made a man cry?	Couple of tough monk
+You made a man cry?	Couple of tough monk
+You made a man cry?	Couple of tough monk
+Oh, hi Elaine, hey.	Game?
+Oh, hi Elaine, hey.	Game?
+Oh, hi Elaine, hey.	Game?
+Oh, hi Elaine, hey.	Game?
+Knick game.	Wait.
+Knick game.	Wait.
+Knick game.	Wait.
+Knick game.	Wait.
+Last week.	This is too much.
+Last week.	This is too much.
+Last week.	This is too much.
+Last week.	This is too much.
+Wait, what pizza pla	Oh, no.
+Wait, what pizza pla	Oh, no.
+Wait, what pizza pla	Oh, no.
+Wait, what pizza pla	Oh, no.
+Yeah.	Perfect.
+Yeah.	Perfect.
+Yeah.	Perfect.
+Yeah.	Perfect.
+So, I though you wer	Oh, we finished earl
+So, I though you wer	Oh, we finished earl
+So, I though you wer	Oh, we finished earl
+So, I though you wer	Oh, we finished earl
+Mhm, Ill bet.	Elaine Benes, this i
+Mhm, Ill bet.	Elaine Benes, this i
+Mhm, Ill bet.	Elaine Benes, this i
+Mhm, Ill bet.	Elaine Benes, this i
+Whoa, Nelson!	Were still friends.
+Whoa, Nelson!	Were still friends.
+Whoa, Nelson!	Were still friends.
+Whoa, Nelson!	Were still friends.
+Oh, no no.	Right.
+Oh, no no.	Right.
+Oh, no no.	Right.
+Oh, no no.	Right.
+WeWere doing that ev	Right.
+WeWere doing that ev	Right.
+WeWere doing that ev	Right.
+WeWere doing that ev	Right.
+You know, I should r	You really should.
+You know, I should r	You really should.
+You know, I should r	You really should.
+You know, I should r	You really should.
+Fortyone home games.	You know, I really.
+Fortyone home games.	You know, I really.
+Fortyone home games.	You know, I really.
+Fortyone home games.	You know, I really.
+You know, I really.	Went out to dinner t
+You know, I really.	Went out to dinner t
+You know, I really.	Went out to dinner t
+You know, I really.	Went out to dinner t
+Went out to dinner t	I think Superman pro
+Went out to dinner t	I think Superman pro
+Went out to dinner t	I think Superman pro
+Went out to dinner t	I think Superman pro
+I never heard him sa	But its common sense
+I never heard him sa	But its common sense
+I never heard him sa	But its common sense
+I never heard him sa	But its common sense
+You would think that	Why?
+You would think that	Why?
+You would think that	Why?
+You would think that	Why?
+I know, I know.	No problem.
+I know, I know.	No problem.
+I know, I know.	No problem.
+I know, I know.	No problem.
+I dropped a grape in	Were you crying?
+I dropped a grape in	Were you crying?
+I dropped a grape in	Were you crying?
+I dropped a grape in	Were you crying?
+No, Im just getting 	Robert.
+No, Im just getting 	Robert.
+No, Im just getting 	Robert.
+No, Im just getting 	Robert.
+Guys with cats.	Ive been thinking ab
+Guys with cats.	Ive been thinking ab
+Guys with cats.	Ive been thinking ab
+Guys with cats.	Ive been thinking ab
+Vanessa.	Vanessa, thank you.
+Vanessa.	Vanessa, thank you.
+Vanessa.	Vanessa, thank you.
+Vanessa.	Vanessa, thank you.
+Thats exquisite.	You better find that
+Thats exquisite.	You better find that
+Thats exquisite.	You better find that
+Thats exquisite.	You better find that
+A stock.	What stock?
+A stock.	What stock?
+A stock.	What stock?
+A stock.	What stock?
+Did you ever meet my	Maybe.
+Did you ever meet my	Maybe.
+Did you ever meet my	Maybe.
+Did you ever meet my	Maybe.
+He knows this guy, W	How highs it suppose
+He knows this guy, W	How highs it suppose
+He knows this guy, W	How highs it suppose
+He knows this guy, W	How highs it suppose
+I dont know.	Boy.
+I dont know.	Boy.
+I dont know.	Boy.
+I dont know.	Boy.
+Id do it but I dont 	What kind of company
+Id do it but I dont 	What kind of company
+Id do it but I dont 	What kind of company
+Id do it but I dont 	What kind of company
+Some sort of electro	Well, how much are y
+Some sort of electro	Well, how much are y
+Some sort of electro	Well, how much are y
+Some sort of electro	Well, how much are y
+Five thousand.	Boy.
+Five thousand.	Boy.
+Five thousand.	Boy.
+Five thousand.	Boy.
+Cmon.	What if I lose it?
+Cmon.	What if I lose it?
+Cmon.	What if I lose it?
+Cmon.	What if I lose it?
+Cmon, go for twentyf	All right.
+Cmon, go for twentyf	All right.
+Cmon, go for twentyf	All right.
+Cmon, go for twentyf	All right.
+Check the raiser.	My bet?
+Check the raiser.	My bet?
+Check the raiser.	My bet?
+Check the raiser.	My bet?
+Tuna?	Oh, the dolphin thin
+Tuna?	Oh, the dolphin thin
+Tuna?	Oh, the dolphin thin
+Tuna?	Oh, the dolphin thin
+Theyre dying in the 	Ohhh.
+Theyre dying in the 	Ohhh.
+Theyre dying in the 	Ohhh.
+Theyre dying in the 	Ohhh.
+Jerry, cant you inco	Hey, when Im driving
+Jerry, cant you inco	Hey, when Im driving
+Jerry, cant you inco	Hey, when Im driving
+Jerry, cant you inco	Hey, when Im driving
+Ill have the tuna.	I have to say, those
+Ill have the tuna.	I have to say, those
+Ill have the tuna.	I have to say, those
+Ill have the tuna.	I have to say, those
+Why didnt you do som	What do you want me 
+Why didnt you do som	What do you want me 
+Why didnt you do som	What do you want me 
+Why didnt you do som	What do you want me 
+Yeah, Ive been think	You know, my friend 
+Yeah, Ive been think	You know, my friend 
+Yeah, Ive been think	You know, my friend 
+Yeah, Ive been think	You know, my friend 
+I dont know.	Its great!
+I dont know.	Its great!
+I dont know.	Its great!
+I dont know.	Its great!
+Oh, so you want to m	Exactly.
+Oh, so you want to m	Exactly.
+Oh, so you want to m	Exactly.
+Oh, so you want to m	Exactly.
+Really?	Yeah.
+Really?	Yeah.
+Really?	Yeah.
+Really?	Yeah.
+They have marlin in 	Oh, big fighting mar
+They have marlin in 	Oh, big fighting mar
+They have marlin in 	Oh, big fighting mar
+They have marlin in 	Oh, big fighting mar
+I know.	Is that my paper?
+I know.	Is that my paper?
+I know.	Is that my paper?
+I know.	Is that my paper?
+Bad news, my friend.	What?
+Bad news, my friend.	What?
+Bad news, my friend.	What?
+Bad news, my friend.	What?
+Sendrax.	Oh, cmon!
+Sendrax.	Oh, cmon!
+Sendrax.	Oh, cmon!
+Sendrax.	Oh, cmon!
+Two and a half point	Oh, I cant believe i
+Two and a half point	Oh, I cant believe i
+Two and a half point	Oh, I cant believe i
+Two and a half point	Oh, I cant believe i
+Hey, I told you.	Yeah, you told me.
+Hey, I told you.	Yeah, you told me.
+Hey, I told you.	Yeah, you told me.
+Hey, I told you.	Yeah, you told me.
+Its all manipulated 	Theres one thing I d
+Its all manipulated 	Theres one thing I d
+Its all manipulated 	Theres one thing I d
+Its all manipulated 	Theres one thing I d
+Hey, I dont care.	George, whats going 
+Hey, I dont care.	George, whats going 
+Hey, I dont care.	George, whats going 
+Hey, I dont care.	George, whats going 
+Sell it, just say Im	Well, where is the g
+Sell it, just say Im	Well, where is the g
+Sell it, just say Im	Well, where is the g
+Sell it, just say Im	Well, where is the g
+You know, I cant bel	Rollout tie dispense
+You know, I cant bel	Rollout tie dispense
+You know, I cant bel	Rollout tie dispense
+You know, I cant bel	Rollout tie dispense
+Okay, youre in a res	Okay.
+Okay, youre in a res	Okay.
+Okay, youre in a res	Okay.
+Okay, youre in a res	Okay.
+Oh man, you got must	Oh No!
+Oh man, you got must	Oh No!
+Oh man, you got must	Oh No!
+Oh man, you got must	Oh No!
+You just  tear it of	Youre gone all right
+You just  tear it of	Youre gone all right
+You just  tear it of	Youre gone all right
+You just  tear it of	Youre gone all right
+Hey, where, where ar	Yeah, Im going to Ve
+Hey, where, where ar	Yeah, Im going to Ve
+Hey, where, where ar	Yeah, Im going to Ve
+Hey, where, where ar	Yeah, Im going to Ve
+Hey, can I use your 	What friends?
+Hey, can I use your 	What friends?
+Hey, can I use your 	What friends?
+Hey, can I use your 	What friends?
+Well, its just some 	George What?
+Well, its just some 	George What?
+Well, its just some 	George What?
+Well, its just some 	George What?
+George What?	So you dont know wha
+George What?	So you dont know wha
+George What?	So you dont know wha
+George What?	So you dont know wha
+All Simons was able 	Okay, fine.
+All Simons was able 	Okay, fine.
+All Simons was able 	Okay, fine.
+All Simons was able 	Okay, fine.
+Of course hes been i	Well, this is it.
+Of course hes been i	Well, this is it.
+Of course hes been i	Well, this is it.
+Of course hes been i	Well, this is it.
+Just give it a littl	I never shouldve got
+Just give it a littl	I never shouldve got
+Just give it a littl	I never shouldve got
+Just give it a littl	I never shouldve got
+All right, all right	Where?
+All right, all right	Where?
+All right, all right	Where?
+All right, all right	Where?
+To the hospital.	The hospital?
+To the hospital.	The hospital?
+To the hospital.	The hospital?
+To the hospital.	The hospital?
+Im going to find out	Are you nuts?
+Im going to find out	Are you nuts?
+Im going to find out	Are you nuts?
+Im going to find out	Are you nuts?
+So what?	What if hes in an ir
+So what?	What if hes in an ir
+So what?	What if hes in an ir
+So what?	What if hes in an ir
+Maybe hes resting.	Who goes to the hosp
+Maybe hes resting.	Who goes to the hosp
+Maybe hes resting.	Who goes to the hosp
+Maybe hes resting.	Who goes to the hosp
+What are you, a doct	Okay, fine, fine.
+What are you, a doct	Okay, fine, fine.
+What are you, a doct	Okay, fine, fine.
+What are you, a doct	Okay, fine, fine.
+Today.	All right.
+Today.	All right.
+Today.	All right.
+Today.	All right.
+May I help you?	Yeah.
+May I help you?	Yeah.
+May I help you?	Yeah.
+May I help you?	Yeah.
+When did you bring i	Whats the difference
+When did you bring i	Whats the difference
+When did you bring i	Whats the difference
+When did you bring i	Whats the difference
+You got a receipt?	I cant find the rece
+You got a receipt?	I cant find the rece
+You got a receipt?	I cant find the rece
+You got a receipt?	I cant find the rece
+You should get the r	Look, forget about t
+You should get the r	Look, forget about t
+You should get the r	Look, forget about t
+You should get the r	Look, forget about t
+Yes, but how do I kn	What do you think th
+Yes, but how do I kn	What do you think th
+Yes, but how do I kn	What do you think th
+Yes, but how do I kn	What do you think th
+Maybe you asked for 	No!
+Maybe you asked for 	No!
+Maybe you asked for 	No!
+Maybe you asked for 	No!
+Let me explain to yo	You shrunk it!
+Let me explain to yo	You shrunk it!
+Let me explain to yo	You shrunk it!
+Let me explain to yo	You shrunk it!
+I shrunk it.	I think the only rea
+I shrunk it.	I think the only rea
+I shrunk it.	I think the only rea
+I shrunk it.	I think the only rea
+I think the only rea	Bless you.
+I think the only rea	Bless you.
+I think the only rea	Bless you.
+I think the only rea	Bless you.
+I dont know.	Well, it couldnt be 
+I dont know.	Well, it couldnt be 
+I dont know.	Well, it couldnt be 
+I dont know.	Well, it couldnt be 
+What do you think, J	Im no cat killer.
+What do you think, J	Im no cat killer.
+What do you think, J	Im no cat killer.
+What do you think, J	Im no cat killer.
+How about we go over	Id really like to go
+How about we go over	Id really like to go
+How about we go over	Id really like to go
+How about we go over	Id really like to go
+He actually went to 	Yeah.
+He actually went to 	Yeah.
+He actually went to 	Yeah.
+He actually went to 	Yeah.
+Oh man, hes nuts.	Yeah, hes nuts.
+Oh man, hes nuts.	Yeah, hes nuts.
+Oh man, hes nuts.	Yeah, hes nuts.
+Oh man, hes nuts.	Yeah, hes nuts.
+How much are you dow	I dont know.
+How much are you dow	I dont know.
+How much are you dow	I dont know.
+How much are you dow	I dont know.
+Wow.	You dont have to say
+Wow.	You dont have to say
+Wow.	You dont have to say
+Wow.	You dont have to say
+Oh, look at this one	I really dont need t
+Oh, look at this one	I really dont need t
+Oh, look at this one	I really dont need t
+Oh, look at this one	I really dont need t
+What a body.	Yeah, and youre just
+What a body.	Yeah, and youre just
+What a body.	Yeah, and youre just
+What a body.	Yeah, and youre just
+Im gonna go down the	What?
+Im gonna go down the	What?
+Im gonna go down the	What?
+Im gonna go down the	What?
+Fifteen seconds.	You told him you kne
+Fifteen seconds.	You told him you kne
+Fifteen seconds.	You told him you kne
+Fifteen seconds.	You told him you kne
+Yeah, I mentioned Si	Well, thats it.
+Yeah, I mentioned Si	Well, thats it.
+Yeah, I mentioned Si	Well, thats it.
+Yeah, I mentioned Si	Well, thats it.
+Im keeping it.	So I know this guy.
+Im keeping it.	So I know this guy.
+Im keeping it.	So I know this guy.
+Im keeping it.	So I know this guy.
+I know.	Oh yeah, right.
+I know.	Oh yeah, right.
+I know.	Oh yeah, right.
+I know.	Oh yeah, right.
+Oh yeah, right.	Oh God.
+Oh yeah, right.	Oh God.
+Oh yeah, right.	Oh God.
+Oh yeah, right.	Oh God.
+No, its got a little	Well, thats good.
+No, its got a little	Well, thats good.
+No, its got a little	Well, thats good.
+No, its got a little	Well, thats good.
+Well, thats good.	Well, the drive home
+Well, thats good.	Well, the drive home
+Well, thats good.	Well, the drive home
+Well, thats good.	Well, the drive home
+No, its okay.	So, I guess you dont
+No, its okay.	So, I guess you dont
+No, its okay.	So, I guess you dont
+No, its okay.	So, I guess you dont
+Not especially.	Well, what do you wa
+Not especially.	Well, what do you wa
+Not especially.	Well, what do you wa
+Not especially.	Well, what do you wa
+What can we do?	We cold play Sorry!
+What can we do?	We cold play Sorry!
+What can we do?	We cold play Sorry!
+What can we do?	We cold play Sorry!
+Oh, youve never hear	No, what?
+Oh, youve never hear	No, what?
+Oh, youve never hear	No, what?
+Oh, youve never hear	No, what?
+I cant tell you.	Yeah, thats normal.
+I cant tell you.	Yeah, thats normal.
+I cant tell you.	Yeah, thats normal.
+I cant tell you.	Yeah, thats normal.
+That stock?	I did.
+That stock?	I did.
+That stock?	I did.
+That stock?	I did.
+I told you not to se	You did not tell me 
+I told you not to se	You did not tell me 
+I told you not to se	You did not tell me 
+I told you not to se	You did not tell me 
+I said the market fl	Look, Vanessa, of co
+I said the market fl	Look, Vanessa, of co
+I said the market fl	Look, Vanessa, of co
+I said the market fl	Look, Vanessa, of co
+Thats probably why w	What?
+Thats probably why w	What?
+Thats probably why w	What?
+Thats probably why w	What?
+Forget it.	No, what?
+Forget it.	No, what?
+Forget it.	No, what?
+Forget it.	No, what?
+Thats probably why w	So, what am I lookin
+Thats probably why w	So, what am I lookin
+Thats probably why w	So, what am I lookin
+Thats probably why w	So, what am I lookin
+So dont finish it.	Shes full.
+So dont finish it.	Shes full.
+So dont finish it.	Shes full.
+So dont finish it.	Shes full.
+I dont like to discu	How much?
+I dont like to discu	How much?
+I dont like to discu	How much?
+I dont like to discu	How much?
+I dont know, what?	So, Wilkinsons out o
+I dont know, what?	So, Wilkinsons out o
+I dont know, what?	So, Wilkinsons out o
+I dont know, what?	So, Wilkinsons out o
+Oh god.	Is that still from t
+Oh god.	Is that still from t
+Oh god.	Is that still from t
+Oh god.	Is that still from t
+No, I just have a co	So, what ever happen
+No, I just have a co	So, what ever happen
+No, I just have a co	So, what ever happen
+No, I just have a co	So, what ever happen
+Theyre very clean an	I gotta say, thats p
+Theyre very clean an	I gotta say, thats p
+Theyre very clean an	I gotta say, thats p
+Theyre very clean an	I gotta say, thats p
+Superman can go back	We went over that.
+Superman can go back	We went over that.
+Superman can go back	We went over that.
+Superman can go back	We went over that.
+Pst.	A robot butcher?
+Pst.	A robot butcher?
+Pst.	A robot butcher?
+Pst.	A robot butcher?
+Shhhhh.	Im not an investor.
+Shhhhh.	Im not an investor.
+Shhhhh.	Im not an investor.
+Shhhhh.	Im not an investor.
+Im not an investor.	Im always in traffic
+Im not an investor.	Im always in traffic
+Im not an investor.	Im always in traffic
+Im not an investor.	Im always in traffic
+She cant kill me rig	No, of course not.
+She cant kill me rig	No, of course not.
+She cant kill me rig	No, of course not.
+She cant kill me rig	No, of course not.
+People break up all 	Everyday.
+People break up all 	Everyday.
+People break up all 	Everyday.
+People break up all 	Everyday.
+It just didnt work o	You tried.
+It just didnt work o	You tried.
+It just didnt work o	You tried.
+It just didnt work o	You tried.
+I kept looking at he	Did you tell her you
+I kept looking at he	Did you tell her you
+I kept looking at he	Did you tell her you
+I kept looking at he	Did you tell her you
+Oh, I had no choice.	Youre a human being.
+Oh, I had no choice.	Youre a human being.
+Oh, I had no choice.	Youre a human being.
+Oh, I had no choice.	Youre a human being.
+And I didnt even ask	Youre too nice a guy
+And I didnt even ask	Youre too nice a guy
+And I didnt even ask	Youre too nice a guy
+And I didnt even ask	Youre too nice a guy
+I am.	Youre flesh and bloo
+I am.	Youre flesh and bloo
+I am.	Youre flesh and bloo
+I am.	Youre flesh and bloo
+I had nothing to do 	I told you when I me
+I had nothing to do 	I told you when I me
+I had nothing to do 	I told you when I me
+I had nothing to do 	I told you when I me
+My back is killing m	You gotta go to my c
+My back is killing m	You gotta go to my c
+My back is killing m	You gotta go to my c
+My back is killing m	You gotta go to my c
+Oh yeah, everybodys 	Im gonna make an app
+Oh yeah, everybodys 	Im gonna make an app
+Oh yeah, everybodys 	Im gonna make an app
+Oh yeah, everybodys 	Im gonna make an app
+Please.	You should just do i
+Please.	You should just do i
+Please.	You should just do i
+Please.	You should just do i
+Hi.	Hi.
+Hi.	Hi.
+Hi.	Hi.
+Hi.	Hi.
+Hello, Jerry.	Hello.
+Hello, Jerry.	Hello.
+Hello, Jerry.	Hello.
+Hello, Jerry.	Hello.
+Did you get a haircu	No, shower.
+Did you get a haircu	No, shower.
+Did you get a haircu	No, shower.
+Did you get a haircu	No, shower.
+And now, theres this	A relationship is an
+And now, theres this	A relationship is an
+And now, theres this	A relationship is an
+And now, theres this	A relationship is an
+If I was a different	Hello.
+If I was a different	Hello.
+If I was a different	Hello.
+If I was a different	Hello.
+Come on up.	Oh, its you again.
+Come on up.	Oh, its you again.
+Come on up.	Oh, its you again.
+Come on up.	Oh, its you again.
+Taste this.	No, I just had a san
+Taste this.	No, I just had a san
+Taste this.	No, I just had a san
+Taste this.	No, I just had a san
+No, taste it.	I dont want cantalou
+No, taste it.	I dont want cantalou
+No, taste it.	I dont want cantalou
+No, taste it.	I dont want cantalou
+Youve never had cant	I only eat cantaloup
+Youve never had cant	I only eat cantaloup
+Youve never had cant	I only eat cantaloup
+Youve never had cant	I only eat cantaloup
+.	.
+.	.
+.	.
+.	.
+Uhhuh.	Its very good.
+Uhhuh.	Its very good.
+Uhhuh.	Its very good.
+Uhhuh.	Its very good.
+Good, huh?	Good.
+Good, huh?	Good.
+Good, huh?	Good.
+Good, huh?	Good.
+I got it at Joes.	Uhhuh.
+I got it at Joes.	Uhhuh.
+I got it at Joes.	Uhhuh.
+I got it at Joes.	Uhhuh.
+Fortynine cents a po	Its too far.
+Fortynine cents a po	Its too far.
+Fortynine cents a po	Its too far.
+Fortynine cents a po	Its too far.
+Its three blocks fur	Im not pulling a sho
+Its three blocks fur	Im not pulling a sho
+Its three blocks fur	Im not pulling a sho
+Its three blocks fur	Im not pulling a sho
+See, the other thing	I dont return fruit.
+See, the other thing	I dont return fruit.
+See, the other thing	I dont return fruit.
+See, the other thing	I dont return fruit.
+Im outta there.	You did it?
+Im outta there.	You did it?
+Im outta there.	You did it?
+Im outta there.	You did it?
+I told her.	Uhhuh.
+I told her.	Uhhuh.
+I told her.	Uhhuh.
+I told her.	Uhhuh.
+I said, Listen Marle	See, its never as ba
+I said, Listen Marle	See, its never as ba
+I said, Listen Marle	See, its never as ba
+I said, Listen Marle	See, its never as ba
+Uh, no, I, I dont th	Could you stop that 
+Uh, no, I, I dont th	Could you stop that 
+Uh, no, I, I dont th	Could you stop that 
+Uh, no, I, I dont th	Could you stop that 
+Jerry, tell him how 	Its very good cantal
+Jerry, tell him how 	Its very good cantal
+Jerry, tell him how 	Its very good cantal
+Jerry, tell him how 	Its very good cantal
+Except for one small	So, go get them.
+Except for one small	So, go get them.
+Except for one small	So, go get them.
+Except for one small	So, go get them.
+Oh, no no, I cant go	So forget about the 
+Oh, no no, I cant go	So forget about the 
+Oh, no no, I cant go	So forget about the 
+Oh, no no, I cant go	So forget about the 
+Well, yeah.	What do you need the
+Well, yeah.	What do you need the
+Well, yeah.	What do you need the
+Well, yeah.	What do you need the
+I dont know.	What is this obsessi
+I dont know.	What is this obsessi
+I dont know.	What is this obsessi
+I dont know.	What is this obsessi
+Theyre my books.	So you want me to ge
+Theyre my books.	So you want me to ge
+Theyre my books.	So you want me to ge
+Theyre my books.	So you want me to ge
+.	So whatd you do?
+.	So whatd you do?
+.	So whatd you do?
+.	So whatd you do?
+Well, nothing.	Well, I have a gener
+Well, nothing.	Well, I have a gener
+Well, nothing.	Well, I have a gener
+Well, nothing.	Well, I have a gener
+Hey, you know, Jerry	No.
+Hey, you know, Jerry	No.
+Hey, you know, Jerry	No.
+Hey, you know, Jerry	No.
+Good enough.	I dont know how this
+Good enough.	I dont know how this
+Good enough.	I dont know how this
+Good enough.	I dont know how this
+Jerry, its not my fa	No, no.
+Jerry, its not my fa	No, no.
+Jerry, its not my fa	No, no.
+Jerry, its not my fa	No, no.
+It's standard.	Ohh!
+It's standard.	Ohh!
+It's standard.	Ohh!
+It's standard.	Ohh!
+What trying to get o	Ohhhh!
+What trying to get o	Ohhhh!
+What trying to get o	Ohhhh!
+What trying to get o	Ohhhh!
+Just do it like a Ba	Yeah.
+Just do it like a Ba	Yeah.
+Just do it like a Ba	Yeah.
+Just do it like a Ba	Yeah.
+Yeah, doctor.	The waiting room.
+Yeah, doctor.	The waiting room.
+Yeah, doctor.	The waiting room.
+Yeah, doctor.	The waiting room.
+The waiting room.	So, how was it?
+The waiting room.	So, how was it?
+The waiting room.	So, how was it?
+The waiting room.	So, how was it?
+I was in there for t	Well, its a first vi
+I was in there for t	Well, its a first vi
+I was in there for t	Well, its a first vi
+I was in there for t	Well, its a first vi
+Whats seventyfive bu	You cant do that.
+Whats seventyfive bu	You cant do that.
+Whats seventyfive bu	You cant do that.
+Whats seventyfive bu	You cant do that.
+Why not?	Hes a doctor.
+Why not?	Hes a doctor.
+Why not?	Hes a doctor.
+Why not?	Hes a doctor.
+Are you feeling weir	No, Im fine.
+Are you feeling weir	No, Im fine.
+Are you feeling weir	No, Im fine.
+Are you feeling weir	No, Im fine.
+Nothing really happe	Yeah, I know.
+Nothing really happe	Yeah, I know.
+Nothing really happe	Yeah, I know.
+Nothing really happe	Yeah, I know.
+We just kissed a lit	Yeah.
+We just kissed a lit	Yeah.
+We just kissed a lit	Yeah.
+We just kissed a lit	Yeah.
+Well.	Good night.
+Well.	Good night.
+Well.	Good night.
+Well.	Good night.
+Hey.	Hey.
+Hey.	Hey.
+Hey.	Hey.
+Hey.	Hey.
+Hips!	Uhhuh.
+Hips!	Uhhuh.
+Hips!	Uhhuh.
+Hips!	Uhhuh.
+You gotta come throu	That is out there.
+You gotta come throu	That is out there.
+You gotta come throu	That is out there.
+You gotta come throu	That is out there.
+Joes?	No, supermarket.
+Joes?	No, supermarket.
+Joes?	No, supermarket.
+Joes?	No, supermarket.
+Well, is it good?	Its uh okay.
+Well, is it good?	Its uh okay.
+Well, is it good?	Its uh okay.
+Well, is it good?	Its uh okay.
+See, that stinks.	Im not taking it bac
+See, that stinks.	Im not taking it bac
+See, that stinks.	Im not taking it bac
+See, that stinks.	Im not taking it bac
+All right, Ill take 	I dont care about it
+All right, Ill take 	I dont care about it
+All right, Ill take 	I dont care about it
+All right, Ill take 	I dont care about it
+Jerry, you should ca	All right.
+Jerry, you should ca	All right.
+Jerry, you should ca	All right.
+Jerry, you should ca	All right.
+Well?	Marlene.
+Well?	Marlene.
+Well?	Marlene.
+Well?	Marlene.
+Oh.	Yeah, I took her hom
+Oh.	Yeah, I took her hom
+Oh.	Yeah, I took her hom
+Oh.	Yeah, I took her hom
+I thought you were t	I was.
+I thought you were t	I was.
+I thought you were t	I was.
+I thought you were t	I was.
+Does George know?	No, hed go nuts.
+Does George know?	No, hed go nuts.
+Does George know?	No, hed go nuts.
+Does George know?	No, hed go nuts.
+Yeah, no kidding.	I feel terrible.
+Yeah, no kidding.	I feel terrible.
+Yeah, no kidding.	I feel terrible.
+Yeah, no kidding.	I feel terrible.
+Whoa, psychosexual.	I dont know how Im g
+Whoa, psychosexual.	I dont know how Im g
+Whoa, psychosexual.	I dont know how Im g
+Whoa, psychosexual.	I dont know how Im g
+Man, I dont understa	Its partially you, y
+Man, I dont understa	Its partially you, y
+Man, I dont understa	Its partially you, y
+Man, I dont understa	Its partially you, y
+Youre his friend.	Well, he cant kill m
+Youre his friend.	Well, he cant kill m
+Youre his friend.	Well, he cant kill m
+Youre his friend.	Well, he cant kill m
+Youre a human being.	I mean, she called m
+Youre a human being.	I mean, she called m
+Youre a human being.	I mean, she called m
+Youre a human being.	I mean, she called m
+Youre flesh and bloo	Im a nice guy.
+Youre flesh and bloo	Im a nice guy.
+Youre flesh and bloo	Im a nice guy.
+Youre flesh and bloo	Im a nice guy.
+Hi.	Oh, my little airpla
+Hi.	Oh, my little airpla
+Hi.	Oh, my little airpla
+Hi.	Oh, my little airpla
+You know, you have t	Well, the apartment 
+You know, you have t	Well, the apartment 
+You know, you have t	Well, the apartment 
+You know, you have t	Well, the apartment 
+Unless youre married	Yeah.
+Unless youre married	Yeah.
+Unless youre married	Yeah.
+Unless youre married	Yeah.
+Nope.	Well, you know what 
+Nope.	Well, you know what 
+Nope.	Well, you know what 
+Nope.	Well, you know what 
+So, I had what you m	Really?
+So, I had what you m	Really?
+So, I had what you m	Really?
+So, I had what you m	Really?
+Yes.	You talked to him?
+Yes.	You talked to him?
+Yes.	You talked to him?
+Yes.	You talked to him?
+Yes.	Right.
+Yes.	Right.
+Yes.	Right.
+Yes.	Right.
+So, I walked up behi	You said "you little
+So, I walked up behi	You said "you little
+So, I walked up behi	You said "you little
+So, I walked up behi	You said "you little
+I did.	This is amazing.
+I did.	This is amazing.
+I did.	This is amazing.
+I did.	This is amazing.
+And he says, he says	You are the Queen of
+And he says, he says	You are the Queen of
+And he says, he says	You are the Queen of
+And he says, he says	You are the Queen of
+I dont care.	Youre kidding.
+I dont care.	Youre kidding.
+I dont care.	Youre kidding.
+I dont care.	Youre kidding.
+No, I dont care.	You mean that?
+No, I dont care.	You mean that?
+No, I dont care.	You mean that?
+No, I dont care.	You mean that?
+Absolutely.	You dont care?
+Absolutely.	You dont care?
+Absolutely.	You dont care?
+Absolutely.	You dont care?
+No.	How could you not ca
+No.	How could you not ca
+No.	How could you not ca
+No.	How could you not ca
+I dont know.	I thought youd be up
+I dont know.	I thought youd be up
+I dont know.	I thought youd be up
+I dont know.	I thought youd be up
+I guess I should be,	Am I a bad person?
+I guess I should be,	Am I a bad person?
+I guess I should be,	Am I a bad person?
+I guess I should be,	Am I a bad person?
+Youre a fine person.	That voice.
+Youre a fine person.	That voice.
+Youre a fine person.	That voice.
+Youre a fine person.	That voice.
+I know.	So I can see her ton
+I know.	So I can see her ton
+I know.	So I can see her ton
+I know.	So I can see her ton
+See her tonight.	All right.
+See her tonight.	All right.
+See her tonight.	All right.
+See her tonight.	All right.
+Im okay.	Good.
+Im okay.	Good.
+Im okay.	Good.
+Im okay.	Good.
+You paid that crook?	I had to.
+You paid that crook?	I had to.
+You paid that crook?	I had to.
+You paid that crook?	I had to.
+He didnt do anything	It was embarrassing 
+He didnt do anything	It was embarrassing 
+He didnt do anything	It was embarrassing 
+He didnt do anything	It was embarrassing 
+Oh, I was trying to 	Why dont you make a 
+Oh, I was trying to 	Why dont you make a 
+Oh, I was trying to 	Why dont you make a 
+Oh, I was trying to 	Why dont you make a 
+I think I swallowed 	So, you wanna come u
+I think I swallowed 	So, you wanna come u
+I think I swallowed 	So, you wanna come u
+I think I swallowed 	So, you wanna come u
+Im sorry, Jerry.	Really?
+Im sorry, Jerry.	Really?
+Im sorry, Jerry.	Really?
+Im sorry, Jerry.	Really?
+I know, Im sorry.	Gee, I just didnt ex
+I know, Im sorry.	Gee, I just didnt ex
+I know, Im sorry.	Gee, I just didnt ex
+I know, Im sorry.	Gee, I just didnt ex
+You sure you want to	Of course I want to 
+You sure you want to	Of course I want to 
+You sure you want to	Of course I want to 
+You sure you want to	Of course I want to 
+Well, okay.	Tuesday night?
+Well, okay.	Tuesday night?
+Well, okay.	Tuesday night?
+Well, okay.	Tuesday night?
+I saw your act.	My act?
+I saw your act.	My act?
+I saw your act.	My act?
+I saw your act.	My act?
+Well, to be honest, 	I cant believe this.
+Well, to be honest, 	I cant believe this.
+Well, to be honest, 	I cant believe this.
+Well, to be honest, 	I cant believe this.
+I cant be with someo	Youre a cashier!
+I cant be with someo	Youre a cashier!
+I cant be with someo	Youre a cashier!
+I cant be with someo	Youre a cashier!
+Look, Jerry, its jus	You cant go by the a
+Look, Jerry, its jus	You cant go by the a
+Look, Jerry, its jus	You cant go by the a
+Look, Jerry, its jus	You cant go by the a
+I heard the material	I have other stuff.
+I heard the material	I have other stuff.
+I heard the material	I have other stuff.
+I heard the material	I have other stuff.
+I have other stuff.	Women need to like t
+I have other stuff.	Women need to like t
+I have other stuff.	Women need to like t
+I have other stuff.	Women need to like t
+Women need to like t	My parents live in F
+Women need to like t	My parents live in F
+Women need to like t	My parents live in F
+Women need to like t	My parents live in F
+Hello?	Hi.
+Hello?	Hi.
+Hello?	Hi.
+Hello?	Hi.
+Hi.	Would you make this 
+Hi.	Would you make this 
+Hi.	Would you make this 
+Hi.	Would you make this 
+So, howd you do?	We won.
+So, howd you do?	We won.
+So, howd you do?	We won.
+So, howd you do?	We won.
+This is your greates	Well, no.
+This is your greates	Well, no.
+This is your greates	Well, no.
+This is your greates	Well, no.
+Jerry, look at this 	Well, the mans an in
+Jerry, look at this 	Well, the mans an in
+Jerry, look at this 	Well, the mans an in
+Jerry, look at this 	Well, the mans an in
+You know, I spoke to	First of all, I made
+You know, I spoke to	First of all, I made
+You know, I spoke to	First of all, I made
+You know, I spoke to	First of all, I made
+So bring her.	I dont even know the
+So bring her.	I dont even know the
+So bring her.	I dont even know the
+So bring her.	I dont even know the
+How come he gets to 	If I wind up sitting
+How come he gets to 	If I wind up sitting
+How come he gets to 	If I wind up sitting
+How come he gets to 	If I wind up sitting
+And its always about	Yeah.
+And its always about	Yeah.
+And its always about	Yeah.
+And its always about	Yeah.
+Hey, howd you do?	We won.
+Hey, howd you do?	We won.
+Hey, howd you do?	We won.
+Hey, howd you do?	We won.
+Yeah!	What is this about?
+Yeah!	What is this about?
+Yeah!	What is this about?
+Yeah!	What is this about?
+Im completely changi	What are you doing?
+Im completely changi	What are you doing?
+Im completely changi	What are you doing?
+Im completely changi	What are you doing?
+Levels.	Levels?
+Levels.	Levels?
+Levels.	Levels?
+Levels.	Levels?
+Yeah, Im getting rid	You drew up plans fo
+Yeah, Im getting rid	You drew up plans fo
+Yeah, Im getting rid	You drew up plans fo
+Yeah, Im getting rid	You drew up plans fo
+Oh, Ill be comfortab	When do you intend t
+Oh, Ill be comfortab	When do you intend t
+Oh, Ill be comfortab	When do you intend t
+Oh, Ill be comfortab	When do you intend t
+Ohh.	Youre doing this you
+Ohh.	Youre doing this you
+Ohh.	Youre doing this you
+Ohh.	Youre doing this you
+Its a simple job.	Oh, no.
+Its a simple job.	Oh, no.
+Its a simple job.	Oh, no.
+Its a simple job.	Oh, no.
+Hey, thats some big 	I, dont see it happe
+Hey, thats some big 	I, dont see it happe
+Hey, thats some big 	I, dont see it happe
+Hey, thats some big 	I, dont see it happe
+Well, this time, thi	Seriously?
+Well, this time, thi	Seriously?
+Well, this time, thi	Seriously?
+Well, this time, thi	Seriously?
+A big dinner with de	Ill give you a year.
+A big dinner with de	Ill give you a year.
+A big dinner with de	Ill give you a year.
+A big dinner with de	Ill give you a year.
+No no no.	Its a bet.
+No no no.	Its a bet.
+No no no.	Its a bet.
+No no no.	Its a bet.
+Its a bet.	Seriously, do you wa
+Its a bet.	Seriously, do you wa
+Its a bet.	Seriously, do you wa
+Its a bet.	Seriously, do you wa
+Jerry, are you liste	Yeah, Uncle Leo.
+Jerry, are you liste	Yeah, Uncle Leo.
+Jerry, are you liste	Yeah, Uncle Leo.
+Jerry, are you liste	Yeah, Uncle Leo.
+So, so, now the park	Right.
+So, so, now the park	Right.
+So, so, now the park	Right.
+So, so, now the park	Right.
+No, for the walking 	Oh, yeah.
+No, for the walking 	Oh, yeah.
+No, for the walking 	Oh, yeah.
+No, for the walking 	Oh, yeah.
+Thats exactly right.	Mickey Mantle?
+Thats exactly right.	Mickey Mantle?
+Thats exactly right.	Mickey Mantle?
+Thats exactly right.	Mickey Mantle?
+Jerry, Jerry.	These peas are burst
+Jerry, Jerry.	These peas are burst
+Jerry, Jerry.	These peas are burst
+Jerry, Jerry.	These peas are burst
+Are you ready for de	Well, actually, we d
+Are you ready for de	Well, actually, we d
+Are you ready for de	Well, actually, we d
+Are you ready for de	Well, actually, we d
+Oh uh, I dont really	Yeah, I cant eat des
+Oh uh, I dont really	Yeah, I cant eat des
+Oh uh, I dont really	Yeah, I cant eat des
+Oh uh, I dont really	Yeah, I cant eat des
+I hear the fella own	Horses?
+I hear the fella own	Horses?
+I hear the fella own	Horses?
+I hear the fella own	Horses?
+What about ponies?	I know, I hated thos
+What about ponies?	I know, I hated thos
+What about ponies?	I know, I hated thos
+What about ponies?	I know, I hated thos
+I had a pony.	Well, I didnt uh rea
+I had a pony.	Well, I didnt uh rea
+I had a pony.	Well, I didnt uh rea
+I had a pony.	Well, I didnt uh rea
+When I was a little 	Nothing.
+When I was a little 	Nothing.
+When I was a little 	Nothing.
+When I was a little 	Nothing.
+He was a beautiful p	Well, Im sure you di
+He was a beautiful p	Well, Im sure you di
+He was a beautiful p	Well, Im sure you di
+He was a beautiful p	Well, Im sure you di
+You!	No, see, we didnt ha
+You!	No, see, we didnt ha
+You!	No, see, we didnt ha
+You!	No, see, we didnt ha
+Have your coffee, ev	I didnt know she had
+Have your coffee, ev	I didnt know she had
+Have your coffee, ev	I didnt know she had
+Have your coffee, ev	I didnt know she had
+I didnt know she had	Ill drive you to the
+I didnt know she had	Ill drive you to the
+I didnt know she had	Ill drive you to the
+I didnt know she had	Ill drive you to the
+No, were taking a ca	I just hope that who
+No, were taking a ca	I just hope that who
+No, were taking a ca	I just hope that who
+No, were taking a ca	I just hope that who
+Hey, I agree with hi	Well, if you ever ta
+Hey, I agree with hi	Well, if you ever ta
+Hey, I agree with hi	Well, if you ever ta
+Hey, I agree with hi	Well, if you ever ta
+You know, you should	Maybe I will.
+You know, you should	Maybe I will.
+You know, you should	Maybe I will.
+You know, you should	Maybe I will.
+Oh, well.	Really?
+Oh, well.	Really?
+Oh, well.	Really?
+Oh, well.	Really?
+Goodbye, Jerry.	Take care.
+Goodbye, Jerry.	Take care.
+Goodbye, Jerry.	Take care.
+Goodbye, Jerry.	Take care.
+Bye, Jer.	Bye, Dad.
+Bye, Jer.	Bye, Dad.
+Bye, Jer.	Bye, Dad.
+Bye, Jer.	Bye, Dad.
+Yeah.	So, when do I get my
+Yeah.	So, when do I get my
+Yeah.	So, when do I get my
+Yeah.	So, when do I get my
+Theres no dinner.	Yes, I know youre no
+Theres no dinner.	Yes, I know youre no
+Theres no dinner.	Yes, I know youre no
+Theres no dinner.	Yes, I know youre no
+Ya well, theres no b	Thats the bet!
+Ya well, theres no b	Thats the bet!
+Ya well, theres no b	Thats the bet!
+Ya well, theres no b	Thats the bet!
+Yeah, well, I could 	We didnt bet on if y
+Yeah, well, I could 	We didnt bet on if y
+Yeah, well, I could 	We didnt bet on if y
+Yeah, well, I could 	We didnt bet on if y
+And it could be done	Well, of course it c
+And it could be done	Well, of course it c
+And it could be done	Well, of course it c
+And it could be done	Well, of course it c
+I dont want the leve	Thats the bet!
+I dont want the leve	Thats the bet!
+I dont want the leve	Thats the bet!
+I dont want the leve	Thats the bet!
+Who did you talk to?	Uncle Leo.
+Who did you talk to?	Uncle Leo.
+Who did you talk to?	Uncle Leo.
+Who did you talk to?	Uncle Leo.
+And whens the funera	I dont know.
+And whens the funera	I dont know.
+And whens the funera	I dont know.
+And whens the funera	I dont know.
+She just had a check	What?
+She just had a check	What?
+She just had a check	What?
+She just had a check	What?
+What?	You dont think.
+What?	You dont think.
+What?	You dont think.
+What?	You dont think.
+Oh, dont be ridiculo	You dont think that 
+Oh, dont be ridiculo	You dont think that 
+Oh, dont be ridiculo	You dont think that 
+Oh, dont be ridiculo	You dont think that 
+You know what the fl	It was just an innoc
+You know what the fl	It was just an innoc
+You know what the fl	It was just an innoc
+You know what the fl	It was just an innoc
+Maybe we can get an 	The whole thing was 
+Maybe we can get an 	The whole thing was 
+Maybe we can get an 	The whole thing was 
+Maybe we can get an 	The whole thing was 
+The funerals Wednesd	Wednesday?
+The funerals Wednesd	Wednesday?
+The funerals Wednesd	Wednesday?
+The funerals Wednesd	Wednesday?
+Two o clock, Wednesd	Ah
+Two o clock, Wednesd	Ah
+Two o clock, Wednesd	Ah
+Two o clock, Wednesd	Ah
+What?	Ive got the softball
+What?	Ive got the softball
+What?	Ive got the softball
+What?	Ive got the softball
+So?	I didnt even know th
+So?	I didnt even know th
+So?	I didnt even know th
+So?	I didnt even know th
+So dont go.	I mean I met her thr
+So dont go.	I mean I met her thr
+So dont go.	I mean I met her thr
+So dont go.	I mean I met her thr
+Jerry, no ones forci	I mean, who has a fu
+Jerry, no ones forci	I mean, who has a fu
+Jerry, no ones forci	I mean, who has a fu
+Jerry, no ones forci	I mean, who has a fu
+What?	I dont know what to 
+What?	I dont know what to 
+What?	I dont know what to 
+What?	I dont know what to 
+You know what this f	We dont understand d
+You know what this f	We dont understand d
+You know what this f	We dont understand d
+You know what this f	We dont understand d
+I actually like poni	Two FortyFive.
+I actually like poni	Two FortyFive.
+I actually like poni	Two FortyFive.
+I actually like poni	Two FortyFive.
+And what times the f	Two o clock.
+And what times the f	Two o clock.
+And what times the f	Two o clock.
+And what times the f	Two o clock.
+How long does a fune	Depends on how nice 
+How long does a fune	Depends on how nice 
+How long does a fune	Depends on how nice 
+How long does a fune	Depends on how nice 
+So you cant do both?	You know, if the sit
+So you cant do both?	You know, if the sit
+So you cant do both?	You know, if the sit
+So you cant do both?	You know, if the sit
+They always make me 	I know, and then you
+They always make me 	I know, and then you
+They always make me 	I know, and then you
+They always make me 	I know, and then you
+He has to go.	Me?
+He has to go.	Me?
+He has to go.	Me?
+He has to go.	Me?
+Whos going to play l	Bender.
+Whos going to play l	Bender.
+Whos going to play l	Bender.
+Whos going to play l	Bender.
+You know how easy it	Fifty years they wer
+You know how easy it	Fifty years they wer
+You know how easy it	Fifty years they wer
+You know how easy it	Fifty years they wer
+Phoenix?	I dont know.
+Phoenix?	I dont know.
+Phoenix?	I dont know.
+Phoenix?	I dont know.
+Although this may se	Well, the games star
+Although this may se	Well, the games star
+Although this may se	Well, the games star
+Although this may se	Well, the games star
+Youve got your degre	I just wanted to say
+Youve got your degre	I just wanted to say
+Youve got your degre	I just wanted to say
+Youve got your degre	I just wanted to say
+Jerry, you wanna hea	Yeah.
+Jerry, you wanna hea	Yeah.
+Jerry, you wanna hea	Yeah.
+Jerry, you wanna hea	Yeah.
+You dont understand,	Once again, I just w
+You dont understand,	Once again, I just w
+You dont understand,	Once again, I just w
+You dont understand,	Once again, I just w
+Oh, Jeffrey.	You know Jeffery?
+Oh, Jeffrey.	You know Jeffery?
+Oh, Jeffrey.	You know Jeffery?
+Oh, Jeffrey.	You know Jeffery?
+Its raining.	Its raining?
+Its raining.	Its raining?
+Its raining.	Its raining?
+Its raining.	Its raining?
+Who gets picked off 	Its never happened t
+Who gets picked off 	Its never happened t
+Who gets picked off 	Its never happened t
+Who gets picked off 	Its never happened t
+I remember saying to	Ill have to live wit
+I remember saying to	Ill have to live wit
+I remember saying to	Ill have to live wit
+I remember saying to	Ill have to live wit
+And then in the fift	I thought there were
+And then in the fift	I thought there were
+And then in the fift	I thought there were
+And then in the fift	I thought there were
+What about Sharon Be	Oh, well, of course.
+What about Sharon Be	Oh, well, of course.
+What about Sharon Be	Oh, well, of course.
+What about Sharon Be	Oh, well, of course.
+Makes you wonder, th	Wonder about what?
+Makes you wonder, th	Wonder about what?
+Makes you wonder, th	Wonder about what?
+Makes you wonder, th	Wonder about what?
+You know.	You think Manya show
+You know.	You think Manya show
+You know.	You think Manya show
+You know.	You think Manya show
+I never saw anyone p	But I went to the fu
+I never saw anyone p	But I went to the fu
+I never saw anyone p	But I went to the fu
+I never saw anyone p	But I went to the fu
+Maybe Manya missed t	Dont you think she w
+Maybe Manya missed t	Dont you think she w
+Maybe Manya missed t	Dont you think she w
+Maybe Manya missed t	Dont you think she w
+Not necessarily.	Who figures and immi
+Not necessarily.	Who figures and immi
+Not necessarily.	Who figures and immi
+Not necessarily.	Who figures and immi
+Who figures and immi	What is the pony?
+Who figures and immi	What is the pony?
+Who figures and immi	What is the pony?
+Who figures and immi	What is the pony?
+What is the pony?	I hate clothes, okay
+What is the pony?	I hate clothes, okay
+What is the pony?	I hate clothes, okay
+What is the pony?	I hate clothes, okay
+The back?	Why dont they open u
+The back?	Why dont they open u
+The back?	Why dont they open u
+The back?	Why dont they open u
+Oh, I just read that	Her father wrote tha
+Oh, I just read that	Her father wrote tha
+Oh, I just read that	Her father wrote tha
+Oh, I just read that	Her father wrote tha
+Hey, dont forget Sun	I guess Im coming.
+Hey, dont forget Sun	I guess Im coming.
+Hey, dont forget Sun	I guess Im coming.
+Hey, dont forget Sun	I guess Im coming.
+What?	No, Ill go.
+What?	No, Ill go.
+What?	No, Ill go.
+What?	No, Ill go.
+No, Jerry, you have 	Im worried I wont be
+No, Jerry, you have 	Im worried I wont be
+No, Jerry, you have 	Im worried I wont be
+No, Jerry, you have 	Im worried I wont be
+So, thats why were n	What is this?
+So, thats why were n	What is this?
+So, thats why were n	What is this?
+So, thats why were n	What is this?
+What is this?	This is beautiful.
+What is this?	This is beautiful.
+What is this?	This is beautiful.
+What is this?	This is beautiful.
+Wow, this is soft su	This may be the most
+Wow, this is soft su	This may be the most
+Wow, this is soft su	This may be the most
+Wow, this is soft su	This may be the most
+This may be the most	How much is it?
+This may be the most	How much is it?
+This may be the most	How much is it?
+This may be the most	How much is it?
+Oh my God.	Bad?
+Oh my God.	Bad?
+Oh my God.	Bad?
+Oh my God.	Bad?
+You have no idea.	I have some idea.
+You have no idea.	I have some idea.
+You have no idea.	I have some idea.
+You have no idea.	I have some idea.
+No idea.	Ive got a ballpark.
+No idea.	Ive got a ballpark.
+No idea.	Ive got a ballpark.
+No idea.	Ive got a ballpark.
+There is no park and	Let me see that.
+There is no park and	Let me see that.
+There is no park and	Let me see that.
+There is no park and	Let me see that.
+Oh man, that is a be	Whats with the pink 
+Oh man, that is a be	Whats with the pink 
+Oh man, that is a be	Whats with the pink 
+Oh man, that is a be	Whats with the pink 
+Well, its just a lin	Should I get it?
+Well, its just a lin	Should I get it?
+Well, its just a lin	Should I get it?
+Well, its just a lin	Should I get it?
+It looks wonderful o	Hey.
+It looks wonderful o	Hey.
+It looks wonderful o	Hey.
+It looks wonderful o	Hey.
+Hey.	What do you think?
+Hey.	What do you think?
+Hey.	What do you think?
+Hey.	What do you think?
+Its beautiful.	Is it me?
+Its beautiful.	Is it me?
+Its beautiful.	Is it me?
+Its beautiful.	Is it me?
+Thats definitely you	Really?
+Thats definitely you	Really?
+Thats definitely you	Really?
+Thats definitely you	Really?
+Thats more you than 	I dont know.
+Thats more you than 	I dont know.
+Thats more you than 	I dont know.
+Thats more you than 	I dont know.
+How much?	Whats the difference
+How much?	Whats the difference
+How much?	Whats the difference
+How much?	Whats the difference
+What, youre not gonn	Id rather not say it
+What, youre not gonn	Id rather not say it
+What, youre not gonn	Id rather not say it
+What, youre not gonn	Id rather not say it
+Over three hundred?	Yes, but lets just s
+Over three hundred?	Yes, but lets just s
+Over three hundred?	Yes, but lets just s
+Over three hundred?	Yes, but lets just s
+Is it over four hund	Would you?
+Is it over four hund	Would you?
+Is it over four hund	Would you?
+Is it over four hund	Would you?
+Woah, Nelson!	I know, I know.
+Woah, Nelson!	I know, I know.
+Woah, Nelson!	I know, I know.
+Woah, Nelson!	I know, I know.
+What are you gonna d	I dont know.
+What are you gonna d	I dont know.
+What are you gonna d	I dont know.
+What are you gonna d	I dont know.
+Well, are you gonna 	Maybe.
+Well, are you gonna 	Maybe.
+Well, are you gonna 	Maybe.
+Well, are you gonna 	Maybe.
+Youre not going to w	Do you want it?
+Youre not going to w	Do you want it?
+Youre not going to w	Do you want it?
+Youre not going to w	Do you want it?
+Well, yeah.	Okay, take it.
+Well, yeah.	Okay, take it.
+Well, yeah.	Okay, take it.
+Well, yeah.	Okay, take it.
+Master of the houseD	What is that song?
+Master of the houseD	What is that song?
+Master of the houseD	What is that song?
+Master of the houseD	What is that song?
+Oh, its from Les Mis	You know, Schumann w
+Oh, its from Les Mis	You know, Schumann w
+Oh, its from Les Mis	You know, Schumann w
+Oh, its from Les Mis	You know, Schumann w
+Artie Schuman?	No, you idiot.
+Artie Schuman?	No, you idiot.
+Artie Schuman?	No, you idiot.
+Artie Schuman?	No, you idiot.
+What are you, Bud Ab	You dont know Robert
+What are you, Bud Ab	You dont know Robert
+What are you, Bud Ab	You dont know Robert
+What are you, Bud Ab	You dont know Robert
+Oh, Schumann.	He went crazy from o
+Oh, Schumann.	He went crazy from o
+Oh, Schumann.	He went crazy from o
+Oh, Schumann.	He went crazy from o
+Really?	I know exactly whats
+Really?	I know exactly whats
+Really?	I know exactly whats
+Really?	I know exactly whats
+Yeah, hell be lookin	Let me just get my j
+Yeah, hell be lookin	Let me just get my j
+Yeah, hell be lookin	Let me just get my j
+Yeah, hell be lookin	Let me just get my j
+Master of the houseK	Wednesday.
+Master of the houseK	Wednesday.
+Master of the houseK	Wednesday.
+Master of the houseK	Wednesday.
+Can I say one thing 	Absolutely.
+Can I say one thing 	Absolutely.
+Can I say one thing 	Absolutely.
+Can I say one thing 	Absolutely.
+Its fabulous.	I know.
+Its fabulous.	I know.
+Its fabulous.	I know.
+Its fabulous.	I know.
+Hey.	Well, what kind of s
+Hey.	Well, what kind of s
+Hey.	Well, what kind of s
+Hey.	Well, what kind of s
+I need you to sit in	Birds?
+I need you to sit in	Birds?
+I need you to sit in	Birds?
+I need you to sit in	Birds?
+Yeah.	So take a cab.
+Yeah.	So take a cab.
+Yeah.	So take a cab.
+Yeah.	So take a cab.
+They wont take a cag	I cant.
+They wont take a cag	I cant.
+They wont take a cag	I cant.
+They wont take a cag	I cant.
+All right.	Two minutes.
+All right.	Two minutes.
+All right.	Two minutes.
+All right.	Two minutes.
+Master of the HouseQ	Schumann.
+Master of the HouseQ	Schumann.
+Master of the HouseQ	Schumann.
+Master of the HouseQ	Schumann.
+Maybe he didnt show 	What, you dont want 
+Maybe he didnt show 	What, you dont want 
+Maybe he didnt show 	What, you dont want 
+Maybe he didnt show 	What, you dont want 
+I dont think theres 	Yeah, I think it is.
+I dont think theres 	Yeah, I think it is.
+I dont think theres 	Yeah, I think it is.
+I dont think theres 	Yeah, I think it is.
+Im nervous.	Excuse me.
+Im nervous.	Excuse me.
+Im nervous.	Excuse me.
+Im nervous.	Excuse me.
+Yeah?	Im Jerry, Elaines fr
+Yeah?	Im Jerry, Elaines fr
+Yeah?	Im Jerry, Elaines fr
+Yeah?	Im Jerry, Elaines fr
+Sit down.	Sure.
+Sit down.	Sure.
+Sit down.	Sure.
+Sit down.	Sure.
+Whatll you have?	Ill have a cranberry
+Whatll you have?	Ill have a cranberry
+Whatll you have?	Ill have a cranberry
+Whatll you have?	Ill have a cranberry
+Wheres Elaine?	Well, we thought she
+Wheres Elaine?	Well, we thought she
+Wheres Elaine?	Well, we thought she
+Wheres Elaine?	Well, we thought she
+Yeah, yeah.	Yeah, yeah.
+Yeah, yeah.	Yeah, yeah.
+Yeah, yeah.	Yeah, yeah.
+Yeah, yeah.	Yeah, yeah.
+I guess.	It appears that way.
+I guess.	It appears that way.
+I guess.	It appears that way.
+I guess.	It appears that way.
+Yup.	Yup.
+Yup.	Yup.
+Yup.	Yup.
+Yup.	Yup.
+Oh, hes the comedian	Im just a regular pe
+Oh, hes the comedian	Im just a regular pe
+Oh, hes the comedian	Im just a regular pe
+Oh, hes the comedian	Im just a regular pe
+We had a funny guy w	Would you excuse me 
+We had a funny guy w	Would you excuse me 
+We had a funny guy w	Would you excuse me 
+We had a funny guy w	Would you excuse me 
+Thank you for leavin	That was brutal.
+Thank you for leavin	That was brutal.
+Thank you for leavin	That was brutal.
+Thank you for leavin	That was brutal.
+Well, lets just leav	Elainell kill me.
+Well, lets just leav	Elainell kill me.
+Well, lets just leav	Elainell kill me.
+Well, lets just leav	Elainell kill me.
+Where is she?	Shes gotta be here s
+Where is she?	Shes gotta be here s
+Where is she?	Shes gotta be here s
+Where is she?	Shes gotta be here s
+How could she leave 	The waiter was tremb
+How could she leave 	The waiter was tremb
+How could she leave 	The waiter was tremb
+How could she leave 	The waiter was tremb
+If she doesnt show u	How are we gonna get
+If she doesnt show u	How are we gonna get
+If she doesnt show u	How are we gonna get
+If she doesnt show u	How are we gonna get
+Well say were fright	Yeah, thats good.
+Well say were fright	Yeah, thats good.
+Well say were fright	Yeah, thats good.
+Well say were fright	Yeah, thats good.
+I dont know.	All fathers are inti
+I dont know.	All fathers are inti
+I dont know.	All fathers are inti
+I dont know.	All fathers are inti
+Yeah, they shouldve 	Well, Guatamala.
+Yeah, they shouldve 	Well, Guatamala.
+Yeah, they shouldve 	Well, Guatamala.
+Yeah, they shouldve 	Well, Guatamala.
+Come on, lets go!	What about Elaine?
+Come on, lets go!	What about Elaine?
+Come on, lets go!	What about Elaine?
+Come on, lets go!	What about Elaine?
+To hell with Elaine!	Shell be furious.
+To hell with Elaine!	Shell be furious.
+To hell with Elaine!	Shell be furious.
+To hell with Elaine!	Shell be furious.
+Were dying here!	Thats her!
+Were dying here!	Thats her!
+Were dying here!	Thats her!
+Were dying here!	Thats her!
+Hes in the bathroom.	Where have you been?
+Hes in the bathroom.	Where have you been?
+Hes in the bathroom.	Where have you been?
+Hes in the bathroom.	Where have you been?
+Kramer!	Oh, you didnt.
+Kramer!	Oh, you didnt.
+Kramer!	Oh, you didnt.
+Kramer!	Oh, you didnt.
+Well, he said hed dr	Great.
+Well, he said hed dr	Great.
+Well, he said hed dr	Great.
+Well, he said hed dr	Great.
+Good.	Oh, no, no.
+Good.	Oh, no, no.
+Good.	Oh, no, no.
+Good.	Oh, no, no.
+Man, Kramer!	I cant believe it.
+Man, Kramer!	I cant believe it.
+Man, Kramer!	I cant believe it.
+Man, Kramer!	I cant believe it.
+He said hed give me 	Ah, the lift.
+He said hed give me 	Ah, the lift.
+He said hed give me 	Ah, the lift.
+He said hed give me 	Ah, the lift.
+Ohh.	Snow.
+Ohh.	Snow.
+Ohh.	Snow.
+Ohh.	Snow.
+I wouldnt think so.	What should I do?
+I wouldnt think so.	What should I do?
+I wouldnt think so.	What should I do?
+I wouldnt think so.	What should I do?
+Why dont you just tu	Inside out!
+Why dont you just tu	Inside out!
+Why dont you just tu	Inside out!
+Why dont you just tu	Inside out!
+Wait a minute.	Oh, I turned my jack
+Wait a minute.	Oh, I turned my jack
+Wait a minute.	Oh, I turned my jack
+Wait a minute.	Oh, I turned my jack
+Well, you look like 	Well, its a new sued
+Well, you look like 	Well, its a new sued
+Well, you look like 	Well, its a new sued
+Well, you look like 	Well, its a new sued
+Its uh, it's only a 	Elaine?
+Its uh, it's only a 	Elaine?
+Its uh, it's only a 	Elaine?
+Its uh, it's only a 	Elaine?
+Yeah.	Come on up.
+Yeah.	Come on up.
+Yeah.	Come on up.
+Yeah.	Come on up.
+Hey.	Hey.
+Hey.	Hey.
+Hey.	Hey.
+Hey.	Hey.
+Ive gotta feed the b	So?
+Ive gotta feed the b	So?
+Ive gotta feed the b	So?
+Ive gotta feed the b	So?
+You got any of those	I cant believe I do.
+You got any of those	I cant believe I do.
+You got any of those	I cant believe I do.
+You got any of those	I cant believe I do.
+Yeah!	Yeah.
+Yeah!	Yeah.
+Yeah!	Yeah.
+Yeah!	Yeah.
+Hey, wheres your new	I was out in the sno
+Hey, wheres your new	I was out in the sno
+Hey, wheres your new	I was out in the sno
+Hey, wheres your new	I was out in the sno
+Dont you know what t	I have an idea.
+Dont you know what t	I have an idea.
+Dont you know what t	I have an idea.
+Dont you know what t	I have an idea.
+Okay.	Is he still in town?
+Okay.	Is he still in town?
+Okay.	Is he still in town?
+Okay.	Is he still in town?
+So, uh.	I dont know.
+So, uh.	I dont know.
+So, uh.	I dont know.
+So, uh.	I dont know.
+I didnt want to tell	Really?
+I didnt want to tell	Really?
+I didnt want to tell	Really?
+I didnt want to tell	Really?
+You gonna throw this	Well, I cant wear it
+You gonna throw this	Well, I cant wear it
+You gonna throw this	Well, I cant wear it
+You gonna throw this	Well, I cant wear it
+Well, if youre just 	Yeah, go ahead, take
+Well, if youre just 	Yeah, go ahead, take
+Well, if youre just 	Yeah, go ahead, take
+Well, if youre just 	Yeah, go ahead, take
+Dad thinks George is	Oh, because of all t
+Dad thinks George is	Oh, because of all t
+Dad thinks George is	Oh, because of all t
+Dad thinks George is	Oh, because of all t
+Isnt that.	Ill try and remember
+Isnt that.	Ill try and remember
+Isnt that.	Ill try and remember
+Isnt that.	Ill try and remember
+Boy, its too bad you	Yeah, too bad.
+Boy, its too bad you	Yeah, too bad.
+Boy, its too bad you	Yeah, too bad.
+Boy, its too bad you	Yeah, too bad.
+Master of the houseD	I had a leather jack
+Master of the houseD	I had a leather jack
+Master of the houseD	I had a leather jack
+Master of the houseD	I had a leather jack
+I had a leather jack	The bad thing about 
+I had a leather jack	The bad thing about 
+I had a leather jack	The bad thing about 
+I had a leather jack	The bad thing about 
+So then, as we were 	So you didnt ask?
+So then, as we were 	So you didnt ask?
+So then, as we were 	So you didnt ask?
+So then, as we were 	So you didnt ask?
+No, I froze.	Counter.
+No, I froze.	Counter.
+No, I froze.	Counter.
+No, I froze.	Counter.
+Oh yeah.	He said wuss?
+Oh yeah.	He said wuss?
+Oh yeah.	He said wuss?
+Oh yeah.	He said wuss?
+Yeah.	So you called.
+Yeah.	So you called.
+Yeah.	So you called.
+Yeah.	So you called.
+Right.	Yeah.
+Right.	Yeah.
+Right.	Yeah.
+Right.	Yeah.
+Right.	Wow.
+Right.	Wow.
+Right.	Wow.
+Right.	Wow.
+Oh, I dont get the e	All right, so youre 
+Oh, I dont get the e	All right, so youre 
+Oh, I dont get the e	All right, so youre 
+Oh, I dont get the e	All right, so youre 
+So, were talking, an	And?
+So, were talking, an	And?
+So, were talking, an	And?
+So, were talking, an	And?
+She bought.	Great day in the mor
+She bought.	Great day in the mor
+She bought.	Great day in the mor
+She bought.	Great day in the mor
+Then I got off the p	Sure, its like robbi
+Then I got off the p	Sure, its like robbi
+Then I got off the p	Sure, its like robbi
+Then I got off the p	Sure, its like robbi
+Absolutely.	Come on, try it.
+Absolutely.	Come on, try it.
+Absolutely.	Come on, try it.
+Absolutely.	Come on, try it.
+Thats Irish.	Irish, Scottish, wha
+Thats Irish.	Irish, Scottish, wha
+Thats Irish.	Irish, Scottish, wha
+Thats Irish.	Irish, Scottish, wha
+Thanks again for the	Youre welcome.
+Thanks again for the	Youre welcome.
+Thanks again for the	Youre welcome.
+Thanks again for the	Youre welcome.
+Id invite you up, bu	Oh, thats okay.
+Id invite you up, bu	Oh, thats okay.
+Id invite you up, bu	Oh, thats okay.
+Id invite you up, bu	Oh, thats okay.
+Unless you want to g	Okay.
+Unless you want to g	Okay.
+Unless you want to g	Okay.
+Unless you want to g	Okay.
+Take it easy!	I think if ones goin
+Take it easy!	I think if ones goin
+Take it easy!	I think if ones goin
+Take it easy!	I think if ones goin
+Values are very impo	Oh, so important.
+Values are very impo	Oh, so important.
+Values are very impo	Oh, so important.
+Values are very impo	Oh, so important.
+Thursdays great.	Tan pants.
+Thursdays great.	Tan pants.
+Thursdays great.	Tan pants.
+Thursdays great.	Tan pants.
+Are those Cotton Doc	Oh, I cant begin to 
+Are those Cotton Doc	Oh, I cant begin to 
+Are those Cotton Doc	Oh, I cant begin to 
+Are those Cotton Doc	Oh, I cant begin to 
+Really?	You like that commer
+Really?	You like that commer
+Really?	You like that commer
+Really?	You like that commer
+Yeah, its clever.	Now wait a second, y
+Yeah, its clever.	Now wait a second, y
+Yeah, its clever.	Now wait a second, y
+Yeah, its clever.	Now wait a second, y
+Yeah, thats the one.	What could you possi
+Yeah, thats the one.	What could you possi
+Yeah, thats the one.	What could you possi
+Yeah, thats the one.	What could you possi
+I dont know.	Yeah, theyre so funn
+I dont know.	Yeah, theyre so funn
+I dont know.	Yeah, theyre so funn
+I dont know.	Yeah, theyre so funn
+Hey, I know guys lik	Even if the dialogue
+Hey, I know guys lik	Even if the dialogue
+Hey, I know guys lik	Even if the dialogue
+Hey, I know guys lik	Even if the dialogue
+Thats the idea.	But theyre talking a
+Thats the idea.	But theyre talking a
+Thats the idea.	But theyre talking a
+Thats the idea.	But theyre talking a
+Thats the point.	I know the point.
+Thats the point.	I know the point.
+Thats the point.	I know the point.
+Thats the point.	I know the point.
+No one is telling yo	I mean, all those qu
+No one is telling yo	I mean, all those qu
+No one is telling yo	I mean, all those qu
+No one is telling yo	I mean, all those qu
+I mean, all those qu	Whats brutal about t
+I mean, all those qu	Whats brutal about t
+I mean, all those qu	Whats brutal about t
+I mean, all those qu	Whats brutal about t
+Whats brutal about t	Im supposed to see h
+Whats brutal about t	Im supposed to see h
+Whats brutal about t	Im supposed to see h
+Whats brutal about t	Im supposed to see h
+I once broke up with	No kidding.
+I once broke up with	No kidding.
+I once broke up with	No kidding.
+I once broke up with	No kidding.
+Hi.	Youre still thinking
+Hi.	Youre still thinking
+Hi.	Youre still thinking
+Hi.	Youre still thinking
+She invites me up at	She thinks youre a g
+She invites me up at	She thinks youre a g
+She invites me up at	She thinks youre a g
+She invites me up at	She thinks youre a g
+It is funny.	I like to use my own
+It is funny.	I like to use my own
+It is funny.	I like to use my own
+It is funny.	I like to use my own
+All right, I gotta m	Why do we have to le
+All right, I gotta m	Why do we have to le
+All right, I gotta m	Why do we have to le
+All right, I gotta m	Why do we have to le
+Oh, see, this is the	Youre kicking me out
+Oh, see, this is the	Youre kicking me out
+Oh, see, this is the	Youre kicking me out
+Oh, see, this is the	Youre kicking me out
+Right, alright.	Dont do the apples.
+Right, alright.	Dont do the apples.
+Right, alright.	Dont do the apples.
+Right, alright.	Dont do the apples.
+Um, hi, its George, 	Im just gonna get my
+Um, hi, its George, 	Im just gonna get my
+Um, hi, its George, 	Im just gonna get my
+Um, hi, its George, 	Im just gonna get my
+Got her machine.	What did you say?
+Got her machine.	What did you say?
+Got her machine.	What did you say?
+Got her machine.	What did you say?
+I dont know what the	After one date you t
+I dont know what the	After one date you t
+I dont know what the	After one date you t
+I dont know what the	After one date you t
+Somebody did that?	Shell call you back.
+Somebody did that?	Shell call you back.
+Somebody did that?	Shell call you back.
+Somebody did that?	Shell call you back.
+Shell call you back.	Not once.
+Shell call you back.	Not once.
+Shell call you back.	Not once.
+Shell call you back.	Not once.
+Never?	I have never seen on
+Never?	I have never seen on
+Never?	I have never seen on
+Never?	I have never seen on
+Thats amazing.	Thank you.
+Thats amazing.	Thank you.
+Thats amazing.	Thank you.
+Thats amazing.	Thank you.
+Is there anything el	Yes, Im lactose into
+Is there anything el	Yes, Im lactose into
+Is there anything el	Yes, Im lactose into
+Is there anything el	Yes, Im lactose into
+Really?	I have no patience f
+Really?	I have no patience f
+Really?	I have no patience f
+Really?	I have no patience f
+So you go around tel	What?
+So you go around tel	What?
+So you go around tel	What?
+So you go around tel	What?
+You told him how I l	Well, so what if I s
+You told him how I l	Well, so what if I s
+You told him how I l	Well, so what if I s
+You told him how I l	Well, so what if I s
+Well, so, you didnt 	No, I had to tell my
+Well, so, you didnt 	No, I had to tell my
+Well, so, you didnt 	No, I had to tell my
+Well, so, you didnt 	No, I had to tell my
+Boy oh boy.	I said I couldnt bel
+Boy oh boy.	I said I couldnt bel
+Boy oh boy.	I said I couldnt bel
+Boy oh boy.	I said I couldnt bel
+I asked some friends	Boy, I bet you got a
+I asked some friends	Boy, I bet you got a
+I asked some friends	Boy, I bet you got a
+I asked some friends	Boy, I bet you got a
+Hey.	Oh uh, Kramer, this 
+Hey.	Oh uh, Kramer, this 
+Hey.	Oh uh, Kramer, this 
+Hey.	Oh uh, Kramer, this 
+Dont bother, Im leav	Donna, really, youre
+Dont bother, Im leav	Donna, really, youre
+Dont bother, Im leav	Donna, really, youre
+Dont bother, Im leav	Donna, really, youre
+One hundred percent 	Please, Donna.
+One hundred percent 	Please, Donna.
+One hundred percent 	Please, Donna.
+One hundred percent 	Please, Donna.
+I cant believe I sai	Dont worry about it,
+I cant believe I sai	Dont worry about it,
+I cant believe I sai	Dont worry about it,
+I cant believe I sai	Dont worry about it,
+What happened there?	Ill tell you later.
+What happened there?	Ill tell you later.
+What happened there?	Ill tell you later.
+What happened there?	Ill tell you later.
+Okay, so you remembe	You said that?
+Okay, so you remembe	You said that?
+Okay, so you remembe	You said that?
+Okay, so you remembe	You said that?
+I lost it.	I cant blame you.
+I lost it.	I cant blame you.
+I lost it.	I cant blame you.
+I lost it.	I cant blame you.
+She did.	What?
+She did.	What?
+She did.	What?
+She did.	What?
+She called my office	So she didnt get the
+She called my office	So she didnt get the
+She called my office	So she didnt get the
+She called my office	So she didnt get the
+Exactly, but theyre 	But what about the m
+Exactly, but theyre 	But what about the m
+Exactly, but theyre 	But what about the m
+Exactly, but theyre 	But what about the m
+But what about the m	Elaines thing?
+But what about the m	Elaines thing?
+But what about the m	Elaines thing?
+But what about the m	Elaines thing?
+Ill meet her outside	But you know as soon
+Ill meet her outside	But you know as soon
+Ill meet her outside	But you know as soon
+Ill meet her outside	But you know as soon
+Unless she goes for 	Theres nothing to it
+Unless she goes for 	Theres nothing to it
+Unless she goes for 	Theres nothing to it
+Unless she goes for 	Theres nothing to it
+You do it for me.	What?
+You do it for me.	What?
+You do it for me.	What?
+You do it for me.	What?
+Come on, itll be so 	How you gonna get me
+Come on, itll be so 	How you gonna get me
+Come on, itll be so 	How you gonna get me
+Come on, itll be so 	How you gonna get me
+Ill tell her I bumpe	And who makes the sw
+Ill tell her I bumpe	And who makes the sw
+Ill tell her I bumpe	And who makes the sw
+Ill tell her I bumpe	And who makes the sw
+You do.	I do.
+You do.	I do.
+You do.	I do.
+You do.	I do.
+I cant do it.	I cant get involved 
+I cant do it.	I cant get involved 
+I cant do it.	I cant get involved 
+I cant do it.	I cant get involved 
+I think I may be in 	What if she sees me?
+I think I may be in 	What if she sees me?
+I think I may be in 	What if she sees me?
+I think I may be in 	What if she sees me?
+Oh, you are such a w	A wuss?
+Oh, you are such a w	A wuss?
+Oh, you are such a w	A wuss?
+Oh, you are such a w	A wuss?
+Yeah.	Did you call me a wu
+Yeah.	Did you call me a wu
+Yeah.	Did you call me a wu
+Yeah.	Did you call me a wu
+Well there is traffi	I got one problem.
+Well there is traffi	I got one problem.
+Well there is traffi	I got one problem.
+Well there is traffi	I got one problem.
+A signal, right, um,	Tippy Toe?
+A signal, right, um,	Tippy Toe?
+A signal, right, um,	Tippy Toe?
+A signal, right, um,	Tippy Toe?
+You dont like tippy 	No tippy toe.
+You dont like tippy 	No tippy toe.
+You dont like tippy 	No tippy toe.
+You dont like tippy 	No tippy toe.
+All right, uh, okay,	What song?
+All right, uh, okay,	What song?
+All right, uh, okay,	What song?
+All right, uh, okay,	What song?
+How Do You Solve A P	What is that?
+How Do You Solve A P	What is that?
+How Do You Solve A P	What is that?
+How Do You Solve A P	What is that?
+Oh, its a lovely son	Anything else?
+Oh, its a lovely son	Anything else?
+Oh, its a lovely son	Anything else?
+Oh, its a lovely son	Anything else?
+You pick it.	Lemon Tree.
+You pick it.	Lemon Tree.
+You pick it.	Lemon Tree.
+You pick it.	Lemon Tree.
+Peter, Paul and Mary	No, Trini Lopez.
+Peter, Paul and Mary	No, Trini Lopez.
+Peter, Paul and Mary	No, Trini Lopez.
+Peter, Paul and Mary	No, Trini Lopez.
+Alright ok.	Standard.
+Alright ok.	Standard.
+Alright ok.	Standard.
+Alright ok.	Standard.
+How do you feel?	Feel good.
+How do you feel?	Feel good.
+How do you feel?	Feel good.
+How do you feel?	Feel good.
+You nervous?	Not at all.
+You nervous?	Not at all.
+You nervous?	Not at all.
+You nervous?	Not at all.
+Oh, this is my frien	All the time.
+Oh, this is my frien	All the time.
+Oh, this is my frien	All the time.
+Oh, this is my frien	All the time.
+Its nice to meet you	Hi.
+Its nice to meet you	Hi.
+Its nice to meet you	Hi.
+Its nice to meet you	Hi.
+No, what for?	You know, I really n
+No, what for?	You know, I really n
+No, what for?	You know, I really n
+No, what for?	You know, I really n
+The bathrooms on the	Uh, you know, why do
+The bathrooms on the	Uh, you know, why do
+The bathrooms on the	Uh, you know, why do
+The bathrooms on the	Uh, you know, why do
+No, Im fine.	Um, you know, its th
+No, Im fine.	Um, you know, its th
+No, Im fine.	Um, you know, its th
+No, Im fine.	Um, you know, its th
+Now I know who you a	Right.
+Now I know who you a	Right.
+Now I know who you a	Right.
+Now I know who you a	Right.
+Carol, thats so rude	Hey you two.
+Carol, thats so rude	Hey you two.
+Carol, thats so rude	Hey you two.
+Carol, thats so rude	Hey you two.
+Dont you find that s	Yes.
+Dont you find that s	Yes.
+Dont you find that s	Yes.
+Dont you find that s	Yes.
+Yours were hilarious	I love my phone mach
+Yours were hilarious	I love my phone mach
+Yours were hilarious	I love my phone mach
+Yours were hilarious	I love my phone mach
+I love my phone mach	Well, I painted my a
+I love my phone mach	Well, I painted my a
+I love my phone mach	Well, I painted my a
+I love my phone mach	Well, I painted my a
+Well, I painted my a	What did you do?
+Well, I painted my a	What did you do?
+Well, I painted my a	What did you do?
+Well, I painted my a	What did you do?
+You know, I should'v	Well, looks are so s
+You know, I should'v	Well, looks are so s
+You know, I should'v	Well, looks are so s
+You know, I should'v	Well, looks are so s
+She lives right abov	Maybe.
+She lives right abov	Maybe.
+She lives right abov	Maybe.
+She lives right abov	Maybe.
+No, Im not going up 	Harold and Manny.
+No, Im not going up 	Harold and Manny.
+No, Im not going up 	Harold and Manny.
+No, Im not going up 	Harold and Manny.
+Im not going.	Boys, boys.
+Im not going.	Boys, boys.
+Im not going.	Boys, boys.
+Im not going.	Boys, boys.
+Oh, Jerry.	I slid the rent unde
+Oh, Jerry.	I slid the rent unde
+Oh, Jerry.	I slid the rent unde
+Oh, Jerry.	I slid the rent unde
+We have to go up the	She died?
+We have to go up the	She died?
+We have to go up the	She died?
+We have to go up the	She died?
+Whats the matter wit	Are you kidding?
+Whats the matter wit	Are you kidding?
+Whats the matter wit	Are you kidding?
+Whats the matter wit	Are you kidding?
+Oh yeah, I like her.	Its not promised to 
+Oh yeah, I like her.	Its not promised to 
+Oh yeah, I like her.	Its not promised to 
+Oh yeah, I like her.	Its not promised to 
+Whats the difference	So, its okay?
+Whats the difference	So, its okay?
+Whats the difference	So, its okay?
+Whats the difference	So, its okay?
+What was that all ab	Oh, nothing importan
+What was that all ab	Oh, nothing importan
+What was that all ab	Oh, nothing importan
+What was that all ab	Oh, nothing importan
+Whats going on?	What look?
+Whats going on?	What look?
+Whats going on?	What look?
+Whats going on?	What look?
+Somethings going on 	I dont know if you s
+Somethings going on 	I dont know if you s
+Somethings going on 	I dont know if you s
+Somethings going on 	I dont know if you s
+Jumping up and down?	Oh, Elaine.
+Jumping up and down?	Oh, Elaine.
+Jumping up and down?	Oh, Elaine.
+Jumping up and down?	Oh, Elaine.
+Would you please?	What would you say i
+Would you please?	What would you say i
+Would you please?	What would you say i
+Would you please?	What would you say i
+Told me what?	.
+Told me what?	.
+Told me what?	.
+Told me what?	.
+No.	Yes.
+No.	Yes.
+No.	Yes.
+No.	Yes.
+No.	Yes.
+No.	Yes.
+No.	Yes.
+No.	Yes.
+You didnt.	I did.
+You didnt.	I did.
+You didnt.	I did.
+You didnt.	I did.
+You got me an apartm	I got you an apartme
+You got me an apartm	I got you an apartme
+You got me an apartm	I got you an apartme
+You got me an apartm	I got you an apartme
+How did you.	Remember Mrs.
+How did you.	Remember Mrs.
+How did you.	Remember Mrs.
+How did you.	Remember Mrs.
+No.	She died.
+No.	She died.
+No.	She died.
+No.	She died.
+She died?	She died.
+She died?	She died.
+She died?	She died.
+She died?	She died.
+She died!	And the rent is only
+She died!	And the rent is only
+She died!	And the rent is only
+She died!	And the rent is only
+Four hundred a month	Four hundred a month
+Four hundred a month	Four hundred a month
+Four hundred a month	Four hundred a month
+Four hundred a month	Four hundred a month
+And Ill be right ups	Right upstairs.
+And Ill be right ups	Right upstairs.
+And Ill be right ups	Right upstairs.
+And Ill be right ups	Right upstairs.
+Right above you?	Right above me.
+Right above you?	Right above me.
+Right above you?	Right above me.
+Right above you?	Right above me.
+Oh, were neighbors.	All the time.
+Oh, were neighbors.	All the time.
+Oh, were neighbors.	All the time.
+Oh, were neighbors.	All the time.
+We can exchange keys	All the time.
+We can exchange keys	All the time.
+We can exchange keys	All the time.
+We can exchange keys	All the time.
+All the time.	The problem with tal
+All the time.	The problem with tal
+All the time.	The problem with tal
+All the time.	The problem with tal
+What happened to you	You cant believe wha
+What happened to you	You cant believe wha
+What happened to you	You cant believe wha
+What happened to you	You cant believe wha
+What?	I could tell you wha
+What?	I could tell you wha
+What?	I could tell you wha
+What?	I could tell you wha
+What did you do?	How could I have don
+What did you do?	How could I have don
+What did you do?	How could I have don
+What did you do?	How could I have don
+Done what?	I told Elaine about 
+Done what?	I told Elaine about 
+Done what?	I told Elaine about 
+Done what?	I told Elaine about 
+Elaines moving into 	Yes.
+Elaines moving into 	Yes.
+Elaines moving into 	Yes.
+Elaines moving into 	Yes.
+Right above you?	Yeah.
+Right above you?	Yeah.
+Right above you?	Yeah.
+Right above you?	Yeah.
+Youre gonna be neigh	I know.
+Youre gonna be neigh	I know.
+Youre gonna be neigh	I know.
+Youre gonna be neigh	I know.
+Shes right above you	Right above me.
+Shes right above you	Right above me.
+Shes right above you	Right above me.
+Shes right above you	Right above me.
+How could you do tha	Cause Im an idiot!
+How could you do tha	Cause Im an idiot!
+How could you do tha	Cause Im an idiot!
+How could you do tha	Cause Im an idiot!
+Dont insult me, my f	Did you ever ask an 
+Dont insult me, my f	Did you ever ask an 
+Dont insult me, my f	Did you ever ask an 
+Dont insult me, my f	Did you ever ask an 
+Did you ever go to a	Shes right in my bui
+Did you ever go to a	Shes right in my bui
+Did you ever go to a	Shes right in my bui
+Did you ever go to a	Shes right in my bui
+Youre doomed.	But I need the home 
+Youre doomed.	But I need the home 
+Youre doomed.	But I need the home 
+Youre doomed.	But I need the home 
+Of course.	Come in for two minu
+Of course.	Come in for two minu
+Of course.	Come in for two minu
+Of course.	Come in for two minu
+I was just in there.	Oh, whos gonna know?
+I was just in there.	Oh, whos gonna know?
+I was just in there.	Oh, whos gonna know?
+I was just in there.	Oh, whos gonna know?
+They saw me walk out	Two minutes.
+They saw me walk out	Two minutes.
+They saw me walk out	Two minutes.
+They saw me walk out	Two minutes.
+Two minutes.	My censoring system 
+Two minutes.	My censoring system 
+Two minutes.	My censoring system 
+Two minutes.	My censoring system 
+My censor quit two y	So, is there any way
+My censor quit two y	So, is there any way
+My censor quit two y	So, is there any way
+My censor quit two y	So, is there any way
+Tough.	You know, the water 
+Tough.	You know, the water 
+Tough.	You know, the water 
+Tough.	You know, the water 
+I never heard of any	If they were fanatic
+I never heard of any	If they were fanatic
+I never heard of any	If they were fanatic
+I never heard of any	If they were fanatic
+For that rent, shed 	Look at that woman f
+For that rent, shed 	Look at that woman f
+For that rent, shed 	Look at that woman f
+For that rent, shed 	Look at that woman f

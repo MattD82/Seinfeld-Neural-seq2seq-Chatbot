@@ -2,6 +2,8 @@ import pandas as pd
 import numpy as np 
 import argparse
 
+import re
+
 from keras.models import Model
 from keras.layers import Input, LSTM, Dense
 from keras.callbacks import ModelCheckpoint
@@ -25,8 +27,37 @@ class Seq2Seq_Train_Jerry(object):
         self.num_hidden_nodes = 256
 
         # variables for formatting the Question and Answer text
-        self.num_samples = 16000
-        self.max_seq_length = 100
+        self.num_samples = 1000
+        self.max_seq_length = 20
+    
+    def _clean_text(self, input_text, target_text):
+        punct_to_remove = '''[#$%&\()*+-/:;<=>@[\\]^_`{|}~]'''
+        
+        input_text = re.sub("[\(\[].*?[\)\]]", "", input_text).lstrip()
+        input_text = ''.join(ch for ch in input_text if ch not in punct_to_remove)
+        sent = ""
+        for char in input_text:
+            if char != '!' and char != '?' and char != '.':
+                sent += char
+            else:
+                sent += char
+                break
+
+        input_text = sent[:self.max_seq_length]
+
+        target_text = re.sub("[\(\[].*?[\)\]]", "", target_text).lstrip()
+        target_text = ''.join(ch for ch in target_text if ch not in punct_to_remove)
+        sent = ""
+        for char in target_text:
+            if char != '!' and char != '?' and char != '.':
+                sent += char
+            else:
+                sent += char
+                break
+
+        target_text = sent[:self.max_seq_length]
+
+        return input_text, target_text
 
     def load_parse_txt(self, txt_file_path):
         self.txt_file_path = txt_file_path
@@ -39,16 +70,22 @@ class Seq2Seq_Train_Jerry(object):
         # Open txt file, read in lines, and vectorize the data.
         with open(self.txt_file_path, 'r', encoding='utf8') as f:
             lines = f.read().split('\n')
-        print(lines)
         for line in lines[: min(self.num_samples, len(lines) - 1)]:
             input_text, target_text = line.split('\t')
             
-            input_text = input_text[:self.max_seq_length]
-            target_text = target_text[:self.max_seq_length]
+            # clean the text of excess punctuation
+            input_text, target_text = self._clean_text(input_text, target_text)
+
             # using "tab" as the "start sequence" character for the targets
             # using "\n" as "end sequence" character for the targets
             target_text = '\t' + target_text + '\n'
             self.input_texts.append(input_text)
+            self.input_texts.append(input_text)
+            self.input_texts.append(input_text)
+            self.input_texts.append(input_text)
+            self.target_texts.append(target_text)
+            self.target_texts.append(target_text)
+            self.target_texts.append(target_text)
             self.target_texts.append(target_text)
 
             # add unique chars to input and output sets
@@ -105,8 +142,22 @@ class Seq2Seq_Train_Jerry(object):
         self.target_idx2char  = dict((i, char) for char, i in self.target_char2idx.items())
         np.save('models/jerry/jerry_target_char2idx.npy', self.target_char2idx)
         np.save('models/jerry/jerry_target_idx2char.npy', self.target_idx2char)
+
+        self._save_actual_q_a_pairs_used()
+
+    def _save_actual_q_a_pairs_used(self):
+        outF = open("data/jerry_q_a_USED.txt", "w")
+        outF.write(str(self.input_char2idx))
+        outF.write("\n")
+        outF.write(str(self.target_char2idx))
+        outF.write("\n")
+        for q, a in zip(self.input_texts, self.target_texts):
+            # write line to output file
+            outF.write(q)
+            outF.write(a)
+        outF.close()
         
-    def create_3d_vectors(self):
+    def _create_3d_vectors(self):
         self.encoder_input_data = np.zeros(
                                           (self.num_inputs, 
                                            self.max_encoder_seq_length, 
@@ -137,9 +188,11 @@ class Seq2Seq_Train_Jerry(object):
                     # and will not include the start character.
                     self.decoder_target_data[i, t - 1, self.target_char2idx[char]] = 1.
 
-    def train_model(self, output_file_path, num_epochs=100):
+    def train_model(self, output_file_path):
+        self._create_3d_vectors()
+
         self.weights_file_path = output_file_path
-        self.num_epochs = num_epochs
+        # self.num_epochs = num_epochs
 
         # Define encoder model input and LSTM layers and states
         encoder_inputs = Input(shape=(None, self.num_encoder_tokens), name='encoder_inputs')
@@ -171,29 +224,28 @@ class Seq2Seq_Train_Jerry(object):
                                      verbose=1)
         
         # Run training and save weights
-        self.model.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['accuracy']) # 'rmsprop'
-        self.model.fit([self.encoder_input_data, self.decoder_input_data], 
+        self.model.compile(optimizer='rmsprop', loss='categorical_crossentropy', metrics=['accuracy']) # 'rmsprop' 'adam'
+        self.history = self.model.fit([self.encoder_input_data, self.decoder_input_data], 
                         self.decoder_target_data,
                         batch_size=self.batch_size,
                         epochs=self.num_epochs,
-                        validation_split=0.1,
+                        validation_split=0.2,
                         callbacks=[checkpoint])
 
-        #self.model.save_weights(self.weights_file_path)
+        self.model.save_weights('models/jerry/jerry_char-weights_final.h5')
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(
         description='Fit a seq2seq model and save the results.')
     parser.add_argument('--txtdata', 
-                        default='data/jerry_q_a_test.txt', 
+                        default='data/jerry_q_a.txt',  #jerry_q_a_test.txt
                         help='A txt file with input data.')
     parser.add_argument('--out', 
-                        default='models/jerry/jerry_char-weights_test.h5', 
+                        default='models/jerry/jerry_char-weights_best.h5', 
                         type=str, 
                         help='A file to save the model weights to.')
     args = parser.parse_args()
 
     seq2seq_Jerry = Seq2Seq_Train_Jerry()
     seq2seq_Jerry.load_parse_txt(args.txtdata)
-    seq2seq_Jerry.create_3d_vectors()
     seq2seq_Jerry.train_model(args.out)
