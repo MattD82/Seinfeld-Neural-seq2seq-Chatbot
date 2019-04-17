@@ -188,10 +188,11 @@ class Seq2Seq_Train_Jerry(object):
                     # and will not include the start character.
                     self.decoder_target_data[i, t - 1, self.target_char2idx[char]] = 1.
 
-    def train_model(self, output_file_path):
+    def train_model(self, best_weights_file_path, final_weights_file_path):
         self._create_3d_vectors()
 
-        self.weights_file_path = output_file_path
+        self.best_weights_file_path = best_weights_file_path
+        self.final_weights_file_path = final_weights_file_path
         # self.num_epochs = num_epochs
 
         # Define encoder model input and LSTM layers and states
@@ -218,7 +219,7 @@ class Seq2Seq_Train_Jerry(object):
 
         print(self.model.summary())
 
-        checkpoint = ModelCheckpoint(filepath=self.weights_file_path, 
+        checkpoint = ModelCheckpoint(filepath=self.best_weights_file_path, 
                                      save_best_only=True, 
                                      save_weights_only=True, 
                                      verbose=1)
@@ -232,7 +233,9 @@ class Seq2Seq_Train_Jerry(object):
                         validation_split=0.2,
                         callbacks=[checkpoint])
 
-        self.model.save_weights('models/jerry/jerry_char-weights_final.h5')
+        self.model.save_weights(self.final_weights_file_path)
+
+        np.save('models/jerry/jerry_model_history.npy', self.history)
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(
@@ -243,16 +246,16 @@ if __name__ == "__main__":
     parser.add_argument('--savebest', 
                         default='models/jerry/jerry_char-weights_best.h5', 
                         type=str, 
-                        help='A file patj to save the best model weights to.')
+                        help='File path to save the best model weights to.')
     parser.add_argument('--savefinal', 
-                    default='models/jerry/jerry_char-weights_best.h5', 
-                    type=str, 
-                    help='A file path to save the final model weights to.')
+                        default='models/jerry/jerry_char-weights_final.h5', 
+                        type=str, 
+                        help='File path to save the final model weights to.')
     args = parser.parse_args()
 
     seq2seq_Jerry = Seq2Seq_Train_Jerry()
     seq2seq_Jerry.load_parse_txt(args.txtdata)
-    seq2seq_Jerry.train_model(args.out)
+    seq2seq_Jerry.train_model(args.savebest, args.savefinal)
 
 
 
