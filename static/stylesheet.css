@@ -1,0 +1,27 @@
+body {
+    padding-top: 80px;
+    text-align: center;
+    font-family: monaco, monospace;
+    background: url(https://vignette.wikia.nocookie.net/seinfeld/images/5/50/Wiki-background/revision/latest?cb=20130314190005);
+    background-size: cover;
+  }
+h1, h2 {
+  display: inline-block;
+  background: #fff;
+}
+h1 {
+  font-size: 30px
+}
+h2 {
+  font-size: 20px;
+}
+span {
+  background: #fd0;
+}
+div.ex3 {
+    display: inline-block;
+    height: 300px;
+    width: 400px;  
+    overflow-y: auto;
+    text-align: center;
+  }

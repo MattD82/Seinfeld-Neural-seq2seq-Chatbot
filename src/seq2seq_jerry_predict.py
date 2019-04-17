@@ -41,7 +41,7 @@ class JerryChatBot(object):
 
         self.model = Model([encoder_inputs, decoder_inputs], decoder_outputs)
 
-        self.model.load_weights('models/jerry/jerry_char-weights_best.h5')
+        self.model.load_weights('models/jerry/jerry_char-weights_final.h5')
 
         # create encoder and decoder models for prediction
         self.encoder_model = Model(encoder_inputs, encoder_states)
@@ -153,7 +153,7 @@ class JerryChatBot(object):
 
 def main():
     model = JerryChatBot()
-    model.test_run(chat=True)
+    model.test_run(chat=False)
 
 if __name__ == "__main__":
     main()
