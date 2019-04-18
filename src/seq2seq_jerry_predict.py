@@ -2,30 +2,33 @@ import numpy as np
 from keras.models import Model
 from keras.layers import Input, LSTM, Dense
 from keras.callbacks import ModelCheckpoint
+import argparse
 
 
 class JerryChatBot(object):
     '''
-    Character-based seq2seq model that uses pretrained weights to allow the user to have a conversation
-    with the Jerry bot
+    Character-based seq2seq model that uses pretrained weights to allow the user to have a conversation.
+    with the Jerry bot.
+    Uses argument parsing to specify the model to use for predictions, and for continuous chat mode.
+    If you would like to chat continuously when running, set chat=True in argument parsing.
     '''
 
-    def __init__(self):
+    def __init__(self, model_to_use='models/jerry/samples_5000_seq_40/', best_or_final='final'):
         # use same num hidden nodes as training model
         self.num_hidden_nodes = 256
 
         # load in model feature values 
-        self.text_stats = np.load('models/jerry/jerry_text_stats.npy').item()
+        self.text_stats = np.load(model_to_use + 'jerry_text_stats.npy').item()
         self.num_encoder_tokens = self.text_stats['num_encoder_tokens']
         self.num_decoder_tokens = self.text_stats['num_decoder_tokens']
         self.max_encoder_seq_length = self.text_stats['max_encoder_seq_length']
         self.max_decoder_seq_length = self.text_stats['max_decoder_seq_length']
 
         # load in char to idx dictionary values
-        self.input_char2idx = np.load('models/jerry/jerry_input_char2idx.npy').item()
-        self.input_idx2char = np.load('models/jerry/jerry_input_idx2char.npy').item()
-        self.target_char2idx = np.load('models/jerry/jerry_target_char2idx.npy').item()
-        self.target_idx2char = np.load('models/jerry/jerry_target_idx2char.npy').item()
+        self.input_char2idx = np.load(model_to_use + 'jerry_input_char2idx.npy').item()
+        self.input_idx2char = np.load(model_to_use + 'jerry_input_idx2char.npy').item()
+        self.target_char2idx = np.load(model_to_use + 'jerry_target_char2idx.npy').item()
+        self.target_idx2char = np.load(model_to_use + 'jerry_target_idx2char.npy').item()
 
         # Define encoder model input and LSTM layers and states exactly as defined in training model
         encoder_inputs = Input(shape=(None, self.num_encoder_tokens), name='encoder_inputs')
@@ -41,7 +44,17 @@ class JerryChatBot(object):
 
         self.model = Model([encoder_inputs, decoder_inputs], decoder_outputs)
 
-        self.model.load_weights('models/jerry/jerry_char-weights_final.h5')
+        # load in either the best weights or final weights from the trained model.
+        # in general, the final weights give more varied answers/responses, as the
+        # "best" model seems to answer the same no matter the input. Still unsure why
+        # this 
+        if best_or_final == 'final':
+            file_path = model_to_use + 'jerry_char-weights_final_' + model_to_use[-12:-7] + model_to_use[-3:-1] + '.h5'
+            self.model.load_weights(file_path)
+        
+        else:
+            file_path = model_to_use + 'jerry_char-weights_best_' + model_to_use[-12:-7] + model_to_use[-3:-1] + '.h5'
+            self.model.load_weights(file_path)
 
         # create encoder and decoder models for prediction
         self.encoder_model = Model(encoder_inputs, encoder_states)
@@ -118,7 +131,7 @@ class JerryChatBot(object):
 
         return decoded_sentence
 
-    def test_run(self, chat=False):
+    def test_run(self, chat):
         input_sentence_1 = "Do you know?"
         input_sentence_2 = "Do you know?"
         input_sentence_3 = "Ha."
@@ -152,8 +165,22 @@ class JerryChatBot(object):
         exit()
 
 def main():
-    model = JerryChatBot()
-    model.test_run(chat=False)
+    parser = argparse.ArgumentParser(
+    description='Predict Jerry Seinfeld dialogue using seq2seq model.')
+    parser.add_argument('--model', 
+                        default='models/jerry/samples_5000_seq_40/',  #jerry_q_a_test.txt
+                        help='location of model files to use to predict')
+    parser.add_argument('--bestorfinal', 
+                    default='final',  #jerry_q_a_test.txt
+                    help='use best model weights or final model weights for prediction')
+    parser.add_argument('--chat', 
+                default='True',  #jerry_q_a_test.txt
+                help='continuously chat with JerryBot?')
+
+    args = parser.parse_args()
+
+    model = JerryChatBot(args.model, args.bestorfinal)
+    model.test_run(args.chat)
 
 if __name__ == "__main__":
     main()

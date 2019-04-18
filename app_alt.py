@@ -27,7 +27,7 @@ def home():
 
 
 def main():
-    jerry_chat_bot.test_run()
+    jerry_chat_bot.test_run(False)
     app.run(debug=True, use_reloader=True)
 
 if __name__ == '__main__':
