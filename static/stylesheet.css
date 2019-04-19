@@ -1,27 +1,48 @@
 body {
-    padding-top: 80px;
+    padding-top: 0px;
     text-align: center;
     font-family: monaco, monospace;
-    background: url(https://vignette.wikia.nocookie.net/seinfeld/images/5/50/Wiki-background/revision/latest?cb=20130314190005);
+    background: url(http://images.fanpop.com/images/image_uploads/Seinfeld-seinfeld-425017_1280_1024.jpg) -0px 0px;
+    /* background-repeat: no-repeat */
     background-size: cover;
   }
 h1, h2 {
   display: inline-block;
   background: #fff;
+  border: 2px solid #555555;
 }
 h1 {
   font-size: 30px
 }
 h2 {
+    margin: 0px;
   font-size: 20px;
 }
 span {
   background: #fd0;
 }
 div.ex3 {
+    margin-top: 160px;
+    color: black;
     display: inline-block;
-    height: 300px;
-    width: 400px;  
+    height: 340px;
+    width: 400px;   
     overflow-y: auto;
+    text-align: left;
+    background-color: white;
+    border: 2px solid #555555;
+  }
+  .button {
+    margin: 0px;
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
     text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border: 2px solid #555555;
   }

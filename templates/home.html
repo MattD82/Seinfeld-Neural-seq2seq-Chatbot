@@ -3,26 +3,26 @@
 <head>
   <link rel="stylesheet" href="static/stylesheet.css">
 </head>
-<body>
-
-<h1>Welcome to the Jerry Seinfeld Chatbot!</h1>
-<h2>This is a character-based seq2seq model</h2>
-
-<p>Type your message to Jerry Here:</p>
-
+    <body>
+    <h1>Welcome to the Jerry Seinfeld Chatbot!</h1>
+        <h2>This is a character-based seq2seq model</h2>
+        <br>
 <div class="ex3">
 <form method=post>
-    <ul style="list-style: none;">
         {% for line in conversations %}
-        <li>{{line}}</li>
+        {{line}}
+        <br>
         {% endfor %}
-    </ul>
-  <p>Message: <input type=text name=sentence></p>
-     <input type=submit value=Send>
+  <p>Type your message to Jerry Here: <input type=text name=sentence></p>
+     <input class=button type=submit value=Send>
 
 </form>
-
 </div>
+
+<form method="post" action="/">
+    <button class="button"input type="submit" value="Clear" name="Clear">Clear</button>
+</form>
+    
 
 </body>
 </html>
