@@ -5,34 +5,53 @@ body {
     background: url(http://images.fanpop.com/images/image_uploads/Seinfeld-seinfeld-425017_1280_1024.jpg) -0px 0px;
     /* background-repeat: no-repeat */
     background-size: cover;
-  }
+    }
+
 h1, h2 {
-  display: inline-block;
-  background: #fff;
-  border: 2px solid #555555;
-}
-h1 {
-  font-size: 30px
-}
-h2 {
-    margin: 0px;
-  font-size: 20px;
-}
-span {
-  background: #fd0;
-}
-div.ex3 {
-    margin-top: 160px;
-    color: black;
     display: inline-block;
+    background: #fff;
+    border: 2px solid #555555;
+    }
+
+h1 {
+    font-size: 30px
+    }
+
+h2 {
+    margin-top: 0px;
+    margin-bottom: 5px;
+    font-size: 20px;
+    }
+
+span {
+    background: #fd0;
+    }
+
+.inline-flex-parent {
+    display: inline-flex;
+    }
+
+div.video{display:inline-flex;
+    margin-top:200px;
+    margin-right:10px;
+    border: 2px solid #555555;
+    }
+
+div.ex3 {
+    margin-top: 200px;
+    margin-right: 10px;
+    margin-left: -250px;
+    color: black;
+    display: inline-flex;
     height: 340px;
-    width: 400px;   
+    width: 450px;   
     overflow-y: auto;
     text-align: left;
     background-color: white;
     border: 2px solid #555555;
-  }
-  .button {
+    }
+
+.button {
     margin: 0px;
     background-color: #4CAF50;
     border: none;
@@ -45,4 +64,4 @@ div.ex3 {
     margin: 4px 2px;
     cursor: pointer;
     border: 2px solid #555555;
-  }
+    }

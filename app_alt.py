@@ -15,23 +15,9 @@ def home():
         print(request.method)
         print(request.form)
 
-        # if 'sentence' not in request.form:
-        #     flash('No sentence post')
-        #     redirect(request.url)
-
-        # elif request.form['sentence'] == '':
-        #     flash('No sentence')
-        #     redirect(request.url)
-        # if request.form['submit_button'] == 'Do Something':
-        #     print("TEST")
-        #     jerry_chat_bot_convos.clear()
-        # elif request.form['submit_button'] == 'Do Something Else':
-        #     print("TEST2")
-
         if request.form.get('Clear') == 'Clear':
-            print("DELETE")
+
             jerry_chat_bot_convos.clear()
-            #exit()
 
             return render_template('home.html', conversations=jerry_chat_bot_convos)
 
@@ -46,10 +32,6 @@ def home():
  
     elif request.method == 'GET':
         return render_template('home.html')
-    #     
-
-    # else:
-    #     return render_template('home.html')
 
 
 def main():
@@ -58,3 +40,26 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+
+
+        # print("DELETE")
+        #     
+
+        # else:
+        #     return render_template('home.html')
+
+
+
+        # if 'sentence' not in request.form:
+        #     flash('No sentence post')
+        #     redirect(request.url)
+
+        # elif request.form['sentence'] == '':
+        #     flash('No sentence')
+        #     redirect(request.url)
+        # if request.form['submit_button'] == 'Do Something':
+        #     print("TEST")
+        #     jerry_chat_bot_convos.clear()
+        # elif request.form['submit_button'] == 'Do Something Else':
+        #     print("TEST2")

@@ -12,33 +12,26 @@ class Seq2Seq_Train_Jerry(object):
     '''
     Character-based seq2seq model that takes in a text file of Question - Answer pairs,
     and trains a seq2seq (endcoder - decoder) model on said pairs.
-    Model weights are saved as output files, as are the one-hot index to char dictionaries 
-    and stats about the model.
-    See below for argument parsing when running from the command line.
-    Note the 'history' files can be very large if using a large dataset.
+    Model weights are saved as output files, as are needed one-hot index to char dictionaries 
+    and stats about the model
     '''
 
-    def __init__(self):        
+    def __init__(self):
+        # paths to input txt file and to output weights
+        # self.txt_file_path = 'data/jerry_q_a.txt'
+        # self.weights_file_path = 'models/jerry/jerry_char-weights.h5'
+        
         # variables for training the LSTM seq2seq model
         self.batch_size = 64
         self.num_epochs = 100
         self.num_hidden_nodes = 256
 
-        # variables for loading and formatting the Question and Answer text
-        self.txt_file_path = None
-        self.num_samples = None
-        self.max_seq_length = None
-        self.duplicate_records = None
-        self.sentences_only = None
+        # variables for formatting the Question and Answer text
+        self.num_samples = 1000
+        self.max_seq_length = 20
     
     def _clean_text(self, input_text, target_text):
-        '''
-        Removes all unneeded punctuation (which which in turn create a larger X matrix).
-        Keeps '.!?," punctuation, as that adds to semantic meaning. 
-        Right now, all uppercase text is included as well, but might change that.
-        '''
         punct_to_remove = '''[#$%&\()*+-/:;<=>@[\\]^_`{|}~]'''
-        eos_punct = '''!?.'''
         
         input_text = re.sub("[\(\[].*?[\)\]]", "", input_text).lstrip()
         input_text = ''.join(ch for ch in input_text if ch not in punct_to_remove)
@@ -65,45 +58,10 @@ class Seq2Seq_Train_Jerry(object):
         target_text = sent[:self.max_seq_length]
 
         return input_text, target_text
-    
-    def _clean_sentences(self, input_text_lst, target_text_lst):
-        input_text_to_keep = []
-        target_text_to_keep = []
 
-        if self.sentences_only:
-            eos_punct = '''!?.'''
-            eos_punct = ('!', '?', '.')
-            for input_text, target_text in zip(input_text_lst, target_text_lst):
-                if len(input_text) < 2 or len(target_text) < 2:
-                    continue
-
-                if input_text[-1] in eos_punct and target_text[-1] in eos_punct:
-                    input_text_to_keep.append(input_text)
-                    target_text_to_keep.append(target_text)
-
-        else:
-            for input_text, target_text in zip(input_text_lst, target_text_lst):
-                if len(input_text) > 1 and len(target_text) > 1:
-                    input_text_to_keep.append(input_text)
-                    target_text_to_keep.append(target_text)
-
-        return input_text_to_keep, target_text_to_keep
-
-    def load_parse_txt(self, 
-                       txt_file_path,
-                       num_samples, 
-                       max_seq_length, 
-                       duplicate_records,
-                       sentences_only):
-
+    def load_parse_txt(self, txt_file_path):
         self.txt_file_path = txt_file_path
-        self.num_samples = num_samples
-        self.max_seq_length = max_seq_length
-        self.duplicate_records = duplicate_records
-        self.sentences_only = sentences_only
 
-        self.input_texts_initial = []
-        self.target_texts_initial = []
         self.input_texts = []
         self.target_texts = []
         self.input_characters = set()
@@ -112,38 +70,23 @@ class Seq2Seq_Train_Jerry(object):
         # Open txt file, read in lines, and vectorize the data.
         with open(self.txt_file_path, 'r', encoding='utf8') as f:
             lines = f.read().split('\n')
-
         for line in lines[: min(self.num_samples, len(lines) - 1)]:
             input_text, target_text = line.split('\t')
             
             # clean the text of excess punctuation
             input_text, target_text = self._clean_text(input_text, target_text)
 
-            self.input_texts_initial.append(input_text)
-            self.target_texts_initial.append(target_text)
-
-        # either keep full sentences 
-        self.input_texts_initial,  self.target_texts_initial = self._clean_sentences(self.input_texts_initial, self.target_texts_initial)
-
-        for input_text, target_text in zip(self.input_texts_initial, self.target_texts_initial):
             # using "tab" as the "start sequence" character for the targets
             # using "\n" as "end sequence" character for the targets
             target_text = '\t' + target_text + '\n'
-            
-            #print(self.duplicate_records)
-            if self.duplicate_records:
-                self.input_texts.append(input_text)
-                self.input_texts.append(input_text)
-                self.input_texts.append(input_text)
-                self.input_texts.append(input_text)
-                self.target_texts.append(target_text)
-                self.target_texts.append(target_text)
-                self.target_texts.append(target_text)
-                self.target_texts.append(target_text)
-            
-            else:
-                self.input_texts.append(input_text)
-                self.target_texts.append(target_text)
+            self.input_texts.append(input_text)
+            self.input_texts.append(input_text)
+            self.input_texts.append(input_text)
+            self.input_texts.append(input_text)
+            self.target_texts.append(target_text)
+            self.target_texts.append(target_text)
+            self.target_texts.append(target_text)
+            self.target_texts.append(target_text)
 
             # add unique chars to input and output sets
             for char in input_text:
@@ -292,48 +235,14 @@ class Seq2Seq_Train_Jerry(object):
 
         self.model.save_weights(self.final_weights_file_path)
 
-        np.save('models/jerry/jerry_model_history.npy', self.history.history)
-
-def str2bool(v):
-    if v.lower() in ('yes', 'true', 't', 'y', '1'):
-        return True
-    elif v.lower() in ('no', 'false', 'f', 'n', '0'):
-        return False
-    else:
-        raise argparse.ArgumentTypeError('Boolean value expected.')
-
-def main():
-    pass
+        np.save('models/jerry/jerry_model_history.npy', self.history)
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(
-                        description='Train a seq2seq model and save the model weight results.')
-
-    # arguments for training model parameters
+        description='Fit a seq2seq model and save the results.')
     parser.add_argument('--txtdata', 
                         default='data/jerry_q_a.txt',  #jerry_q_a_test.txt
-                        help='A txt file with input data in question-answer format')
-    parser.add_argument('--numsamples', 
-                        default=16000, 
-                        type=int, 
-                        help='The number of input samples to train the model on')
-    parser.add_argument('--maxseqlength', 
-                        default=20, 
-                        type=int, 
-                        help='The max sequence length to use when training the model')
-    parser.add_argument('--duplicaterecords', 
-                        default=True, 
-                        type=str2bool, 
-                        nargs='?',
-                        const=True,
-                        help='Choose to oversample input data or not')
-    parser.add_argument('--sentencesOnly', 
-                        default=False, 
-                        type=str2bool, 
-                        nargs='?',
-                        const=False,
-                        help='Choose to only include full sentences or not in training data')
-    # arguments for model weights file paths
+                        help='A txt file with input data.')
     parser.add_argument('--savebest', 
                         default='models/jerry/jerry_char-weights_best.h5', 
                         type=str, 
@@ -345,14 +254,8 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     seq2seq_Jerry = Seq2Seq_Train_Jerry()
-
-    seq2seq_Jerry.load_parse_txt(args.txtdata,
-                                 args.numsamples, 
-                                 args.maxseqlength, 
-                                 args.duplicaterecords,
-                                 args.sentencesOnly)
+    seq2seq_Jerry.load_parse_txt(args.txtdata)
     seq2seq_Jerry.train_model(args.savebest, args.savefinal)
 
 
 
-    
