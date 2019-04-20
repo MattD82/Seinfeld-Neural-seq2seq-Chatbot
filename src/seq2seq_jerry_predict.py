@@ -13,7 +13,7 @@ class JerryChatBot(object):
     If you would like to chat continuously when running, set chat=True in argument parsing.
     '''
 
-    def __init__(self, model_to_use='models/jerry/samples_5000_seq_40/', best_or_final='final'):
+    def __init__(self, model_to_use, best_or_final):  #'models/jerry/samples_5000_seq_40/' #'final'
         # use same num hidden nodes as training model
         self.num_hidden_nodes = 256
 
@@ -49,11 +49,11 @@ class JerryChatBot(object):
         # "best" model seems to answer the same no matter the input. Still unsure why
         # this 
         if best_or_final == 'final':
-            file_path = model_to_use + 'jerry_char-weights_final_' + model_to_use[-12:-7] + model_to_use[-3:-1] + '.h5'
+            file_path = model_to_use + 'jerry_char-weights_final_so_' + model_to_use[-14:-8] + model_to_use[-4:-1] + '.h5'
             self.model.load_weights(file_path)
         
         else:
-            file_path = model_to_use + 'jerry_char-weights_best_' + model_to_use[-12:-7] + model_to_use[-3:-1] + '.h5'
+            file_path = model_to_use + 'jerry_char-weights_best_so_' + model_to_use[-14:-8] + model_to_use[-4:-1] + '.h5'
             self.model.load_weights(file_path)
 
         # create encoder and decoder models for prediction
@@ -81,7 +81,7 @@ class JerryChatBot(object):
         
         return encoder_input_sent
     
-    def _sample_with_diversity(self, preds, temperature=1):
+    def _sample_with_diversity(self, preds, temperature=0.314532):  #0.453212 #0.2212
         preds = np.asarray(preds).astype('float64')
         preds = np.log(preds) / temperature
         exp_preds = np.exp(preds)
@@ -131,7 +131,7 @@ class JerryChatBot(object):
 
         return decoded_sentence
 
-    def test_run(self, chat):
+    def test_run(self, chat, diversity):
         input_sentence_1 = "Do you know?"
         input_sentence_2 = "Do you know?"
         input_sentence_3 = "Ha."
@@ -146,9 +146,9 @@ class JerryChatBot(object):
         print(f"Reply #4: {self.reply(input_sentence_4)}")
 
         if chat:
-            self._chat_over_command_line()
+            self._chat_over_command_line(diversity)
 
-    def _chat_over_command_line(self):
+    def _chat_over_command_line(self, diversity):
         print("Welcome to the Jerry ChatBot!")
         print("Please type anything, and Jerry will respond!")
         print("Type 'exit' to stop")
@@ -157,30 +157,47 @@ class JerryChatBot(object):
 
         while user_sent != 'exit':
             try:
-                print(f"Jerry: {self.reply(user_sent)[:-1]}")
+                print(f"Jerry: {self.reply(user_sent, diversity=diversity)}") #[:-1]
             except:
                 print(f"What's the deal with that sentence?! \nPlease try something else!")
             user_sent = input("User: " )
 
         exit()
 
+def str2bool(v):
+    if v.lower() in ('yes', 'true', 't', 'y', '1'):
+        return True
+    elif v.lower() in ('no', 'false', 'f', 'n', '0'):
+        return False
+    else:
+        raise argparse.ArgumentTypeError('Boolean value expected.')
+
 def main():
     parser = argparse.ArgumentParser(
     description='Predict Jerry Seinfeld dialogue using seq2seq model.')
     parser.add_argument('--model', 
-                        default='models/jerry/samples_5000_seq_40/',  #jerry_q_a_test.txt
+                        default='models/jerry/samples_16000_seq_100/',  #jerry_q_a_test.txt
                         help='location of model files to use to predict')
     parser.add_argument('--bestorfinal', 
-                    default='final',  #jerry_q_a_test.txt
-                    help='use best model weights or final model weights for prediction')
+                        default='final',  #jerry_q_a_test.txt
+                        help='use best model weights or final model weights for prediction')
     parser.add_argument('--chat', 
-                default='True',  #jerry_q_a_test.txt
-                help='continuously chat with JerryBot?')
+                        default=True, 
+                        type=str2bool, 
+                        nargs='?',
+                        const=True, #jerry_q_a_test.txt
+                        help='continuously chat with JerryBot?')
+    parser.add_argument('--chatwithdiversity', 
+                        default=False, 
+                        type=str2bool, 
+                        nargs='?',
+                        const=False, #jerry_q_a_test.txt
+                        help='chat with diversity with JerryBot?')
 
     args = parser.parse_args()
 
     model = JerryChatBot(args.model, args.bestorfinal)
-    model.test_run(args.chat)
+    model.test_run(args.chat, args.chatwithdiversity)
 
 if __name__ == "__main__":
     main()
