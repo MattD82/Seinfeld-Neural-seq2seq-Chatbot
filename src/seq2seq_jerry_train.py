@@ -21,7 +21,7 @@ class Seq2Seq_Train_Jerry(object):
     def __init__(self):        
         # variables for training the LSTM seq2seq model
         self.batch_size = 64
-        self.num_epochs = 500
+        self.num_epochs = 100
         self.num_hidden_nodes = 256
 
         # variables for loading and formatting the Question and Answer text
