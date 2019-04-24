@@ -29,13 +29,11 @@ def home():
 
             return render_template('home.html', conversations=jerry_chat_bot_convos)
 
- 
     elif request.method == 'GET':
         return render_template('home.html')
 
-
 def main():
-    jerry_chat_bot.test_run(False)
+    jerry_chat_bot.test_run(False, False)
     app.run(debug=True, use_reloader=False)
 
 if __name__ == '__main__':

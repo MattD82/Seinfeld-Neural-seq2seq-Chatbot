@@ -1,0 +1,3651 @@
+{' ': 0, '!': 1, '"': 2, "'": 3, ',': 4, '.': 5, '0': 6, '1': 7, '2': 8, '3': 9, '4': 10, '5': 11, '6': 12, '7': 13, '8': 14, '9': 15, '?': 16, 'A': 17, 'B': 18, 'C': 19, 'D': 20, 'E': 21, 'F': 22, 'G': 23, 'H': 24, 'I': 25, 'J': 26, 'K': 27, 'L': 28, 'M': 29, 'N': 30, 'O': 31, 'P': 32, 'Q': 33, 'R': 34, 'S': 35, 'T': 36, 'U': 37, 'V': 38, 'W': 39, 'Y': 40, 'a': 41, 'b': 42, 'c': 43, 'd': 44, 'e': 45, 'f': 46, 'g': 47, 'h': 48, 'i': 49, 'j': 50, 'k': 51, 'l': 52, 'm': 53, 'n': 54, 'o': 55, 'p': 56, 'q': 57, 'r': 58, 's': 59, 't': 60, 'u': 61, 'v': 62, 'w': 63, 'x': 64, 'y': 65, 'z': 66}
+{'\t': 0, '\n': 1, ' ': 2, '!': 3, '"': 4, "'": 5, ',': 6, '.': 7, '0': 8, '1': 9, '2': 10, '3': 11, '4': 12, '5': 13, '7': 14, '8': 15, '9': 16, '?': 17, 'A': 18, 'B': 19, 'C': 20, 'D': 21, 'E': 22, 'F': 23, 'G': 24, 'H': 25, 'I': 26, 'J': 27, 'K': 28, 'L': 29, 'M': 30, 'N': 31, 'O': 32, 'P': 33, 'Q': 34, 'R': 35, 'S': 36, 'T': 37, 'U': 38, 'V': 39, 'W': 40, 'Y': 41, 'a': 42, 'b': 43, 'c': 44, 'd': 45, 'e': 46, 'f': 47, 'g': 48, 'h': 49, 'i': 50, 'j': 51, 'k': 52, 'l': 53, 'm': 54, 'n': 55, 'o': 56, 'p': 57, 'q': 58, 'r': 59, 's': 60, 't': 61, 'u': 62, 'v': 63, 'w': 64, 'x': 65, 'y': 66, 'z': 67}
+This is great!	Yeah.
+Ho ho ho, Had to?	Yeah, but.
+To be polite.	Good.
+What?	Laura.
+What is that?	Maybe youre right.
+Maybe Im right?	This is insane.
+Are you up?	Yeah.
+Yeah.	No.
+You cant be serious.	This is the signal?
+Right, can we go?	Yeah, okay.
+Hand sandwich.	Right.
+Guess who?	Hey, hey.
+Heeeey!	Its good to see you.
+Hi, how are you?	This is Laura.
+Hello?	Youre engaged?
+Cheque.	Cheque.
+Cheque.	Whats that one?
+Oh, lovely.	Yeah.
+Yknow what?	Pamela?
+Right!	Well, what is it?
+Theyre coming in?	Yeah, tomorrow.
+You could have.	I met her one time.
+Yes, we met.	Hi, happy birthday.
+Ill supply the hat.	Uhoh.
+Oh, Jerry!	Oh no, not now.
+Jerry?	Yes, I heard you.
+Very funny!	Comedian.
+We gotta run.	I cant believe it.
+Oh yeah, very alert.	Oh yeah, shes great.
+Go to the building.	I guess.
+Yeah, sure.	Im a little nervous.
+You came to see me.	What do you do?
+Im an architect.	Youre an architect?
+Bert.	Bert Harbinson?
+No good?	Art Cor.
+I forgot who I am!	Youre you.
+Vandelay!	Corvelay!
+Sure!	Uh, this is George.
+Bum bum bum bum.	What are you doing?
+Hi.	Hi.
+Hey Morty!	Look.
+Quo.	Maybe!
+So, what are you?	Yes.
+Oh, stop it.	Quone?
+Quone.	Uhhuh.
+Quones not a word.	No good.
+Oh, we didnt meet.	Oh, Im sorry.
+Levine.	Yeah, Levine.
+Couldnt agree more.	Good.
+Good.	Good.
+Great!	Great?
+Yeah.	Uhhuh.
+No.	Oh really?
+What?	No, thats great!
+No, we just met.	Doesnt matter.
+Wall street.	Ah, high finance.
+And.	Now thats not fair!
+Ready?	Yeah, one sec.
+Yeah, well.	Im not looking.
+JERRY!	Great, I had fun.
+Great, I had fun.	What?
+They were stolen.	Stolen?
+The door.	The door?
+Wide open!	And where were you?
+Im human.	In your way.
+Answering machine.	Answering machine.
+What do you mean?	Its a joke.
+No.	Well, thanks anyway.
+They deliver it.	They deliver wood?
+For this couch?	Okay, you tell me.
+Yeah, its George.	Come on up.
+Fifty dollars, okay?	Fifty dollars?
+Uhhuh.	Thank you very much.
+No, I dont want it.	So you do want it.
+How can I take it?	How can I take it?
+Who flips?	Okay, fine.
+No catchin.	No no.
+Heads!	Tails!
+Okay.	Odds.
+I want evens.	Good.
+You got odds.	You got evens.
+Right, ready?	For the apartment.
+Congratulations.	Thanks.
+What stuff?	Ooh,  case closed!
+No, impossible!	You found the place.
+Well, me neither.	Definitely?
+Couldnt be happier.	Its wonderful.
+Take it.	Who is it?
+Its for you.	Hello?
+Well, why not?	He bothers me.
+Absolutely.	The Truth.
+What are you saying?	Listen, Joel.
+Didnt mean what?	What I said.
+Tonight?	No, next Wednesday.
+Okay.	Next Wednesday.
+Its my money.	Yeah?
+Thats funny.	Cmon, move up.
+Geez.	Oh, God.
+You what?	Yeah, Im sorry.
+Oh, cmon, Jerry.	I had to do it.
+Thats you.	Im just saying.
+Okay, okay.	Okay.
+Trapezoid?	I know.
+Here, here.	What can I do?
+Deal with it.	Oh no.
+Oh, hi Elaine, hey.	Game?
+Knick game.	Wait.
+Last week.	This is too much.
+Yeah.	Perfect.
+Whoa, Nelson!	Were still friends.
+Oh, no no.	Right.
+Fortyone home games.	You know, I really.
+I know, I know.	No problem.
+Vanessa.	Vanessa, thank you.
+A stock.	What stock?
+I dont know.	Boy.
+Five thousand.	Boy.
+Cmon.	What if I lose it?
+Check the raiser.	My bet?
+I dont know.	Its great!
+Really?	Yeah.
+I know.	Is that my paper?
+Bad news, my friend.	What?
+Sendrax.	Oh, cmon!
+Hey, I told you.	Yeah, you told me.
+To the hospital.	The hospital?
+Today.	All right.
+May I help you?	Yeah.
+Oh man, hes nuts.	Yeah, hes nuts.
+Im keeping it.	So I know this guy.
+I know.	Oh yeah, right.
+Oh yeah, right.	Oh God.
+What can we do?	We cold play Sorry!
+I cant tell you.	Yeah, thats normal.
+That stock?	I did.
+Forget it.	No, what?
+So dont finish it.	Shes full.
+Pst.	A robot butcher?
+Shhhhh.	Im not an investor.
+Oh, I had no choice.	Youre a human being.
+Hi.	Hi.
+Hello, Jerry.	Hello.
+Come on up.	Oh, its you again.
+Uhhuh.	Its very good.
+Good, huh?	Good.
+I got it at Joes.	Uhhuh.
+Im outta there.	You did it?
+I told her.	Uhhuh.
+It's standard.	Ohh!
+Yeah, doctor.	The waiting room.
+The waiting room.	So, how was it?
+Why not?	Hes a doctor.
+Well.	Good night.
+Hey.	Hey.
+Hips!	Uhhuh.
+Joes?	No, supermarket.
+Well, is it good?	Its uh okay.
+Well?	Marlene.
+Does George know?	No, hed go nuts.
+Yeah, no kidding.	I feel terrible.
+Yes.	You talked to him?
+Yes.	Right.
+I did.	This is amazing.
+I dont care.	Youre kidding.
+No, I dont care.	You mean that?
+Absolutely.	You dont care?
+Youre a fine person.	That voice.
+See her tonight.	All right.
+Im okay.	Good.
+You paid that crook?	I had to.
+Im sorry, Jerry.	Really?
+Well, okay.	Tuesday night?
+I saw your act.	My act?
+Hello?	Hi.
+So, howd you do?	We won.
+Hey, howd you do?	We won.
+Yeah!	What is this about?
+Levels.	Levels?
+Its a simple job.	Oh, no.
+No no no.	Its a bet.
+Thats exactly right.	Mickey Mantle?
+Oh, well.	Really?
+Goodbye, Jerry.	Take care.
+Bye, Jer.	Bye, Dad.
+Who did you talk to?	Uncle Leo.
+What?	You dont think.
+He has to go.	Me?
+Phoenix?	I dont know.
+Oh, Jeffrey.	You know Jeffery?
+Its raining.	Its raining?
+What?	No, Ill go.
+What is this?	This is beautiful.
+Oh my God.	Bad?
+You have no idea.	I have some idea.
+No idea.	Ive got a ballpark.
+Hey.	What do you think?
+Its beautiful.	Is it me?
+Woah, Nelson!	I know, I know.
+Well, yeah.	Okay, take it.
+Artie Schuman?	No, you idiot.
+Its fabulous.	I know.
+Yeah.	So take a cab.
+All right.	Two minutes.
+Im nervous.	Excuse me.
+Sit down.	Sure.
+Yeah, yeah.	Yeah, yeah.
+I guess.	It appears that way.
+Yup.	Yup.
+Come on, lets go!	What about Elaine?
+To hell with Elaine!	Shell be furious.
+Were dying here!	Thats her!
+Hes in the bathroom.	Where have you been?
+Kramer!	Oh, you didnt.
+Good.	Oh, no, no.
+Man, Kramer!	I cant believe it.
+Ohh.	Snow.
+I wouldnt think so.	What should I do?
+Yeah.	Come on up.
+Hey.	Hey.
+Yeah!	Yeah.
+Okay.	Is he still in town?
+So, uh.	I dont know.
+No, I froze.	Counter.
+Oh yeah.	He said wuss?
+Yeah.	So you called.
+Right.	Yeah.
+Right.	Wow.
+Absolutely.	Come on, try it.
+Thursdays great.	Tan pants.
+Thats the point.	I know the point.
+Right, alright.	Dont do the apples.
+Got her machine.	What did you say?
+Somebody did that?	Shell call you back.
+Shell call you back.	Not once.
+Thats amazing.	Thank you.
+What happened there?	Ill tell you later.
+I lost it.	I cant blame you.
+She did.	What?
+You do it for me.	What?
+You do.	I do.
+You pick it.	Lemon Tree.
+Alright ok.	Standard.
+How do you feel?	Feel good.
+You nervous?	Not at all.
+Im not going.	Boys, boys.
+Whats going on?	What look?
+Jumping up and down?	Oh, Elaine.
+No.	Yes.
+No.	Yes.
+You didnt.	I did.
+How did you.	Remember Mrs.
+No.	She died.
+She died?	She died.
+Right above you?	Right above me.
+Oh, were neighbors.	All the time.
+Right above you?	Yeah.
+I was just in there.	Oh, whos gonna know?
+Because its true!	Hey, hey.
+Of course you do.	But you know.
+I dont know.	It was all over!
+Anytime of day.	Im in heaven.
+Im not going up.	Manny.
+That took awhile.	Dont get up.
+You want these?	No, go ahead.
+Oh, uh, well  okay.	All right, lets go.
+What?	The Inkadink.
+Its bad?	Its very bad.
+Im leaving.	Where are you going?
+To Ravas house.	Oh wait.
+Jerry?	What?
+What statue?	I had a statue!
+Uhh.	I cant believe it!
+Are you sure?	Pretty sure!
+I dont know.	Ill call Kramer.
+Lets go get him.	Yeah, right.
+Ill be right here.	Thats comforting.
+Oh, Jerry.	Well, I didnt.
+Give it back?	Yeah.
+You?	Yeah.
+What are you saying?	What am I saying?
+What a mind.	Well, I.
+Pawn shop?	A pawn shop?
+Cleaning them out.	Oh, excuse me.
+What did you say?	I said luss.
+Thats it!	George.
+Oh, Im crazy!	George, george.
+Hey.	Hey.
+I said " Jump.	What's his problem?
+Well!	All right.
+Ah!	Oh, beautiful.
+Kramer.	I don't know.
+I quit my job.	Get outta here.
+I like sports.	Uhhuh.
+Movies.	Yeah.
+Those unions.	Talk show host.
+It's all politics.	All right.
+Go back?	Yeah.
+Just.	Never happened.
+I'm emotional.	That's right.
+Never happened.	Never happened.
+No.	That's not that?
+I've got some plans.	What kind of plans?
+Yeah.	What's with you?
+He jumped.	What?
+Oh, yeah.	What did you say?
+No!	Oh, my god!
+Where?	To the Laundromat.
+Oh.	What?
+No.	Johnny?
+Hey, where's Kramer?	I don't know.
+I'm not kidding.	What does that mean?
+Tightness.	C'mon.
+Shut up!	Well?
+Well, okay.	Oh, and.
+Okay, go ahead.	Well, ah.
+Hey.	Hey.
+No, no, he's out.	A rebel?
+Yeah!	You're gonna fight?
+What's a Chuckle?	It's a jelly candy.
+Oh, poor George.	Hey, check the TV.
+What?	What?
+What was that look?	What look?
+Yes.	What kind of look?
+I know that look.	Then what was it?
+Trust me.	What?
+What about the look?	I don't know.
+We know the terrain.	No big surprises.
+Nope.	What do you think?
+It's brugwa .	Fine.
+Well.	You ready?
+Hey.	Hey.
+Got the paper?	Not yet.
+Still lookin'.	Nothin' much.
+Oh, this is huge!	I know.
+No details?	I'm not in the mood.
+Next to each other?	No, separated.
+Time?	Around eleven.
+Sure, all right.	Okay.
+No, you see?	No, that's the rule.
+The roommate's.	Would she mind?
+Fine, go away.	I don't understand.
+Hi, Jerry.	Hi.
+Definitely.	Definitely.
+What about jewelry?	No, no.
+Like a park bench?	I have no idea.
+Lingerie?	Too sexual.
+Waffle maker.	Too domestic.
+Cash?	Would do you think?
+Pal?	I said, "and more.
+What?	We're talking.
+I know.	Never.
+Like clams.	It was wonderful.
+I can't do it.	You what?
+I can't do that.	You mean it's.
+You.	Well.
+91 dollars.	Sorry about that.
+Hey.	Hey.
+Ah, this.	And the other.
+Todd.	Todd.
+No, he's not.	C'mon.
+By marriage.	Oh, by marriage.
+It's a classic.	With all the nudity?
+Saturday.	Saturday?
+Yeah.	I don't know.
+Mr.	Seinfeld.
+We're with the FBI.	My cable hookup?
+Forget it.	No, really.
+What, tonight?	Yeah, yeah.
+I am?	A  Ha!
+Jerry?	I'm sorry, I.
+You don't want?	No, I don't want.
+How many?	Ah, alright, four.
+What's your name?	Seinfeld.
+What?	What happened?
+No.	Oh, boy.
+Yeah.	Wow!
+Hello, Jerry!	Heeeeyyyy.
+How is everything?	Good, good, good.
+You should come by.	Definitely.
+Your name?	Seinfeld.
+She called.	Who's Cartwright?
+Yes, a guy.	He's from a.
+It was a fat camp.	Elaine?
+It'll take to long.	Take the Kman.
+Hey.	Hey.
+Oh?	How do you figure?
+So!	So!
+Ed's downstairs.	No hello?
+Got any asprin?	Guarantee?
+The busboy's coming?	You don't mean here?
+He's coming up?	Where are you going?
+We have a woman.	No no.
+A.	Yes, A.
+A man gave me.	Yes, a man gave you.
+A man gave me.	So?
+So he.	He was what?
+For my hamstring.	Oh.
+I think it moved.	Moved?
+That's the sign!	That's not the test.
+Hey.	Hey.
+Yeah.	but not at Dinky.
+Do you feel funny?	He feels funny.
+He knows that!	Roy, should we go?
+Hey, George?	Hello?
+You got me a note?	Yeah.
+No?	No, it's.
+Unsettling?	Okay.
+Yeah.	Yeah.
+How ya doing?	Hi.
+Run Billy!	The police?
+They talk back.	Hey, it's the Kman.
+Man, Ughhhh, wwwheh.	Did he say anything?
+Yeah  yeah.	Wow.
+yeah.	here.
+I'm sorry.	I don't blame you.
+No, blame me.	OK, I blame you.
+Oh, wait a minute.	Something to drink?
+No.	It's hell.
+No.	SO?
+I broke up with her.	I'm being audited!
+It's OK.	It's unheard of .
+She asked me to.	So you lie!
+Give me the phone.	What?
+Hi, are you OK?	Not good.
+You'll sense it.	Well, what happened?
+No, I didn't.	Well, where is she?
+I don't know.	Can we go out there?
+Where?	Woodhaven.
+Uh, we're cool.	Just chatting.
+Papers?	there are no copies.
+I can't.	George?
+We don't even sleep.	Ma.
+Well I tought that.	Not now.
+What happened?	I don't know.
+What does that mean?	Well.
+This pen?	Yeah.
+Take the pen.	Oh no.
+Take the pen!	I cannot take it!
+Take the pen!	Are you sure?
+Positive!	O.
+Oh my God!	He offered it to me.
+Come in.	Are you O.
+Oh man.	Oh you wanna switch?
+I'm sweating here.	It's one day.
+You can go.	Without you?
+Don't go.	You sure?
+Is everybody up?	Hi.
+Jerry you got thin.	Too thin?
+No.	Don't be alarmed.
+Oh my God!	I'm O.
+Your capillaries?	How are you doing?
+Well I mean.	Take it.
+Good.	Oh God.
+Oh God.	Uncle Leo.
+STELLA!	Her back hurts.
+Jerry, do your act.	I can't.
+Excuse me?	Nothing.
+Good morning.	Hi Evelyn.
+Jerry?	Huh?
+It's his dog.	The dog?
+The dog?	Let go, Farfel!
+If only.	Look at this place.
+Do you pick it up?	Yes, I pick it up.
+You pick it up?	Well you have to.
+I tell you.	You.
+Just me and George?	Sure.
+So we're not going?	Nah.
+Oh!	No.
+Really?	What?
+Kramer, we like her.	Kramer?
+Know what?	It is?
+So, what?	It is kind of silly.
+Good.	Saving movies.
+Preprediction.	Prediction.
+Hi, hi, hi, hi, hi.	What's up?
+Awwwwww.	Too bad.
+I think I saw him.	Who?
+Mr.	Not here?
+I'll have Mr.	All right Thanks.
+You got any coffee?	Coffee?
+Yeah, '71.	Look, Mr.
+I saw you on T.	Certainly not.
+Positive.	No Black Jack?
+Uch!	Tropic of Cancer.
+Rememba?	Wait a second.
+Me?	Yeah, think.
+The locker room!	Here's the book.
+No, .	Was he out there?
+What time is it?	Five o'clock.
+Always late.	You're not late.
+There it is!	Hmmm.
+Why?	I'll wait.
+Buddy Hackett?	He's a comedian.
+I know.	All right.
+Okay, let's go.	But.
+Uh huh.	Oh I'm lying.
+I know what you did.	Oh really, do you?
+You what?	I have uromysitisis.
+Elaine, shutup.	Hey, where's Kramer?
+Yeah, right.	Filthy pigs.
+Hi, I'm Elaine.	Jerry.
+What is it?	The car!
+Kramer!	Kramer.
+Jerry?	Yeah, over here.
+Why is nice bad?	What's that smell?
+You are my friend.	Of course.
+And then you flush.	Well, it's a spider.
+Bazooka Joe.	The buzzer.
+It's your house.	My house?
+It's George.	Come on up.
+Casus belli.	What's that?
+Sure, fine.	Casus belli.
+What's casus belli.	Oh, it's nothing.
+145!	Get out of here!
+You get out of here!	You get out of here!
+Very good.	Thank you.
+Tea and toast.	Eat something!
+Hey.	Hey.
+85!	What?
+85?	Well, well, well.
+Quiet!	No I.
+You shut up!	Well I.
+You bad man!	Bad man?
+hYeah.	Oh, sorry.
+Hey guys.	Hey.
+Hey!	Huh?
+Yeah.	Yeah!
+So?	Nothin'.
+China.	China really?
+Yeah.	What for?
+What for?	Hair?
+What?	Oh!
+Wa.	I don't know .
+What's happening?	Tell her.
+Seinfeld.	Hey!
+Ah!	Remember Peter?
+Peter?	You remember Peter.
+Oh!	I don't get it.
+Guess, what I got.	Oh!
+All day.	Hello.
+Is that Elaine?	Yeah.
+Did she say Hello?	What?
+Elaine's coming up?	Yeah.
+Jerry.	Okay.
+It's George.	Come on up .
+Aahh.	What's up?
+I can't.	Oh!
+Really?	Kramer.
+'bout what?	It's kinda private.
+Okay , all right.	Does she know?
+NO!	How did it happen?
+Yeah!	That was Elaine.
+Well let me hear.	Wait a second.
+What's the matter?	Oooh!
+Elaine.	George NO!
+Heuh.	It's early.
+On an elevator?	Impossible, right?
+What crop circles?	Not a good sign.
+What?	It's green.
+Yeah, right.	What's the matter?
+Oh, nothing.	What?
+It looks good.	Great job.
+Hi!	Hey.
+You got isobutane30?	I got isobutane20.
+Got it.	I have aloe!
+Jersey.	White Plains.
+White Plains.	Girls.
+How old are you?	Thirtysix.
+Are you?	I hear a voice.
+Now?	If not now, when?
+Gimme a halfhour.	Okay, halfhour.
+What should I do?	Go!
+Yeah.	Get out of here.
+I swear.	What did you say?
+I, I, I can't.	What did you say?
+I.	I long for you?
+Oh look at that.	Yeah, yeah, alright.
+Call Kramer.	Alright.
+What's in it for me?	A bigger bill?
+He he, go for it.	Krame?
+Thousand.	Yes.
+Thanks a lot.	Thanks, great party.
+I'm sorry.	Hey, it's okay.
+Mr.	Who?
+Jerry, baby!	Do I know you?
+Yeah, me either.	Oh, come on.
+How much is that?	Nine sixty.
+Nine sixty?	Why?
+I'm not stealing it.	You're a lunatic.
+Just walk.	Oh.
+Oh Jerry!	What the hell?
+See ya, Jerr.	Oh, Kramer huh?
+I ain't leaving.	Patti?
+Fifty dollars.	Fifty dollars.
+You had Sgt.	He was a nice guy.
+Cross the wires?	They stole my car.
+Who did?	They did.
+Hello?	Hello?
+Yes I did.	You did?
+I did.	That's my car!
+Yeah.	What's that?
+Can I help you?	Seinfeld.
+Seven?	Face to face.
+Get out!	That's great!
+Do it like this.	No.
+Tell then to hurry!	It's an ambulance.
+Paramedics.	Come on up.
+What happened?	We don't know!
+Five seconds.	Can he communicate?
+Yeah, well, he nods.	Alright, she's free.
+No no no, I got it.	Please.
+What do you think?	I don't know.
+Really?	Yeah.
+Really?	Yeah.
+Hi nice to meet you.	"The guy?
+So.	So.
+Where's my drink?	There.
+What is that?	Yeah.
+Oh yeah.	Oh it's damaged.
+Yes you would.	I'll prove it.
+It's George.	Come on up.
+What red dot?	Uh, I don't know.
+What don't you know?	I don't know.
+I said it.	What did you say?
+Nothing.	Yeah?
+It's George.	Come on up.
+Do you swear?	I'm not swearing.
+I don't know.	On the wagon.
+Kissing is not sex.	George?
+No.	George?
+Ow, ow move over.	Get off of me.
+Yeah.	Why do I always pay?
+That's amazing.	So what do you say?
+What are you?	All right, biff.
+I can't.	Kramer, bumpercars?
+What did I just say?	OK.
+No hitting?	Defence?
+Speed?	Franco's no good?
+I LUV their chances.	Tell you what.
+Chilly out.	Aah, French fries.
+The beach!	The beach?
+No.	Yes you do, Biff.
+What's that?	"Lose that"?
+So?	What happened?
+Whar about Kramer?	He's the same!
+What's the plan?	Do I have to talk?
+Hey.	Hey.
+What did you do?	What do you think?
+Na.	What are you doing?
+Its George.	Come on up.
+Hi.	Hi.
+hey, you know what?	Whats so amazing?
+Id love to go.	Psychics, vacations.
+Really?	Oh, yeah.
+Oh, yeah.	Who is it?
+Its Gina.	Who?
+Its Martine.	What?
+Come on.	In my pajamas?
+All right.	Nah, forget it.
+No, go ahead.	Nah.
+I wasnt.	You werent?
+Then kiss me.	Here?
+You dont want to?	No, no, I want to.
+Hey.	Hey.
+Hello Gina.	Hello Newman.
+How come?	Looters.
+Hello Jerry.	Hows he doing?
+Just one bite?	I dont think so.
+All right!	You swear?
+It was disgusting.	What are you doing?
+Hey.	Hey.
+Phew.	Yeah.
+I know, Cynthia too.	George too.
+Who is he?	He's George!
+She's Cynthia!	So what?
+Out of the question.	Why?
+No!	She's good looking.
+How good looking?	Very good looking.
+Oh, you hesitated.	What hesitate?
+How nice?	Nice.
+Just nice?	Pretty nice.
+Flowing?	Flowing?
+Yeah, that's right.	Just clarifying.
+Yes, a rosy glow.	There's a hue.
+It's mellifluous!	So, Saturday night.
+Hey.	Hey.
+Remember our pact.	Of course.
+I don't know.	At your apartment?
+Her too.	Oh, good.
+Anything else?	Nope.
+Nope.	You sure?
+Yup.	Yeah.
+Alright.	Yeah.
+Alright.	Goodnight.
+No, don't call her.	No, I'm calling her.
+Just a hunch.	Ow!
+Ow!	Oh, hi.
+No thanks.	So tell me.
+What happened?	Acting.
+Very mature.	Thank you.
+Stop it, stop it.	So what are these?
+Keith Hernandez?	Yeah, that's him.
+Are you sure?	Positive.
+Excuse me.	Really?
+Why not?	I don't know.
+No, no!	Hellooo Newman.
+Right.	And what is that?
+Right.	I don't think so.
+Goodnight.	Elaine?
+Who paid?	We split it.
+It's Elaine.	Come on up.
+So then what?	Uh, nuthin'.
+So you know , .	Already?
+Do you mind?	I don't mind at all.
+Huh.	Well, frankly it is.
+I,.	Okay, take it easy.
+So, wadda ya' think?	Yes.
+What?	He's joking.
+Uh, who else?	I don't know him.
+Milk?	No!
+Who was that?	That was Keith.
+Help him move?	You know, furniture.
+What?	I said yes.
+Magellan?	Oh, yeah,.
+I like DeSoto.	DeSoto?
+Three inches thick.	STAIRS?
+I'll be O'Brien.	Who am I?
+You're you.	Just me?
+Yeah.	Okay.
+Like who?	Dylan Murphy.
+Well I like Dylan.	You could be Colin.
+Colin O'Brien.	I'm Dylan Murphy.
+Thank you very much.	Colin?
+This is incredible!	What for?
+Can he hear us?	No.
+Did I tell you?	I can't believe it!
+You're Murphy!	I'm Seinfeld!
+Alright, how's this?	Nah.
+Where are you from?	Dublin.
+What do I do?	Get in the car!
+It's safer!	Oh look at this guy.
+No, nothing.	Give me that wave!
+Gonna see her again?	Friday night.
+Friday night.	Yep.
+It's me!	Come on up.
+Hey, hey, hey!	Oh, you dig?
+Yes!	Why?
+Hey!	Hi.
+Sweater.	Thank you.
+So?	With that?
+With the car!	What car?
+Queens?	Over the bridge.
+What shoving?	Oh, it was nothing.
+You know karate?	I know a little.
+Did you tell Kramer?	Ah, nah!
+It's me.	Come on up.
+Hi!	Hi.
+Oh right, right!	Oh yeah.
+Well God bless you.	Thank you very much.
+You lie!	It's not that hard.
+How could you?	What?
+Man!	What did I do?
+Really?	I do.
+Great!	May I?
+Get outta here!	What's this?
+I know!	How you feeling?
+Whoa, man!	Oh my god!
+She's deep.	".
+Yeah!	Should I?
+It's George.	Come on up.
+It's Elaine.	Come on up.
+How 'bout Kramer.	HUGE popin guy!
+Okay.	Okay!
+Oh!	I'm a great clicker!
+No, come on!	Let go, Elaine!
+Give it!	Wait, wait a second!
+Nina's studio.	How's it coming?
+No.	No.
+I don't know.	I have.
+Oh, come on.	Nope.
+Well, please?	Not today, pal.
+Okay, I beg you.	Now see?
+Alright.	Huh?
+Okay.	He is?
+Oh, he is fantastic!	A gun?
+Exactly.	Where's George now?
+Hey!	Are you okay?
+Yeah, I'm fine.	Crazy kids, huh?
+Is that Jerry?	Oh, hey Mike.
+Well, bully for you.	I'm coming down.
+Hey!	Hi Mike.
+Oh great.	I didn't know.
+Hi Jerry.	How ya doing?
+What?	Oh no, nothing.
+You have no choice.	Oy gavault.
+He begged you?	Alright, come on.
+It's just me.	That's enough!
+C'mon.	Kramer!
+Alright, alright.	C'mon!
+Sorry.	Move it!
+Hurry, Jerry!	The murderers!
+Oh, come on!	No, come on!
+I'm asking you!	I'm telling you.
+You're joking.	I'm serious!
+I will.	Where?
+I don't know.	I think so.
+Is that Kramer?	Who's there?
+That's right.	You want 'em back?
+How'd the Mets do?	They lost.
+They lost.	Kramer?
+Hello, boys.	Hello, Newman.
+Yeah, coy.	You're being coy.
+Who?	Listen, Tiny.
+Help!	Where's Kramer?
+Yeah.	Me?
+You heard me.	L.
+What.	No, what'd you say?
+Do you wanna fight?	Do you wanna fight?
+Nothing.	I heard something.
+What?	By Elaine Benes?
+Lemme see this.	Wait a second!
+Gimme half!	All right, here!
+You weasels!	What?
+He forced me to!	I did not!
+You!	Elaine, wait!
+Here!	Good!
+Good!	Good!
+O.	What did you say?
+Are you sure?	Yeah.
+With Candace Bergen!	I know!
+Alright, go ahead.	That's it?
+That's it.	Alright.
+Lala Land.	Who said that?
+I called it.	Oh no.
+Alright, excuse me.	Yeah, Kramer.
+Curly.	Wavy.
+Ooh, a shower cap!	Coming.
+I tuck in?	Tuck in, tuck in.
+Oh, yes, yes.	Oh, okay, thanks.
+Great!	Really?
+Conveyor belt.	Yeah.
+I have a ten.	So, break it.
+Tell me.	Your breath is fine.
+Really?	Sure.
+You think so?	Oh yeah.
+I don't know.	We don't know.
+Black and white?	A cop car.
+Oh yeah, real cool.	Oh, you are?
+You've got a bet.	Ok.
+He started it.	I did not.
+I don't think so.	But you could?
+Wohoo, check it out.	Can I try it?
+I'm dizzy.	Nice shotgun.
+Thanks.	Clean as a whistle.
+Yeah.	12 gauge.
+What are you doing?	Pull over?
+What are you doing?	Great.
+Milano.	Cops eating Milanos.
+Hi.	Hi, I'm Jerry.
+Nothing.	Nothing.
+Shut up.	Hot out.
+Narks?	Imagine, us narks?
+So?	Well, yeah.
+What?	What happened?
+Tarragon?	Well, take it easy.
+Mint?	No thanks.
+Excuse me, Jerry?	Hi.
+Hi, Jay Crespi.	Hello.
+Nice meeting you.	Nice meeting you.
+For what?	You know, a TV show.
+Your own show?	Yeah, I guess so.
+Kramer.	Hello Newman.
+Don't say anything.	All right.
+This.	Yeah, right.
+I'm really serious.	Just talking?
+It's about nothing.	No story?
+We go into NBC.	"We"?
+Yeah.	What do we got?
+An idea.	What idea?
+It's about nothing.	Right.
+I don't like it.	I don't understand.
+I am Kramer.	But you can't act.
+Phew!	Okay, fine.
+And one more thing.	Salsa, seltzer.
+Nothing.	You sure?
+No, not nervous.	What?
+I can't do this!	This was your idea!
+Hello Jerry.	Hey Joe!
+AH, GOOD FOR YOU.	Well, .
+Why?	Kramer's party.
+Okay, okay.	Relax.
+Who are they?	They're nobody.
+What about me?	What about you?
+Why them?	Why not you?
+I'm as good as them.	Better.
+You really think so?	No.
+Pepe.	Oh, Pepe.
+May I?	Go ahead.
+Hello, oh, hello.	Of course.
+September third.	The third?
+Fix what?	Your pants!
+what is this?	Don't you know?
+Whahuhwhahuh.	yeah?
+It's George.	Come on up.
+Yeah, your milk.	He drank it.
+Yoyo Ma!	What?
+What's Yoyo Ma?	He's a cellist.
+The show!	Oh, yeah.
+Anyway.	What are you doing?
+What?	NBC!
+Jerry!	Uncle Leo!
+Ha ha!	Good, good.
+Go.	I'm sorry, really.
+Mister Seinfeld?	Oh.
+Mister Seinfeld?	All right.
+Care?	Wouldn't tune in.
+Would they tune in?	No tune.
+Oh, oh.	Hmm, hmm.
+Oh!	Oh!
+See?	Yeah!
+Hey!	Thanks.
+Oh, thank you.	Thank you, thanks.
+Bye.	Bye thanks.
+Bye, thanks.	Why?
+Oh, gotta get fifty.	Okay.
+Thirteen thousand?	Thirteen thousand.
+a piece?	No, for both!
+Well, he does.	You're nuts!
+I'm sorry.	He's somebody.
+What about me?	You're nobody.
+What?	Outside!
+Tell the cop.	Good idea.
+Yeah, all right.	Thanks.
+Yeah!	No!
+All right.	What is he doing?
+Davola?	Yeah.
+No, no put it away .	Dad!
+Stop it.	I have money.
+I'm paying.	Dad I'm paying.
+Get out of here.	You're not paying.
+Nothing nothing.	Leave it.
+Oh, yeah, yeah.	Kramer!
+He's what?	He's joking.
+He's after you?	Nooo.
+Why is he after you?	He's not after me.
+Next week?	Huh?
+Yeah.	Where did I take it?
+What?	Yeah.
+I get that too.	Be right back.
+Be right back.	There's no watch .
+YYeah, all right.	All right.
+Yes we will.	I just said that.
+I know you did.	So good for you.
+Oh hey, by the way.	No I don't want ?
+Castro eh?	Yeah?
+Federal Express.	Federal Express?
+wait det doit .	Who is it?
+Really?	Yeah, .
+Oh, he's fine.	Things are good?
+What, Uh oh?	Did you see that?
+What?	It's a tell.
+What?	You're off bread.
+No not quite.	Why not?
+What did I say?	Svenjolly.
+Svenjolly?	George?
+I don't think so.	Nice try.
+Hello.	Hi Uncle Leo.
+Just okay?	She's nice.
+She's beautiful.	She's not beautiful.
+And how was yours?	Ah, very good.
+You're not paying.	Alright, fine.
+Yeah.	Oh, heh.
+Aww, sure.	Hang on a second.
+You have it on you?	Yeah, I think I do.
+Really?	Oh.
+Oh yeah.	Uh huh.
+Why?	They eat fish.
+It's George.	Come on up.
+He turned it down?	Yeah.
+What'd I do?	What about NBC?
+Hey!	Heyy!
+That's gotta be Leo.	Yeah?
+Alright, Leo.	Hey, uncle Leo.
+Hi, hi.	How you doing?
+Oh, this is nice.	Oh, you're welcome.
+Hmm.	Ah, Kramer.
+I don't know.	Come on.
+Yeah.	I love Yoo Hoo.
+No, it's clear.	Ah ha.
+No, up state.	Up state!
+Up state!	He's a bubble boy.
+A bubble boy?	Yes.
+I'm excited.	Ohh.
+Oh, that's nice!	What's he doing?
+Hold it a second.	Oh, no.
+Jerry Seinfeld.	Elaaaiinne.
+He's lying.	I'm not lying.
+Where's my water?	Oh, it's comin'.
+Donald, No.	What are you doing?
+What?	The Bubble Boy?
+HEY SEINFELD!	Hey, Happy Birthday.
+Go, go, get out, .	Fire engines?
+Look at that.	You didn't .
+No.	"We're"?
+Drink?	No, no thank you.
+Alright, here we go.	Act I, Scene A.
+Alright, here we go.	Yeah.
+Alright, let's go.	Here we go.
+No more golf.	Why?
+You know what?	What?
+I know!	Ohh.
+No, I don't know.	Typical things.
+What typical?	She says, uh.
+Of course.	Okay?
+Okay.	Let's go.
+Here we are.	Right now.
+Let's do it.	You and me.
+Okay.	Alright.
+Oh, yeah?	Yeah!
+It's Elaine.	C'mon up.
+No, no, no, no.	Oh.
+Why?	Talk?
+Really?	Yes.
+Really?	Oh yeah.
+Hey, Jerry.	Hi.
+Well, we.	Yeah.
+Alright, here we go.	Alright, let's go.
+Come on now.	Right now.
+Here we go.	You and me.
+I'm writin' it.	Okay.
+Real good!	What?
+Yeah!	Beautiful.
+No, no.	No, I insist.
+Okay.	fault.
+Oh, hey!	Oh, how you doing?
+it?	Come on up.
+Hi!	Hi!
+Its killing you isn?	Yeah, so Joey?
+What?	Nice!
+People do, I don't.	Well what about me!
+It's Pagliacci!	Oh beautiful.
+Oh man!	Oh yeah right.
+Oh Yeah?	Yeah!
+It's Binaca.	Binaca?
+Nedda?	Yeah.
+We're not dead.	We are dead.
+Come on.	All day tomorrow?
+Women like skiers.	So what?
+Jerry.	George, Marla.
+George.	Stacey.
+Jerry.	George, Stacey.
+George.	George.
+Remember?	Oh, right, right.
+I might.	What about Susan?
+What?	Depends.
+Depends on what?	On many factors.
+Why?	Figure it out.
+Yeah, yeah.	Oh, yeah.
+Wait, wait.	This is your plan?
+Hey.	What are you doing?
+Well, wow.	Marla, Kramer.
+Oh, no.	There's weather.
+Will you tape it?	Kramer.
+It's me.	Come on up.
+I didn't get it.	Ugh.
+No thanks.	Go on.
+Well because.	Yeah.
+Hello!	Hi, um.
+She's a virgin?	A virgin.
+Wow.	I don't know.
+Eh.	All right, let's go.
+My car's totaled.	Your butler?
+Right.	What about me?
+Head hurts.	What happened?
+So that's the idea?	Well no, that's one.
+this is great!	Why did he fire her?
+Hi.	What's the matter?
+My mother caught me.	"Caught" you?
+She caught you?	Where?
+Her back went out.	"Glamour"?
+Oh, gimme a break.	Ohhh yeah.
+A hundred dollars.	You're on.
+Oh.	We have to do it.
+Whatever.	How is she?
+She'll be fine.	Yeah?
+It's me.	Come on up.
+Oh, the virgin?	Yeah.
+Well,  You know.	Ah, yeah.
+Alright, then.	Goodnight.
+Goood Moorrrnninng!	Yeah, good morning.
+Ha, ha!	She's not there.
+No, no, no.	Alright.
+John F.	What?
+I said, "yeah.	Good one.
+It's Elaine.	Come on up!
+You caved?	It's over?
+You're out?	OhhmyGod.
+Yes.	You sure?
+Yes.	You really want to?
+I do.	Okay.
+Yeah, drove away.	Oh my God in heaven!
+Hey guess what?	I hate rental cars.
+Hey!	Hey!
+Where you goin'?	Uh, JFK.
+Yeah, you want five?	Gimme ten.
+People like you?	C'mon, seriously.
+Wait up!	You see?
+There's no time.	No time?
+There's no time.	There's no time.
+Jerry!	What?
+No.	All right then.
+More anything?	More everything!
+Hey!	Couldn't be.
+I'll call you.	Okay.
+You guys ready?	Yeah.
+And she loved me.	No she didn't.
+Dana Folley.	Right, Dana Folley.
+My Darling Susan!	What are you doing?
+Really?	Yeah, he's good.
+What's that?	What?
+That smell.	What smell?
+Well, you know.	Oh yeah.
+What?	Here.
+Anything else?	No.
+All right.	What?
+It's me.	Come on up.
+Neither do I.	Hello there you are.
+I gotta go.	No!
+Hey, Jer!	Heeeeyyyyyyyy.
+Really?	No, I don't.
+It's yellow!	44th and 9th.
+Sorry.	Oh, great.
+Oh, gimme a break!	Elaine?
+Jerry!	Elaine!
+Jerry?	George?
+George!	Hey, where's Kramer?
+You're leaving?	Yeah.
+Hi!	Hey, how ya doin?
+Oh yeah, right.	Monday, I think.
+Why?	We'll be funny.
+No!	That's so funny!
+This is not good.	What's the matter?
+You don't?	No way!
+A little.	Oh, this is funny?
+Hi.	Hello.
+Mickey Mantle.	What happened?
+What are you doing?	Babu?
+After consummation.	Consummation?
+Do you ever laugh?	Not really.
+That's so sad.	I'm a comedian.
+Jerry!	You remember Elaine.
+We try.	We do what we can.
+I kill you!	Well what about her?
+I kill both of you!	Babu?
+It's George.	C'mon up.
+C'mon up.	Babu must be back.
+He is in Pakistan!	Who are you?
+No, too fruity.	Hey, what happened?
+She didn't help him?	No.
+Where is he?	He's in Pakistan.
+Well, I had to.	Well, what happened?
+Hey.	Hey.
+Your old flame.	Did you talk to her?
+Hi, Elaine.	Why?
+He snubbed me.	Are you sure?
+Yeah, I'm sure.	Nothing.
+So, how come?	I don't know.
+Yes, it bothered me.	It did?
+Yeah, I kissed her.	You kissed her?
+She kissed me back.	I don't get this.
+Pfeiffer's.	Ah.
+Alright.	What?
+Pasta primavera.	Ah.
+No!	Yeah.
+More jokes?	Another ending?
+Hello.	Hi.
+I'm Molly.	Oh, I'm Jerry.
+All right.	That's why I poked.
+Hey!	What?
+She's sensual.	Hello?
+From NBC?	Yeah.
+Yeah.	No.
+But.	Ya.
+Beautiful.	Beautiful.
+She wants my shoes?	No, come on!
+Sauce this.	Hey!
+Oh.	No leer.
+Mmmm.	Really good.
+Great.	The pilot's back on.
+C'mon, go along.	I'm not goin' along.
+Hear what?	That I'm gay.
+No!	No steam!
+Hey.	Hey, how ya doin'?
+Maybe she wasn't!	Alright, hang on.
+Aaaah!	So are you.
+Oh, my God.	Oh, my God!
+Jerry?	Ma!
+Jerry?	Ma, it's not true!
+Oh, my God.	What?
+Jerry!	What!
+You're with a woman!	I know!
+Alright, tell her.	Tell her what?
+Hey boys!	Hey!
+Good luck.	Thank you.
+Ben Cantwell.	We?
+I'm in here.	Hello, Newman.
+Sometimes.	Why is that?
+What the Hell is it?	Mr.
+Oh her.	Mr.
+Oh, really.	No, Mr.
+He fired me.	He fired you?
+I wish I could quit.	So quit!
+My teeth!	Where's his teeth!
+It's Tim Fields, Mr.	Alright, c'mon up.
+Hey.	There you are.
+Oh, hi Jerry.	Hi, Sidra.
+Really.	Oh, yeah.
+Thursday night.	Alright.
+You know, uh.	What?
+Nah!	How do you know?
+Oh, right.	Yes, they do!
+He can't go left.	No!
+What?	Just 'cause of that?
+Hey.	Hey.
+That's funny.	Yeah, funny.
+I touched 'em.	You what?
+I.	You touched 'em?
+Anyway.	Excuse me?
+I've touched mine!	So have I.
+Hey!	Hey.
+Pffft  wrong.	There's Sidra.
+There's Salman.	Where?
+Why?	Oh, I don't know.
+O.	How ya doin'?
+Good.	Good, feel good.
+Jerry!	Excuse me.
+Alright, c'mon!	Alright.
+Hi, Jer.	Oh, hi, Elaine.
+What's her name?	I.
+Really?	Nobody you know.
+Yeah.	Yes I did.
+The whole apartment.	Wood is good.
+All right.	Yeah?
+Yeah I did.	Artsy?
+Fat.	Oh.
+You're wrong.	No I'm not.
+Heey.	I just learned that.
+Oh, come on Jerry.	Yeah, that's true.
+Ttu  Ttu.	Hey.
+Oh.	Oh, he's okay.
+Yeah?	There are ways.
+"Seinsmelled"?	Yeah.
+Oh, oh Jerry.	Oh.
+Rest.	"Hest"?
+Aretha!	No.
+Mulva!	Mulva?
+C'mon, C'mon.	Alright, alright.
+Junior Mints.	No.
+The machine.	No.
+Here, take one.	I don't want one.
+No, they're good!	I don't want any!
+Just take one.	No!
+Into the hole?	Yes, the hole!
+Yes they eat them.	Yeah.
+It's me.	Come on up.
+Prognosis.	Prognosis negative!
+Really?	Yes!
+What?	Mulva?
+huh.	Yeah.
+Any news?	No, no news.
+104.	O.
+Mm.	Bye.
+Hehe.	Really.
+Nono Jerry.	Why?
+Y'know.	What do you mean?
+We are.	I believe we're not.
+Great seats.	Really.
+What is it?	Mulva.
+Mulva.	Aub, ah, Gipple?
+Aub, ah, Gipple?	Loleola?
+Loleola?	Oh!
+You never know.	Oooh!
+I think it's B.	What?
+It's B.	It can't be.
+I don't mind skunk.	Horse manure?
+Wow.	Why?
+Yeah, last night.	No.
+What's that smell?	What smell?
+You stink.	I showered!
+What happened?	What happened?
+What is that?	Yeah.
+So, let me ask you.	No, no.
+Stinks.	Stinks!
+Really?	That's from the car!
+Tomato Sauce?	Wait a minute!
+It still smells.	It still smells!
+Maybe I'll buy it.	Are you crazy?
+I still smell!	You see!
+Kramer!	Susan!
+Kramer!	What is going on?
+"Who's the Drake"?	The Drake is good!
+So what?	Easy?
+No, no, no.	Are you serious?
+Good thinking!	Good to meet you!
+I don't know.	Son's of bitches!
+Screw the Drake!	I love the Drake!
+Me?	Yeah!
+Sure!	Sure!
+Sure!	The Drake is great!
+Hmm.	Yeah.
+Yeah.	Yes?
+It's me.	Come on up.
+Hey.	St.
+Yeah.	Wow, what happened?
+I'm in love.	What?
+Hey Drake!	Hey Alison!
+Gagliano's.	Well.
+Get movin'.	Yeah.
+Hey.	Hey, guess what?
+Really?	Yeah.
+What?	What's the matter?
+It's over!	What's over?
+Yeah, she dumped me!	She dumped you?
+yeah.	Drop dead?
+Neither are you.	I know.
+Alright.	Ah.
+Oh, real good.	No.
+That's NBC.	NBC!
+Catch what in time?	Whatever it is.
+O.	Uh, you know what?
+Yeah.	O.
+Ahem.	What look?
+How you doing?	Good.
+Really?	Yes.
+Mmm.	Beside that.
+Ah.	I mean look at this.
+You know what?	Hey that's life.
+A biopsy!	What did he say?
+No I can't.	Hey.
+You got mugged?	Mugged?
+It was full.	Yeah?
+It's me.	Come on up.
+Exactly.	Hello.
+Who was it?	TV Elaine.
+What about pasta?	Also with her hands.
+Seriously.	Everything?
+That's good.	Shaft.
+Oh.	No.
+Elaine.	What?
+Call me Elaine.	All right.
+Like this?	I think you got it.
+You're crazy.	No I'm not.
+This guy stinks.	Danish.
+Yep.	George?
+What's the matter?	Nothing.
+You're acting weird.	No.
+Fine.	All right.
+What do you mean?	Because I can't act!
+Oh yeah.	Did he take 'em?
+Hey.	Any luck?
+No.	What about bran?
+No.	Strange.
+Wet and wild.	All right.
+Hey, what's this?	A wallet?
+Here.	Ah, man!
+Hey.	Hey George.
+New sneakers?	Yeah.
+Really?	Yeah.
+Yeah.	Hello, Charles.
+Hey.	Hey.
+It's Elaine.	Come on up.
+I need more Pledge.	More Pledge!
+We had a date.	You had a date?
+Peggy!	What a family!
+Thank you very much.	What?
+Karen.	Is she nice?
+Great.	So you like her?
+I think so.	You don't know?
+Tub is love?	Tub is love.
+Hah.	So there you are.
+Yep.	Sexual?
+Yeeeaaah.	Below the equator?
+Yeah.	Nobody does.
+II don't know.	You got the tap?
+Of course.	Really?
+You didn't know.	What?
+You didn't know.	Are you saying.
+Well.	You faked with me?
+Ye.	You faked with me?
+Yeass.	No.
+Yeass.	You faked it?
+Uuuhm, all the time.	All the time?
+She didn't have any?	No.
+She faked 'em all.	Faked 'em all.
+Aaaaah.	Don't aaaaah!
+Giddyup.	Hello.
+Oh come on, Jerry.	Yeah I guess.
+Okay.	All right.
+Yeah.	You faked it?
+You don't like her?	Ah, she's okay.
+What's the matter?	Nothing.
+You mean.	Yes!
+Ya, Yes we will!	Elaine.
+No.	Elaine?
+Hey.	Hey.
+Yeah.	Hello Elaine?
+I like mangos.	Avocado?
+Not too soft.	Hmm ah.
+Oh!	Plantains?
+Mmm.	What?
+Ya I told you.	What is it?
+I know.	Well I'll get them.
+I'm waiting.	All right.
+Okay, welp.	Yeah, see you.
+Come on!	Are you serious?
+Listen carefully.	A smirk?
+Well, move in here.	What's that?
+Hello, Mrs.	Hello, Mrs.
+Nah, not interested.	No, no.
+What?	Yeah.
+Oh.	Yeah, take it easy.
+What's that?	Excuse me?
+Excuse me?	Yeah.
+Oh, a puffy shirt.	Puffy.
+Uh, o.	Yeah, that's right!
+Yep.	And the indigent.
+Ohh, yeah.	Uhhuh.
+Yep.	Yep.
+Me neither!	What is it?
+I don't know.	They're hands!
+Hey.	Hey.
+A hand model?	Yes.
+Yeah.	Alright.
+There you go.	Where I go?
+Wha What?	I have to wear it!
+Back now, 746.	Thank you, Bryant.
+You.	Uhhuh, yeah.
+Did you hear that?	THAT I heard.
+Nice shirt.	Yeah.
+No.	Yeah.
+Hey.	Hey.
+What do you think?	Beautiful!
+Good one?	Commando 8?
+Okay.	Hey, any luck?
+Good, good, do that.	What's the matter?
+Oh, no, nothing.	What is it?
+Yes!	Are you sure?
+Oh, come on.	Why not?
+So what?	Are you kidding?
+Not shot, dog bite.	Nah, look at this.
+Saw me?	You tell me.
+No.	Oh.
+Yeah.	It's coming!
+Ooh, so what?	So what?
+Heh, Mercury head.	No, keep it.
+Yeah.	Snowball?
+Hey!	Hey, hey.
+Of what?	Rabies.
+I find it annoying.	Oh?
+Helloooo!	Uncle Leo?
+Come on in.	This is Amy.
+That's pretty rare!	Uncle Leo!
+He likes the spots.	Thank you.
+What do you think?	You like him?
+In the office.	So, he's a writer.
+Yeah.	Yeah, big surprise.
+Hey, that's Barry.	Hey.
+Oh, great.	Did you see that?
+I don't know.	You don't think.
+Drugs?	I don't know.
+Yes!	I don't know.
+Hey, hey.	Hello Newman.
+Alright.	There he is.
+I use dental tape.	You should try this.
+I don't wanna.	Not even once?
+No.	You're an idiot.
+See'ya later.	You know this.
+Hey, Ralph.	Hi Ralph.
+What's up fellas?	All right.
+The sweater!	Oh no!
+Nice.	Think so?
+Jus, a year or two.	No break?
+Huuh, Wow.	Me?
+Yeah.	No.
+Ya.	What'd you think?
+YEA!	What's the matter?
+What?	Oh, it's George.
+Kramer.	Where's the Mohel?
+He'll be here.	He's late already.
+Hello!	Yeah.
+Ok, go.	I'm going.
+Go.	I'm going.
+You flinched.	Flinched?
+What about the baby?	Oh the baby's fine.
+Would you stop it?	A few stitches?
+I said I'm sorry.	Look at this.
+Butcher Boy?	Ya what was this?
+What was this?	It was not!
+Outta My Way!	I can't do it.
+NO, he's not.	Myra, Stan.
+Yeah, she's a B.	B.
+Can't hear a thing.	Can't hear a thing.
+You are kidding.	Wow good plan.
+No.	That's nice.
+Yeah so did I.	Did she say why?
+Why not.	Hello.
+I beg to differ.	Really.
+Oh.	Why?
+Yea.	Really.
+They're breaking up?	She reads lips.
+Look.	I don't know George.
+Hey, hey, hey.	Can't do it Newman.
+What?	ca.
+Hey buddy.	Hey Todd.
+"Hi Gwen, hi tide.	Hi tide?
+She's so wild.	No.
+Fantastic!	I told ya.
+Good.	How good?
+Very good.	I know it.
+Hmm!	Suave!
+What do you mean?	He invested in it.
+No kidding?	Yeah.
+Jerry!	Oh, I'm sorry.
+Oh, god.	Who is it?
+Hi.	Hi.
+He's a jerk.	He's gone, George.
+Hey!	What's the matter?
+Yeah.	No.
+I don't get it.	Me, either.
+You don't eat Oreos?	What about me?
+Hey, Seinfeld.	It was an accident.
+Hurry, Jerry!	How's it doing?
+It smells.	That's enough.
+What?	With the smelling.
+Hi!	Hi!
+You did it.	That's true.
+Yeah!	Oh, I see.
+Mine, too.	I can't eat this.
+Hey.	Shower?
+Haircut.	Oh.
+Will you go ahead?	Okay.
+Oh Jerry.	Oh hi Enzo.
+He massacred you.	I know.
+His feelings?	Yea but.
+I have an idea.	Yeah?
+I show up.	Hmm.
+Hi.	I got a haircut.
+Come on.	Forget it.
+Come on.	All right.
+Yeah.	Yeah.
+Yeah, so?	I think he knew.
+No.	Who do you know?
+He knows.	How do you know?
+Because I know.	Who is it?
+My toilet's clogged.	You can't unclog it?
+No.	Did you ask Kramer?
+He's out.	Number one?
+Yes, yes.	All right.
+No.	All right?
+Enzo Manginero.	Oh my god, he knows.
+Don't lie.	Sample?
+Karen?	Risotto.
+Oh!	Yeah.
+And you're taking.	Jody the masseuse.
+Can we go?	Yeah.
+So soon?	Yeah.
+She stayed over?	Yeah.
+So?	I want the massage!
+We all got along.	Yeah.
+What did Jodi say?	She had a good time.
+Is that it?	Pretty much.
+She said that?	Yes.
+I tried to be nice.	You were very nice!
+You vomited in 1987.	Oh no.
+Oh no.	Jodi.
+Oh.	Enjoyed yourself.
+Wait a minute!	I'm sorry, Kramer.
+But why?	That's final!
+Hey.	Hi.
+Hi.	Ah, no problem.
+No.	Why, what's wrong?
+No, I can't!	Come on!
+Listen.	Fine.
+We need to talk.	You need to talk?
+Jerry.	What?
+There's some kasha.	Yeah.
+Come on!	What's the big rush?
+Yeah.	Really?
+Aaahh!	Alright, I'm sorry.
+The Indian?	Yeah.
+Jerry!	Surprise!
+Hi JerryHello.	Hi.
+AwwThat's so sweet.	Are you ready?
+Yeah.	Tada!
+That's very nice.	Read it out loud.
+You know, it's late.	I, I had no idea.
+Hello Jerry.	Hello.
+I don't know, uh.	I'll see you later.
+Sure, take it.	Thanks.
+He collects  these?	Yeah.
+Oh, by the way.	Why?
+I guess.	What's the matter?
+Hello.	Oh hi.
+Ok, see you later.	See you later.
+What?	How did you get in?
+Lobster.	Looks like a swan.
+I know.	Oh, whatever.
+I cant.	To Latvian Orthodox?
+Oh that was nice.	Oh I dont know.
+Meet you back here?	Right there.
+Right there.	"Fungicide".
+"Fungicide".	Fungicide.
+You were snooping.	I was not snooping.
+Fungi.	What?
+Oh, that's my phone.	Oh hi.
+Okay.	All right.
+Bye.	Bye.
+Well take a look.	Yeah.
+Hi.	Hi.
+No soap?	No I dont see it.
+I told you.	What?
+Sister Roberta.	How do you know?
+Hey.	Hey.
+Keep away Jerry.	Kramer.
+Im tired.	Bonkers?
+My cat.	Oh its your cat!
+What?	Ooh, nothing.
+yeah that's right.	cool guy?
+isn't it too much?	trust me.
+what?	what's all set?
+It's disgusting.	It's pathetic.
+Really cold.	Scary cold.
+I don't know.	That.
+All right, let's go.	You are.
+Okay, let me out.	Jerry.
+Yeah.	Thank you.
+CHOCOLATE BABKA!	Love that babka.
+You're Jerry right?	David!
+I know.	That was our babka.
+Black Forrest?	Black Forrest?
+Napoleon?	That was our babka.
+Well what is this?	What?
+It's a hair.	Oh, oh take it back.
+You can't tell me?	All right .
+Wow.	My mother's.
+Ooo, That's us.	Oh, good.
+The black and white?	Yeah.
+How was it?	As good as it gets.
+Cinnamon?	George!
+See ya'.	See ya'.
+Really?	I'm not joking!
+No, anything.	She doesn't open.
+Yes.	What did she say?
+Yeah!	Cash advance.
+Jerry?	Yeah.
+How are you?	Good, good.
+Huh.	Yeah pluggin' along.
+Yeah?	Marine biology.
+I can't believe it.	Yeah.
+Diane DeConn?	Something huh?
+Ahh!	She looked great.
+Ahh!	She asked about you.
+She asked about me?	"How's George?
+Good.	Expect a call.
+A what?	A marine biologist.
+A marine biologist?	Yes.
+Yeah Ohoo.	I did it for you.
+Hey.	Hey.
+I stink!	Well what happened?
+I wish!	Unbelievable!
+There you are!	So?
+Uhhu.	Can I take a guess?
+One million.	Well that's a start.
+Oh.	Yeah I got it.
+Oh, here she comes.	Hi.
+Yeah, Yeah.	Oh!
+kissed me.	Wow!
+Ohhh!	He didn't make it.
+I'm sorry.	Yea.
+Hum!	Yeah.
+No.	Come on, try it!
+Did she say why?	No.
+Like at the airport?	Yeah.
+That's a great idea!	Tell me about it!
+No harm!	I'm sorry.
+Rinitze.	Uh.
+I don't know.	Uh.
+Yes, I was full.	You were full.
+Can we drop this?	Why can't I know?
+Jerry are you OK?	Huh?
+Is anything wrong?	No, Nothing.
+Oh!	Georgio!
+Yeah, like a swoosh.	Yeah.
+Yep.	Was it apple?
+Jerry get the car.	What are you doing?
+That's right.	Hello.
+Deeply in love.	Ya.
+Hey!	Hey!
+YAAAAAH!	Hey, woahoh Fulton.
+It's a fine time.	Oh, alright ah well.
+You look terrific.	I got my health.
+Ya, I bet you would.	Alright.
+Hey.	Hey Mick.
+Hello.	So?
+What?	Come on.
+Oh, the date.	Ya how was it?
+Interesting.	Really.
+Oh ya.	Why what happened?
+He took it out.	He what?
+He took  it out.	He took what out?
+It.	He took It, Out?
+Yessiree Bob.	He couldn't.
+Yes.	Are you sure?
+Yea.	It.
+It.	Out.
+It.	Out.
+Out.	Alright I'm going.
+Ah hey Jer.	Oh hey Phil.
+I'll see ya.	Ya take it easy.
+Ya take it easy.	Hey how ya doing?
+Good morning.	Good morning.
+Ooh, cashmere?	No, goretex.
+Hey, forget it!	Get outta here!
+Uh, would you, um.	Pardon?
+Excuse me.	I, uh.
+Really?	No, just Meryl.
+Meh.	Eh.
+Yeah.	Hey, where's George?
+So?	Really.
+Yeah.	Ohhh, moisture?
+Well.	Here we go.
+Jerry!	Uncle Leo?
+Hello!	Hello.
+You got married?	Well, it was sudden.
+I remember your 'V.	Uncle Leo, wait!
+What?	I'm not married!
+Well, I give up.	Well, whoopie whoop.
+Got any coffee?	Yeah.
+Huh?	That?
+Yeah, me too.	I Love you.
+Well, goodnight.	Goodnight.
+Pale?	Hello?
+But it isn't right!	Give me the clothes.
+You son of a bitch!	I'm sorry.
+Who is she?	It doesn't matter.
+A divorce?	Yes, that's right.
+I'm sorry, uh.	No.
+Okay, thanks.	We'll always have.
+Ya.	I'll call you later.
+We can't stand them.	Really?
+Since always.	Why?
+Well we do.	Ya?
+It's us.	Uoh come on up.
+A what?	You'll see.
+Oh.	I'm swamped.
+Bye.	Ok buh bye.
+What?	Call Rachel.
+Ok, fine.	What is that anyway?
+It's been soo long.	I know.
+Ooh.	Oh Hi.
+We'll take a bus.	Come on stop.
+Cuz we don't wann.	No no it's ok.
+Nice meeting you.	Ok, see you later.
+It's Jack Klompus.	Oh hi Jack.
+Did anybody see you?	No I don't think so.
+Oh ho right.	Hi  What?
+How could you?	How could I what?
+Don't lie Jerry.	Newman.
+I couldn't help it.	Hello.
+Tomorrow afternoon?	Tomorrow afternoon?
+Bye.	Bye.
+You know very well.	Rachel!
+Good night!	Rachel!
+Ohh, were you there?	Yes I was.
+Yeah.	Yeah.
+Are you sure?	I don't.
+Hey, Jerry.	Hey.
+This is so exciting!	Really!
+What about you?	Good, good.
+Oh, really!	Yes, yeah.
+BOO!	Yea, ya, so.
+Me?	YYou boo me?
+Oh, come on!	No!
+No, her too.	Really?
+Yeah.	Hmm.
+Well, go ahead!	Why can't I?
+No reason!	You know what?
+What.	Hey, nice shoes.
+Yep.	Why?
+I'll tell ya why.	Too bad.
+Hey Jerry.	Who are you, Mrs.
+'Kay.	No thanks.
+What?	Jane's topless.
+I'm thirsty.	No thanks.
+Oh, gorgeous, yes.	So very gorgeous.
+Yeah, see ya.	Okay.
+Face up on her back?	Yeah.
+Great, great.	I guess that's true.
+I didn't.	You won't.
+What is it with you?	Easy big fella.
+A little breakfast.	Yeah.
+I went to the beach.	Oh, the beach.
+I'm Victoria.	Are you kidding?
+Hey.	What's happening?
+Well, coffee tables.	Hello?
+Lost 15.	Broke even.
+Oh yeah?	Broke even.
+Yes funny  let's go.	Elaine .
+Jerry .	Yes?
+What?	Nah, that's fine.
+You will?	Sure.
+Huh?	It's fine.
+Ya!	Ya?
+It's me.	Come on up.
+Hey!	Hi Elaine.
+Hi.	How're things going?
+How're things going?	Why?
+I don't know!	The jewel thief?
+Oh, you want one?	Yeah.
+Jerry!	Elaine, stop it.
+No, thanks.	Ah.
+Rhode Island.	I was almost Mr.
+Miss Rhode Island?	Tonight.
+You're calling her?	Yeah.
+What state?	Rhode Island.
+Hmm.	Congratulations!
+No way!	What?
+AAAH!	But wait a minute.
+Oh, yeah.	I'll be right back.
+That makes sense.	Well, here we are.
+Really!	Yeah.
+Hello?	Hi, Mr.
+Sorry.	Hey Elaine, it's me.
+Really?	Today, right now!
+I can't go.	Why not?
+Hey.	Hey.
+How was the show?	Good.
+Me either.	Wait a second.
+Well, that's it!	What?
+Her birds are dead.	Birds?
+Hey, hey!	Oh, great!
+Hi Jerry.	Hi Julie.
+Right on baby.	What was that?
+Umph, sorry!	Certainly are.
+He LOST IT!	All right.
+Oh, thank you.	Hello.
+Yes it is.	No it isn't.
+Turn on the TV.	What?
+Who is staring?	Oh, they're staring.
+Oh, they're staring.	Hello.
+Hello.	Hello Newman.
+You know, Genderson.	I suppose.
+What did Kramer say?	I don't know.
+Just a few times.	Why?
+I liked him.	You liked, Newman?
+A golf tee.	Newman!
+It's possible.	No it isn't.
+Uh, great!	Hi Julie.
+Hi Julie.	Hi.
+Who is it.	It's Jerry.
+Not really.	Well, how come?
+Oh, I love curls.	Yeah,, me too.
+Around three.	And .
+I told you.	What?
+I will.	Oh, right.
+Uh oh.	So was I right?
+So where is it?	What?
+The card.	No?
+Oh.	Yeah.
+Yeah.	Why does he do that?
+Absolutely.	Excuse me?
+Oh dear.	Hello?
+Jerry?	Uncle Leo!
+Any word from Nana?	No.
+Missing?	Yeah.
+It's possible.	Yes, it is!
+Alright, alright.	Alright.
+Hello.	Uncle Leo!
+Who's that?	You know what?
+Jerry?	My Nana?
+Wow.	Yes, he is.
+Mmm!	Already?
+No, but.	A Long Talker.
+A lot!	I got a date!
+Jerry.	No, why should I?
+Hey, hey, hey!	I tried!
+Jerry.	'scuse me?
+Hi.	Who are you?
+I'm Donna Chang.	Wwhat do you mean?
+She's not Chinese?	No.
+So.	Well, she's.
+Whoa!	Here, what is that?
+Jerry, look!	Look!
+Ridiculous.	I thought you said.
+Wrong again.	Oh, no.
+It's Donna Chang.	Come on up.
+Hi.	Oh, Miss Changstein!
+Oh.	Why?
+He's a great writer.	Oh, yeah.
+New couch?	I love this couch.
+Hey!	It's here!
+Yeah, yeah.	Yeah.
+"I do now.	Clever.
+Is that something?	Yes.
+Is that something?	You're something.
+Paccino's?	Why not?
+No way.	Really.
+Oh.	So, what's it about?
+No.	Big surprise.
+So.	Oh.
+I'm in looove!	Whoa!
+No, I forgot.	No games?
+What?	What is his stand.
+Yeah.	Okay.
+That's fine.	Okay.
+Oh my god.	You see?
+It's the movers.	'Kay.
+Take a guess.	Oh, really.
+Today?	Could you?
+A gymnast!	What is this?
+ALL the way, baby!	Of course.
+Yeow!	What, again?
+Oh, DAMN this thing!	So, Ceausescu.
+No, no.	Was it in the trash?
+Yes.	Then it was trash.
+Hey.	What's with you?
+I got a stone.	What stone?
+Tantric yoga?	No.
+Not yet.	Hey, that's her!
+Oh yeah.	Well, here we are.
+Oh, come on.	Well.
+The balance beam?	Could we stop?
+Yeah.	Kramer!
+It is time.	Well, break a leg.
+Well, break a leg.	Eh, show biz.
+He'll be all right.	Oh, why not?
+No.	Not possible.
+Hey Jerry.	Hey Kenny.
+Hi.	How's it going?
+Great.	No kidding.
+Oh.	Ahh, Im a 40.
+Take the suit.	Well .
+Hey.	Hey.
+Hey  Here you go.	Yeah.
+Armani?	Yes, yes, I heard.
+Come on, try it on.	No, it's ok.
+There you go.	Ok, Yeah all right.
+All right.	Yeah, Ill see you.
+I did it!	Hey.
+I did it.	I love the day date.
+Or something.	Or something.
+Yeah.	Yeah.
+Yeah.	Mmhm.
+Hey.	Aaa.
+Ha ha ha ha.	Is she?
+All right it's done.	Hello?
+Hi, Jerry.	Oh, Hi.
+You should.	Why?
+Consomm, hmm.	What?
+Im just curious.	A bowl, ok?
+Pardon?	So is she working?
+What's it gonna be?	Yeah, that was bad.
+Hey.	Hey.
+OK .	This is the meal .
+Hi.	Where's Simon?
+Hey mate.	Ah, no thanks.
+Ah, no thanks.	Hello?
+40.	40.
+Absolutely.	Great, its yours.
+Well it's my suit.	Well it's gone.
+Hey.	Hey.
+Um, yeah.	Ok.
+Hello.	Oh, hi Hilde.
+There, you see.	Why'd she get fired?
+Jon Voight?	Okay, Tim.
+Ohhh!	Hey!
+What Consumer?	Alright.
+No, no.	I think yes, yes.
+Hey.	Hey.
+You said take 'em.	Not all of 'em!
+Yeah?	Oh yeah?
+What?	No, nothing.
+Get out of the car!	What?
+That he did.	Oh, please.
+That's right.	Hey, Elaine.
+Jerry.	Hey, Tim.
+Whatever.	Hi Willie.
+Hi.	Hi.
+Hey, nice jacket.	Thanks.
+Demi ?	No.
+Skinny Mirrors!	Oh, you're crazy.
+Good idea.	Do it tomorrow.
+You got a pen?	Yeah, I think I do.
+Where?	He just went in.
+3 days.	It's almost a week.
+It's almost a week.	Oh, My god.
+Jerry.	Yeah, Yeah.
+Jerry, come on.	Now.
+Now?	Yeah.
+Well .	Where's that ticket?
+Kramer.	Im going out.
+Jerry.	Bania.
+Here you go.	Ohh .
+No it's not.	It is!
+Jerry Seinfeld!	Duncan Meyers!
+What's that?	Mr.
+Hi.	Hi.
+He's okay.	He say anything?
+Yeah, yeah.	yeah, yeah.
+Oh, the big race.	Yeah.
+Race him Jerry.	All right!
+Not anymore.	Hi how are you?
+Yes he can.	Don't worry Lois.
+How do you feel?	I need a miracle.
+You ready boys?	Yes, Mr.
+Newman plays tennis?	He's fantastic.
+I gotta get going.	Oh, OK.
+You know, .	What blah?
+That's stealing?	Stealing?
+It's all worked out.	What's she like?
+Ah, I'm ready what?	What is it?
+Yes?	Hi, is Sandy here?
+Oh yeah HAAA, HAAA.	Yeah.
+The Switch?	"The Switch.
+Can't be done.	I wonder.
+All right.	All right.
+So what happened?	She's into it.
+Into what?	The manage.
+I know.	Hey, what happened?
+Hey.	Hi Cosmo.
+How can I think you?	No no no.
+Hello, Jerry.	Take what?
+Stay strong buddy.	Yeah.
+Watch it good.	Ok.
+Hey.	Hey.
+Hey.	Yes it is.
+Yeah.	One Tim Whatley!
+I'm sure I will.	Male roommate, huh?
+Yes.	Is this a problem?
+Hey.	Hey.
+Guess what?	So what?
+Yeah, alright, fine.	Are you through?
+Oh.	The wedding is off?
+Tim Whatley.	That's my ticket!
+Is it?	Newman!
+We'll see.	Newman.
+Hey, guess what?	What?
+Hey.	Hey.
+Damn!	The bedroom!
+The bedroom!	I see you, Newman!
+Hey Jerry?	Ah, Tim Whatley.
+Oh, Elaine.	Oh.
+Oh, Elaine!	H.
+Hello, Jerry.	Oh, it's enchanting.
+Right, I got news.	Oh yeah, I knew.
+If not mine, whose?	If not now, when?
+Yeah, well, listen.	Hey.
+Fine, fine.	Really?
+My regular face.	No it isn't.
+You did that?	Yeah.
+You be nice!	Gary?
+Hey buddy.	Hey.
+I wanna be a pirate.	This is Gary.
+What whip?	The Whip.
+No.	Yeah.
+No, say.	It's not good, okay.
+Jerry!	I'm sorry.
+What?	What?
+'Scuse me.	Look at you.
+I know.	You stink.
+Oh.	Oh.
+Yeah.	Yes.
+Oh I did?	Yeah.
+Oh.	Oh no.
+He's incredible.	Yeah, but?
+Yeah, I know.	So?
+What?	Not conversion.
+Tupperware.	Sorry.
+A polygraph.	Oh.
+Melrose Place?	Yes.
+Hey, I did it.	What?
+I turned him.	Get out!
+What's your name?	Jerry Seinfeld.
+Yes!	He went back?
+Yeah.	Yeah.
+Okay.	Hey.
+So, what, no lunch?	No, we have time.
+Ah.	Like toothpaste?
+Wendy?	Yeah.
+Really?	Yeah.
+Bye Jerry.	Bye.
+Yeah.	What for?
+Jerry!	Hello, uncle Leo!
+Hello Jerry.	Hi Nana.
+Give it to me.	Will you stop it.
+Awright.	Huh?
+Oh, I, I need a pen.	What for?
+Oh, come on, Jerry.	You're robbing me.
+No reason.	So?
+Listen, Jerry.	Hello.
+Wendy.	Come on up.
+HiHey.	Hi Wendy.
+Sure.	There you go.
+Ah.	Oh, look at that.
+Aagh.	Alright, fine.
+Hey!	Oh my god!
+Hello,  Jerry.	Oh.
+Jerry.	Oh, sure, yeah.
+Thank you.	Oh, no!
+Oh, no!	You see?
+Hee, hee, hee.	What is so funny?
+Nothing, nothing.	Hello.
+Why?	I don't know.
+Hi Jerry.	Hi Joan.
+How you doing?	Pretty good.
+Just pretty good?	Okay, great.
+Are you happy?	Oh, I'm delighted.
+Okay.	You too.
+Hi Jerry.	Hi, Louise.
+Hey.	Ah, well.
+Hi Jerry.	Hi Mary.
+Hi Mary.	Uh, listen.
+Hi Jerry.	Hi Louise.
+Jerry?	Hi mom.
+Look at my picture!	I've been defaced!
+Oh, hey, Jack.	Hi Jack.
+Hi Jack.	Hey, Julio.
+Oh yeah.	Leo?
+Yeah, that's it.	Is that so?
+One second.	You're busted!
+You're busted!	Hey, Steve.
+Hey, Steve.	Hey, Jeff.
+Hey, Jeff.	Mary!
+Hi.	Hey.
+What, again?	I got a date.
+Ooh, I like that.	Who's that?
+Stefanie.	Oh man.
+Oh.	Yeah.
+Oh, I see.	Yeah.
+What guy?	The doorman.
+No, don't.	Hello?
+Hey, buddy.	You?
+Big breasts!	So what?
+What?	What?
+Ugh.	Yes, we do.
+Help you?	Hoh!
+Oh.	Hey, hey.
+Yeah.	I know.
+You see?	What?
+Visiting my friend.	Ohh.
+You!	No, Poppie!
+"What day is today?	"Why.
+"Ah!	"Yeah!
+"Oh yeah.	"Oh!
+"Hey !	"The Velvet fog?
+" Hmm!	"Really!
+"Penthouse?	"Yeah!
+"So.	"Of course.
+"Hey!	"Kom Pausp?
+"All right euhhm.	"Ahh!
+"He.	"Hey!
+"Ehmm .	"Wait a second .
+".	"I don't think so.
+"your shirt was out?	"I think so.
+"Oh yeah!	"Jimmy?
+"Ahum!	"That's the guy?
+"Why?	"I dunno.
+"No No.	"That's Jimmy.
+"Hey!	"Where's my Mr.
+Are you through?	Yeah!
+Oh!	What?
+What are you doing?	OooH!
+Yeah!	It's just.
+I'll join you.	Oh!
+Hehummm , Yeah!	Thanks.
+Yeah.	Yeah!
+Yeah!	Oh!
+I'm grotesque .	It's just a drawing.
+Yeah!	Oh!
+Hey.	Don't ask.
+Well, they're in.	What's in?
+Come on JUST TASTE!	I DON'T WANT IT .
+What?	Yeah!
+You got a dog?	No.
+Hi Jerry.	Nothing.
+Yep!	I don't get this.
+Argh.	I don't know.
+No, No.	c'mon ,c'mon.
+No, No.	c'mon, c'mon.
+No, No.	Yes!
+Yes!	Yes!
+Hey!	Yeah.
+Oh!	That'd be the fleas.
+That'd be the fleas.	Hey!
+Toxic gas!	Aw!
+My manuscript?	How do you feel?
+Yeah!	Let me see those.
+Let me see those.	Newman .
+Fleas?	Oh!
+Oh!	Yours?
+No more nuts.	Oh!
+He he.	Ahh!
+Oh, yeah.	All right.
+No, nothing.	Hi.
+He did the move.	What move?
+You know.	Wait a second.
+Yes, yes.	Are you sure?
+Jerry!	I can't believe it.
+Isn't that a little.	No!
+Oh, that's good.	You feel better?
+Yeah, much better.	Nancy Klopper?
+Yeah.	All right, George.
+I got a headboard.	Is it padded?
+No.	Good.
+Here you go, buddy.	What is it?
+In my spare time.	Oh.
+Assman.	Assman?
+What move?	What move?
+Whatever.	Oh, yeah, I know.
+Elaine.	C'mon up.
+C'mon up.	Hello?
+Yes!	Really?
+I'm not surprised.	Listen.
+An estimate?	Well, look.
+Fusilli Jerry?	Yeah.
+Hello.	Hi.
+Oh!	Are you kidding?
+Are you kidding?	Hi, Mr.
+Hey.	Hey.
+Aah!	Oh, my god!
+I've had enough.	You're marchin' in.
+Hey.	Hey.
+This is it.	Get a march goin'!
+Oh good.	No.
+Mr.	Yes?
+I'm not surprised.	I didn't care.
+Yo.	George.
+Carl.	Yeah, he was nice.
+What company was it?	Defent.
+No, not really.	Oh, don't tell me.
+Gotta go.	George, George!
+I'm not sure.	Is this even a road?
+Okay, now I know.	Look out!
+Goodbye?	Bridget!
+Hi, how are you?	Hi, Alec.
+Thank you very much.	Really, thank you.
+Yeah.	It's softer.
+Ok, ok, fine!	What?
+El Diablo!	"I'm hungry.
+Yup.	Big matzoh ball.
+Well, it's all over.	Oh, you don't know.
+Nothing.	Hm.
+Hey, Alec!	Did you see that?
+The monkey.	Well?
+Oh my god.	What?
+I'm gonna do it.	What?
+Oh.	Yeah, I saw him.
+Yeah.	Hello?
+Well?	No.
+Oh, come on, Jerry!	Alright!
+Really?	She might be.
+No, who?	George's father.
+Nice to meet you.	Playing today?
+I GOT THE PINEAPPLE.	Keep going.
+No, please.	It's okay.
+No, no.	What?
+Wait, wait.	Where?
+I met him.	You met J.
+yeah.	What is he like?
+My grandmother died.	Oh, I'm so sorry.
+I gotta go.	Good luck.
+All right.	Happy, Pappy?
+I'm "Pappy".	Oh, I get it.
+What is this?	Ahh.
+What?	What is this?
+What?	OUR LIVES!
+Yes.	Hmm.
+No.	Oh.
+I was just curious.	Well, this is it.
+Think I'M not?	I'm not kidding.
+Absolutely not.	Well.
+They're prisons.	Really?
+Oh, yeah.	What?
+Hey.	Hey.
+Hey!	What are you up to?
+Nothing.	What's the rope for?
+Oh!	The dog.
+Don't go.	Did what?
+Yes!	Oh, my god!
+I'm a man.	I'm blown away.
+You're blown?	Wow!
+You like that?	And she said "Yes"?
+Yes.	Pinkish hue?
+Uhhuh.	What?
+Yeah.	No.
+Yeah.	Hey, wait a second.
+Champagne?	Yes, come on!
+Okay!	You know what?
+All right.	Ready?
+Yeah.	Hey, wait a second.
+Hello?	Hey, ?
+I don't know.	Very strange.
+I know.	So, tell me anyway.
+Oh, I can't Jerry.	All right.
+News?	Sorry!
+Oh, come on, Jerry.	George Costanza.
+Yeah?	Is getting married!
+Hey, good news.	Really?
+Yea, yeah, yeah,.	That's great.
+What's to discuss?	Come on!
+Oh, what?	No!
+Oh, please!	Oh, yeah.
+Yeah, right.	Lainy!
+Yeah, that's right.	Oh, come on!
+Oh, you come on.	You're such.
+Oh, hey!	Hey.
+Come upstairs.	Hey!
+You do?	Yes, I do.
+Same thing.	Yeah, I know.
+That's allowed?	I don't see why not.
+So, I could do that?	Sure, go ahead.
+All right!	Spring.
+Huh?	Beautiful.
+March 21st.	Oh, all the way.
+Definitely.	You're kidding?
+Good evening.	Well, Rabbi, well.
+She didn't tell you?	No.
+He didn't mention .	Yes he did.
+Can he do that?	He did it.
+Nope.	What?
+Sorry?	Suing?
+Literally nothing.	Wow.
+Hey.	Hey.
+Fine.	Hi Bob.
+Hi Bob.	Oh, I'm sorry.
+I might be Elaine.	This is a, Bob Cobb.
+Monks Cafe.	New shirt?
+Why, the color?	Yeah.
+Who?	His lawyer.
+Jerry!	What do you mean?
+He is a Maestro.	Well, I'm great.
+Why?	I don't know.
+It's BOOKED Jerry!	How'd you get yours?
+Who?	Bob Cobb.
+Huh.	No.
+Of course he is.	I have no idea.
+I didn't push you.	75,000 lira.
+You're way off.	Way off?
+Pulp can move, Baby!	Hey, I eat healthy.
+It's a full bird.	You know what?
+Um uh.	What is she making?
+I don't know.	Oh, don't worry.
+They were?	Yes.
+It's Holly.	Yeah.
+One more to go.	Hey.
+A little.	That is so Franco.
+Yeah, you do!	Yeah, he looks busy!
+Yeah, that's him.	He's from uh.
+She's not.	Whom I gonna tell?
+Alarm clocks?	What do you do?
+I have a uh.	Always works?
+Jerry.	Ah, hi JeanPaul.
+Yeah, that's funny.	So what happened?
+Yes, the volume.	Ah, separate knob.
+It works.	Elaine.
+I got held up.	No.
+Oh are you?	Yes I am.
+Hey, JeanPaul.	Hey, JeanPaul.
+Oh!	What happened?
+All right.	Yeah.
+What?	I got the call.
+JeanPaul?	JeanPaul!
+Yes sir.	That's room 419.
+No, no.	No, no, I did.
+It is his job!	Not comfortable.
+You're a shmoopy!	You're a shmoopy!
+Hi Sheila.	All right, then.
+Bye shmoopy.	Bye shmoopy.
+All right.	All right.
+All right.	Right.
+All right.	Armoire.
+Yeah.	What about the soup?
+Hey, Jerry!	Hard to believe.
+Medium turkey chili.	Medium crab bisque.
+Oh, no.	Oh, man.
+Hi.	Hi shmoopy.
+You know what?	Why?
+Hey.	Hey.
+Yeah.	Hey.
+How dare you?	Do I know you?
+Yeah.	Really?
+Yeah.	Oh, thanks.
+Yeah.	Yeah?
+No.	I don't know.
+Hello.	Hello.
+Oh, yeah?	Yeah.
+Why should I care?	You can't fool me.
+All right.	Is that so?
+Yeah.	Disgusting?
+Ye  yeah.	What?
+Git.	It was stupid of me.
+Yes, shmoopy.	Aw!
+Yes.	Yeah.
+Oh.	Those two?
+Yeah.	Are you sure?
+No!	Let's go.
+Oh, yes.	Well.
+Hi, Jerry.	Hey, Susan, George.
+Oh, no!	Yeah.
+Really?	Yeah.
+You did?	Oh, yeah.
+Jerry!	What is it?
+Hey Jerry.	Hey Fred.
+Hey Fred.	My foot fell asleep.
+Alright, bye.	Seeya.
+Did you hear that?	So?
+Leapin' Larry!	What is that?
+What was that?	Eh.
+Alright.	Really?
+Yeah, but why?	I know.
+Ya know?	Yeah, I know.
+No way.	There you go.
+Call the Embassy.	They're closed.
+Why?	Bomb threat.
+What's going on?	Without Elaine?
+I am?	That's God's plan.
+I froze.	Ah, c'mon.
+Oh sure.	Uh, again?
+How did this start?	Beats me.
+Hm?	It's the new J.
+Yeah.	Hey Elaine.
+AhHa!	Why?
+George fights dirty.	Really?
+So.	Im sorry.
+George's Susan?	Yeah.
+I got fired.	Really?
+Why?	Little buffer zone.
+No.	All right.
+I can't .	What are you doing?
+Hey, hi Jerry.	Oh, hey Ramon.
+How do you know?	Well it was my idea.
+Your idea?	Yeah.
+YES!	I didnt know.
+Hey.	Hey.
+Cosmo, go.	What is it?
+Well it's 5553455.	5553455.
+Yeah.	5553455.
+So, Im Filk?	You're Filk.
+Who?	He's the pool guy.
+What pool guy?	Do me a favor.
+Hey that's cool.	All right.
+Uhh, so frustrating!	Tell me about it.
+Come on Jerry.	Ah, you know.
+Mouthtomouth?	Yeah.
+Huh.	Well?
+You go.	You knocked him out.
+Nah.	He might die.
+Oh, well come on.	Yeah.
+New jeans?	Yeah.
+Still a 31 waist?	Yep.
+Well.	Yeah.
+Very much.	How's the.
+Hey.	Hey.
+So, uh.	What?
+Mmm!	It's AllTempaCheer.
+I'd get tired of it.	How could you not?
+He what?	How'd you find out?
+Pardon?	Nothing.
+My Susan?	Why'd you tell her?
+What?	She's too good.
+Alright, let's go.	Hi.
+Thanks.	What?
+What is it, Jerry?	Oh, uh.
+The cashier.	Ruthie Cohen?
+You know her name?	Sure.
+Hi Jerry.	Lloyd.
+I don't chew gum.	Mmm, different.
+No, it's no problem.	I don't want it.
+Jerry, Jerry.	Alright.
+Hi Jerry.	Oh, the gum.
+Hey gumbuddy.	Yeah, yeah.
+Whoah, Elaine!	Lloyd?
+Lloyd?	Lloyd?
+Got any money?	Here.
+Here y'go.	Got all this?
+You sure did.	It's a lotta gum!
+Yeah.	Come on.
+Yeah.	Yes, it is.
+No.	Sure.
+Hey, Jerry!	What stuff?
+17.	Look.
+How ya doin'?	Hi.
+Oh yeah?	Oh, yeah.
+Hot and heavy?	Yeah.
+Yeah.	Why?
+It's BeefAReeno.	No.
+That's right.	There's none left?
+That's what I said.	Uh, excuse me.
+No?	Give me that rye!
+Jerry!	Yeah.
+I can't come out.	Really?
+Come on!	Wait a second!
+How ya doin'?	Hi.
+Yeah.	Yeah, we'll see ya.
+Hey.	Hey.
+Better, now.	Yeah, what happened?
+Come on!	We're only kidding!
+Oh, mama.	Kramer!
+Oh.	What?
+Ohhh!	Sue Ellen Mishke?
+If you don't mind.	No, no, not at all.
+Thanks.	I'm Jerry Seinfeld.
+Hey, it's George.	Where have you been?
+No.	Hey, hey.
+Hey, hey, hey.	What arrangement?
+Hey.	Hey.
+Ach, maybe.	Did you twist it?
+I don't know.	Did you wrench it?
+What?	I dunno.
+Yes I am.	Awright, let's see.
+Ah, I got it.	Got what?
+No, no.	Alright.
+Oh yeah, yeah.	Well this is it.
+Very curious.	Indeed.
+No, that's yours.	What?
+Alright, alright.	Thank you.
+Ow!	Haven't seen him.
+Oh my god!	Oh.
+Ahh.	Change?
+Ahem!	What're you doing?
+Seven!	Hello, Christie?
+Yikes.	I know.
+Hey!	Oh, I'm back, baby.
+Yeah, how was it?	Great.
+Good for you.	I killed.
+You killed.	Slaughtered.
+Unbelievable.	Yeah.
+How much?	Nah, nah.
+Aw, c'mon.	Nah.
+I wanna see it.	Okay.
+Whuf!	I told you.
+My god, you're rich.	Oh yeah.
+Really?	No.
+Cadillac.	Yeah.
+Yeah.	Oh yeah.
+Not the point!	Alright.
+Can I finish?	Go ahead.
+Marisa Tomei!	Yeah, yeah, yeah.
+Yeah, too bad.	This is no good.
+This is no good.	Hi.
+Hi, uh, excuse me.	No.
+Thanks.	Nice people.
+Oh, yeah?	Yeah.
+I don't know.	Are you okay?
+Sure, sure.	What was that?
+Eightfifty.	Oh, right.
+Just like that?	Just like that.
+Heh hah!	C'mon, c'mon.
+Look at this!	I bought it for you.
+Hello, Jerry.	Hiya, Jack.
+You bought it?	That's right.
+Hello?	Oh, hi Evelyn.
+Mrs Choate.	Who's she?
+Ow.	Hello?
+Hi Jerry.	Elaine?
+Hi.	Hi.
+Jerry?	Yeah.
+Bye.	Bye.
+Oh, hi Jerry.	Gimme that rye!
+Thief!	Nice to meet you.
+Jerry, don't go.	Ah, I think I'll go.
+Oh, right, let's go.	Dinner?
+It's fourthirty.	Fourthirty?
+Hello, hello.	Jack.
+Hello, Jerry.	Hi Doris.
+Hey, yeah.	Yeah, sure.
+Yeah, I know.	Hello?
+Ok.	All right, bye.
+Wha, you too?	Yeah!
+Aw.	Where are you going?
+Oh, Jerry.	Actually, I'm drunk.
+Yeah.	Hello Newman.
+Jerry?	What's going on?
+Every five years!	That's incredible!
+Hello, Jerry?	Oh, hi dad.
+What was that?	Nothing.
+Jerry!	Hey.
+Sally Weaver!	Right.
+Saw it?	Oh, thanks.
+No, no, I mean it.	I believe you.
+Ohh.	Oh?
+And Jerry?	Uhhuh.
+Hey, buddies.	Hey.
+Pretty chintzy, huh?	Federal Express?
+The Three Tenors?	Uh.
+The other guy?	Yeah, the other guy.
+My God!	Why?
+Wow!	Hey, you look awful.
+I don't.	Sally?
+A whole case.	Excellent.
+No.	How come?
+Well, here I am!	Oh, hi.
+Hi.	How was your flight?
+That's right.	No, no.
+This is much better.	I know it's a joke.
+Me?	No.
+Hello?	Hello, Susan?
+Is George here?	Not yet.
+Hey there, Mr.	Where's George?
+June.	What?
+Yeah.	She did?
+Yeah.	So?
+In motion.	Beautiful.
+Aah, hey.	So, set it up.
+Hey everybody.	Catnap?
+No problem.	'Scuse me.
+Friars.	Hey, not bad.
+Oh, get outta here.	I mean, come on.
+Oh.	Oh, come on.
+Look.	Alright.
+Alright.	This is nice.
+Yeah, morning.	Morning?
+He he, yeah.	No milk?
+C'mon buddy.	Kramer!
+You awake?	Wha.
+W.	Four in the morning?
+I'm bored.	No.
+Did you see that?	That was him?
+Alright.	Hey, Bob.
+Hey, Bob.	Bob.
+Bob.	Bob!
+Hi.	Elaine.
+Alright, good job.	Right.
+Right.	Come in.
+Last night, huh?	That was something.
+Ah.	Fantastic.
+I told you.	I'm nuts about her.
+Well, she's smart.	Whatever.
+No.	Flying Sandos.
+Sure.	It's not here.
+What?	Th.
+Won't be a problem.	Hey.
+Hey.	Hey!
+Give him the jacket.	Alright.
+You're soured?	Yeah, I'm soured.
+Don't be soured.	I'm sorry.
+God.	Oh god!
+Connie!	What'd she do?
+The manager.	Hey, there's Pat.
+Look at that guy.	God, you're right.
+Come on.	Come on.
+Ouf.	Hey.
+No, it is not.	No, no, no.
+No, it is not.	C'mon I need it.
+C'mon I need it.	I wanna join.
+Moose?	Yeah.
+Ohh, yeahh.	Thank you.
+Yeah.	Yeah.
+Yeah.	Yeah.
+This is nice.	Yeahh.
+Yes .	Hmm.
+A Hum!	Really I'll be back.
+Ah!	Yeah.
+Oh I'm down.	Remember me?
+No I believed you.	Yeah.
+Well .	Check.
+y'did.	Oh Come on!
+Ah!	Hey!
+Hey Jerr.	Hi Elaine.
+what about it?	C'mon Ponytail .
+Heeeeeummmrph.	Turn in?
+Why?	Why?
+Ok so .	Yeah Why?
+Spite?	That's right.
+Hey!	OH!
+Bye!	Bye!
+This is Jerry.	Hello.
+You're kidding.	Excuse me.
+Yeah.	Huh.
+What?	No.
+No.	What's with you?
+Feel this.	Wow.
+Hi Jerry!	This is Nikki.
+Hello.	Oh of course.
+Hey Jerry.	Yeah.
+Not bills.	So George.
+Hey.	Hey.
+Huh.	Oh!
+Oh is that so.	Absolutely.
+Nothing.	To the door?
+Yeah.	That's a date.
+Ah!	No, no.
+Your crazy!	Crazy like a man.
+Officer.	All right Nik.
+I am baking a pie!	Yeah.
+Yeah.	Come on up.
+Oh yeah baby.	Peru!
+Peru?	I did.
+That's right.	Stupid cigars.
+Where are you going?	I.
+I said rubber fire.	Oh.
+No kidding?	Oh yeah.
+Hey buddy.	Hey.
+Hey.	Can I have my keys.
+Hi Sue Ellen.	Hi Sue Ellen.
+Oh.	Okay.
+Alrighty, bye.	Bye.
+Oh God!	Oh, you idiots!
+'Choke?	No, thank you.
+Oh, yeah.	Yeah.
+Downtown.	The song Downtown?
+Wait a second.	Seveneleven?
+Hi, it's me.	Oh, hi.
+Oh no.	Oh, no.
+Ah, this is great.	No, no, you can't.
+Alright.	Okay.
+Hey.	He's bringing it.
+All the time.	Had I been taking.
+Hey.	They're looking.
+I gotta go.	Y'hello.
+Mr Seinfeld?	Yeah.
+I see.	Yeah.
+Huuh!	Oh my God!
+Oh, your car.	Tony.
+Brought my phone.	Y'hello.
+Hey, that's it!	Oh my god.
+Elaine Benes.	Yeah, it's me.
+Are the clubs there?	I don't know.
+Kramer?	What's going on?
+I think we lost him.	Dammit!
+Hi, David!	Hi, Beth!
+Hey!	Hey.
+I'm very nervous.	Really?
+Hey!	I'm so car sick.
+Oh my God!	Huh?
+Ah!	"I'm there for you.
+Really?	What'd you say?
+Totally folksy.	hey, uh.
+Wait, Jerry.	Man these are tight.
+Man these are tight.	Squinch em!
+You better get me.	Hold it, hold it.
+What?	No, no.
+Jerry!	I'm nauseous.
+The Day.	Ahhh.
+What about a letter?	A letter.
+I.	That's it?
+My Job.	So write a letter.
+Yeah!	Aagh!
+Hey!	Euhh.
+Really?	Yeah.
+Yep!	See you .
+Hey!	Yeah!
+You see.	What?
+Jeannie Steinman.	Hey!
+Menus?	No.
+The usual?	Yeah.
+You too.	Yeah!
+Hey!	Uh!
+Now what's with you?	I think I'm in love.
+Oh.	No it's true.
+Ha.	Excuse me.
+Oh yeah!	What's with you?
+No.	Looks like there is?
+I don't like her.	You don't like her?
+Hehehe.	To our future wives.
+Bowl of Corn flakes.	More cereal?
+Yeah!	Hello.
+She's ahem.	Dead?
+Poor Lily.	How did it happen?
+Yes.	But.
+well humm.	WE HAD A PACT!
+Jerry.	Thank you, no.
+What is that?	Star Trek II.
+Wrath of Khan!	Right.
+Movie?	Yeah, you in?
+It was unbelievable.	Wow.
+Jeannie.	Oh, yeah, that.
+See ya.	See ya.
+Whatever.	Oh God.
+What?	It's Dolores.
+Who?	Mulva.
+Jerry, hi.	Hi, Dolores.
+Hi.	Yes, Dolores, I did.
+Oh, that's too bad.	See ya.
+Mr.	Where?
+Where?	Myanmar.
+Hey.	Actually, yeah.
+So uh.	Yeah.
+That's it.	Problem?
+Oh, come on.	I am.
+Jerry!	Hey!
+Hey.	How's it look?
+It's a peach.	Huh?
+Hey, hey.	Oh, I'm the doofus?
+You doofus!	Okay, question 8.
+Shot.	Selfesteem?
+Gone.	Doofus?
+Yo.	All right, so what?
+All right, so what?	What is that?
+Well, I'll see ya.	Vaya con dios.
+Hello?	Hey, Georgie!
+Yes!	So?
+Right now?	I gotta go meet Pam.
+I like it!	I thought you might.
+Oh, careful!	Hi, sorry I'm late.
+Why?	It's the life force.
+It's Pam.	Pam?
+I love her, Jerry!	You what?
+I love her!	Is that right?
+Oh, she's uh.	What does that mean?
+Oh, and that voice!	What about her name?
+No you can't, Jerry.	But I might.
+Oh, no you don't.	Why not?
+What.	I think I can!
+Huh?	Pam!
+Huh?	Pam!
+Gaga?	Yesterday.
+A velvet scrunchie!	Kramer!
+Kramer!	Hello, Newman.
+Hello, Jerry.	Pam?
+Well, tata!	Wait a minute!
+Wait a minute!	Alright, Newman!
+Easy, Jerry.	Why not?
+Oh, don't you?	Alright, Newman.
+It's about.	Elaine?
+Alright, whatever!	And?
+It's Pam.	C'mon up.
+What was that?	We were just playin.
+I cut it.	It's a little short.
+Wha?	He knows.
+You sure?	He knows.
+Won't work.	Are you sure?
+Jerry?	Gillian.
+Man, Hands?	The hands of a man.
+Uh.	Yeah.
+Jerry!	Kramer?
+Breakfast.	Why?
+T.	All right.
+Pick.	Damn.
+Bizarro Jerry?	Yeah.
+Uh.	No.
+Is he black.	Look.
+It's an eyelash.	I don't want to.
+Make a wish.	Okay.
+Jerry?	Then it does exist.
+Hello?	So, uh.
+I gotta go to work.	Well.
+All right, listen.	Hey!
+Books, Jerry.	Oh.
+Friends.	Yeah.
+Jerry!	Who is this.
+Yes!	Got it.
+Jerry.	I'm right here.
+You cooked?	I ordered in.
+Ow!	What's wrong?
+You know what?	The coffeeshop?
+You got it, buddy.	I'll call George!
+I'll call George!	Hey.
+It's locked.	So this is it, huh?
+Toxic waste green.	That is disgusting.
+You get the tickets?	Who wants two?
+No, no.	Interesting.
+Brody, c'mon.	I'm a joke maker.
+C'mon, let's go.	Oh man.
+Come on up.	What are you, crazy?
+Hey, Brody!	Hi.
+Jerry.	I'm off the project.
+Yeah.	Oh now I see.
+Where's the tape?	Uh, well.
+You shot Death Blow?	Yeah.
+That was brilliant.	Thank you.
+You were big.	I'm still big.
+Hey check this out.	What mustard stain?
+Would you?	I guess I would.
+Seinfeld?	Yeah.
+Why start now?	Why not?
+Wax Museum.	Oh.
+All right.	Where are you going?
+Jerry!	Hello Leo.
+Okay.	Opening.
+So it wasn't a bomb.	No, No bomb.
+Do you?	No.
+There on vacation.	Hey what about Dr.
+Dr.	He's not that good.
+You are a lover boy!	Oh yeah.
+I am sorry.	Investigation?
+Hello Jerry.	Hello Newman.
+All right.	Define rarely.
+Can I have a sip?	No.
+Wow.	Mentor?
+Alright.	Risk management?
+Hey, Jer.	Am I going?
+Oh yeah, sure.	Hey, Copernicus?
+Copywriter.	He's writing copy?
+Hello.	Hello.
+Kenny Bania.	Bania?
+Bania?	Yeah.
+Hah?	Oh, this is awful.
+Yeah, see ya.	What's your problem.
+Hey Jerry.	Oh, hey Bania.
+Yeah, he's great!	About what?
+Hey Jerry!	Bania?
+Desperado.	Desperado?
+Uh huh.	I invented that.
+Oh hoh, really?	Elaine.
+Oh, you didn't hear?	I don't know why.
+Good luck with that.	Hey.
+Oh, Brett.	Hi.
+That's very funny.	Ah, I'm one kind.
+Farbman.	Right.
+Oh.	Oh, where you going?
+Sorry.	No spiel?
+Please.	Too dumb?
+Too dumb?	Well!
+Yes.	Okay.
+I like Witchy Woman.	Witchy Woman?
+Hey.	Hey.
+Rice Crispies.	Ah.
+Sayonara.	Konichiwa.
+Jerry Seinfeld!	Teddy Padillac.
+I care.	So, could I.
+Yeah, sure.	What?
+Hey Jerry!	Oh, hi Brett.
+Boogey?	I'm quite sure.
+No.	Eehh.
+Great news!	Really?
+Last one.	Uugh!
+I'm calling Jerry.	Yeah?
+Jerry!	Uncle Leo?
+Jerry!	Alright, alright.
+Alright, alright.	Hmm, testy.
+Hmm, testy.	Hello?
+Mr Jerry!	It's stuck.
+Pull harder.	I'm trying.
+Not me.	Restaurants too?
+Awe check it out.	Wow.
+Hey Jerry.	Seth!
+He's dead.	Is that right?
+Big investment firm.	Mmmm.
+Good day.	Hello.
+Hey.	Hey.
+That is so old.	"By Mennen.
+What?	That light!
+They are shut.	Oh yeah?
+I love.	Really?
+Hey Seth.	Oh, gross.
+Kenny .	Home at last.
+Home at last.	Is someone there?
+Is someone there?	Mr.
+So fast?	No.
+Yeah, six weeks.	Well, so what?
+I don't know.	What guys?
+Like us.	Yeah.
+Jerry.	Oh hi, Katie.
+Hey, buddy.	Ah, I didn't get on.
+Thanks.	Hello?
+Jerry.	Oh hi, Katie.
+No, no, no.	Louise!
+You think?	Yeah.
+Oh.	An assembly?
+I don't understand.	Exactly.
+Hey buddy.	Hey.
+Hey.	Where have you been?
+What are these?	Oh my God.
+Jerry!	Get out!
+You know what?	She's out.
+Come on.	I can't.
+Ehh.	There is now.
+Nah, no, no, no.	The botched it?
+Hey.	Hey.
+Andrea Doria?	Edmund Fitzgerald.
+An alliance?	An alliance.
+Hey.	Hey, George.
+Yeah, yeah.	Just swallow 'em.
+I don't want to!	C'mon.
+Jerry!	Sit down!
+Hey!	Lean your head back.
+No, no.	Alright.
+Where are you going?	I'm taking the car.
+No, Jerry!	Alright, that's it.
+No!	Hey, hey!
+Kramer bit me!	Bit you?
+You?	Well, why not?
+Mail on Sunday?	Oops.
+"Do not bend".	What?
+What?	Either way.
+About five.	That's enough.
+Fantastic day!	What happened?
+Oh my God.	You asked her out?
+That was different!	I'll say.
+How're the folks?	Good.
+I did.	Having her in jail.
+Here.	Huh.
+It's not just hair!	It's brown.
+What?	Yeah!
+Five seconds.	Great!
+Who?	I'm too tired.
+O.	O.
+It's over, Jerry.	Ah, I'm so sorry.
+85 cents.	85 cents?
+Jerry!	Kramer won't sell.
+Oh, yeah.	Yeah.
+Hey, Kramer.	Be careful.
+Hey.	Hey, guess what!
+Is that good?	I don't know.
+Sorry I'm late.	Where's Celia?
+hmm.	Hey, how's he doin'?
+Muchos gracias.	He's a ringer!
+Lit  tle Jer  ry!	Kra  mer!
+We already sold it.	Wh.
+No, not nice.	You're crazy.
+Who cancelled?	Carrot Top.
+Well, I'll see you.	Hello.
+Stickin' it!	You're not alone.
+Really?	No.
+Yeah, yeah, yeah.	Really?
+The same.	He called you?
+Ahh.	Come on.
+Thank you.	Here you go.
+Here you go.	Milos?
+What does that mean?	Hey, here you go.
+You see?	Trust me, Kramer.
+That's right.	Hello Milos.
+I.	You can't even play.
+Hello.	Hello.
+I think so.	Hoh, that Milos.
+No!	Who?
+Milos.	Your husband?
+Oh.	Too good.
+Today's my birthday.	What?
+Hey!	I'll pass.
+Hey.	Hey.
+See ya!	Any messages?
+What?	Yeah.
+Damn!	What?
+Kramer!	Fine.
+Someone I know.	Named Sharon?
+It's not a prom.	You taking Allison?
+Lithe!	Oh, lithe!
+Uhoh.	She wants to talk.
+Who would Want to.	What'd ya do?
+Ha!	Uhoh.
+All right.	So what do you do?
+Ah?	What for?
+Hey.	So, coffee shop?
+No.	No.
+Someone I know!	Named Suze?
+No.	Wait.
+Sssshah!	Oh.
+Hey.	Hey Mike.
+Yeah!	Why not?
+Uhahah!	It was an accident.
+Nuh!	Fine.
+What?	Get Rid of Susie.
+I kinda like her.	She's Gooone.
+Morning.	Morning.
+So?	So?
+You didn't tell her.	Jenna's like me.
+Well, I'm a poppa.	Bring it on.
+Have you seen 'em?	No.
+Holy, Holy Cow!	Poor son of a bitch.
+Mmm.	That's the idea.
+I tell you this.	Hard to say.
+Oh yeah, yeah.	Yeah?
+Hey.	Hi.
+How you feeling?	Good.
+What?	Nothing.
+What?	I'm sorry.
+There.	What?
+Gotta run.	Oh, man!
+There's this.	Nice.
+Hey.	Hey.
+Yes, I did.	Well, whatever.
+Good.	Good.
+Hi.	Hi.
+Hi.	For what?
+Bye.	There, you see?
+Toilet brush.	Toilet brush, oh .
+Yeah.	That's true.
+The sax player?	Yeah.
+He's a musician.	Musicians.
+Saved a fortune.	Ohh, 'Number 1 Dad'.
+Hey.	Hey.
+Hey.	Almost.
+Aw, c'mon man.	Alright.
+Yeahh.	We're even.
+Maybe he doesn't.	Sometimes you do.
+What?	Nothin'.
+Yeah, that's it.	Mr Mandelbaum, I.
+C'mon, c'mon.	Alright.
+Goodnight.	Alright.
+I said Cubans.	Cigars!
+Yeah, yeah.	Hold on a second.
+Yes I am.	What colour is it?
+Yeah.	There's crepe money?
+Is too.	Is not.
+Are too.	Am not.
+Are too.	Am not.
+How 'bout that, huh?	That's very nice.
+Hi daddy.	This is your son?
+The television.	Oh no.
+Datiditadit.	You're cold?
+Dijadidatjd.	Where?
+My grandpa.	Oh, come on!
+That TV?	Oh no.
+Uh, it was okay,.	I don't know.
+got problems Jerry.	What happened?
+I cancelled.	Why?
+All right Jerry.	Just .
+Jer.	Hi.
+Jerry, Jerry.	Yeah.
+What is this.	It's kind of cozy.
+Yeah, look at me.	No knock offs.
+I am lying down.	All right.
+Oh, George.	I saw it.
+How'd he look?	Okay.
+I'm a Jew.	Well.
+Hey, Tim.	George.
+Why not?	I know, but.
+Sister.	Sister, right.
+That's a kneeler.	Oh.
+That's no sin.	Oh good.
+Um.	Newer magazines.
+So, I'll uh.	Date with Karen?
+Nice looking family.	Very handsome.
+Oh Mickey.	Hi, Mr.
+A dentist.	That's a good one.
+Ready to go?	Me neither.
+What number?	Seven.
+Uh, hey buddy.	Hey.
+Hey, so get this.	What for?
+We didn't say that.	Hi.
+Hello?	Hello?
+Jane.	Seven?
+So?	So?
+Shove it!	What is all this?
+Hi Valerie.	You're not Valerie.
+Everything?	Everything.
+You really think so?	Absolutely.
+Alright.	That's the spirit.
+Seven, four.	No.
+Two.	Stop, stop.
+Yeah, yeah, I know.	Fine.
+Still a ripoff.	Hello?
+Hold on a second.	Hello?
+Fine.	Hang on.
+No, still me.	Sorry.
+Alright.	Great, bye.
+Great.	Hang on.
+Hang on.	Hello?
+I'll call for help.	Hello?
+Who's this?	It's Jerry.
+Uh, it's Valerie.	Oh, hi Valerie.
+Wow, poison control?	Hello?
+Yeah.	Let's go.
+Yeah.	Strange.
+I'm sorry I'm late.	No.
+Ooh.	Hmm.
+So get this.	Yeah that's too bad.
+What did you do?	Well I was shaving.
+Listen to me.	Um hum.
+All right.	Really?
+So?	So.
+Oh really.	Are you nuts?
+Understand?	Yeah.
+Hey Jerry.	What?
+Look at it!	Oh come on.
+Turn music off.	Can we just go?
+Yes, exactly.	That's so strange.
+That is so stupid.	Reer.
+Hi!	Hi!
+Should we go?	Absolutely.
+Hey, how you doing?	Ok.
+Have a good time.	Thanks, Lyle.
+No.	Gay?
+What?	Is he gay?
+No.	Are you sure?
+Who's that?	It's Kramer.
+Hey Kramer.	George says hi.
+Kramer.	I can't do this.
+Which one?	The one with the.
+Do you mind?	No, I'll crab it.
+Relationship intern.	Not.
+No, no.	No, because that's.
+Exactly!	I'm trying.
+Tttt.	You got the tickets?
+She doesn't like.	What?
+Love the sweater.	This old thing?
+Jerry.	all right.
+So how's George?	I don't know.
+Raquel Welch!	Yikes.
+All right, well.	Yeah.
+Buzz cuts?	Stop it, George.
+Killed.	Yeah, killed.
+Oh my God.	What?
+Oh, it's beautiful.	Knicks?
+What?	Do I have to ask?
+Feel it.	I don't want to.
+Feel it.	That is close.
+Yeah, what the hell.	You got the job?
+Hello, Jerry.	Hello, Newman.
+Let's make out.	Kramer!
+Oh, man.	Look at your skin.
+Hmm.	Kind of.
+Maybe I am.	Oh, I'm gonna puke.
+Please don't shout.	Who's that?
+How's the trip?	Sounded good.
+Whoa, man!	Hey everybody!
+Kenny!	What?
+Tell me!	All right.
+Great.	Well, thats it.
+What?	The bump into.
+What about you?	Thats different.
+You want to bet?	Stakes?
+Witness.	Done.
+So, youre insane?	Oh yes, quite.
+Helloooo!	La la la.
+No, notime!	I can ball park it.
+Hoochie moochie.	Hand it over.
+Hes a go getter!	Whos he?
+My intern from NYU.	Alright.
+yeah.	Now, its time to go.
+Helloooo.	Helloooo.
+In 10 minutes.	No, I dont.
+Hey!	Hey!
+Helloooo Kramer!	Welllcome!
+Whats so funny?	Oh, nothing.
+Oh yeah sure, sure.	GET OUT!
+No, Im fine.	Never?
+Thats right.	I can do that.
+JerryHI.	Helloooo.
+Really?	Helloooo.
+Double or nothing.	Done.
+I dont know.	Yeah.
+No.	I understand .
+So, how did it end?	They got away.
+No.	Darren?
+Sorry Mr.	Uh, bathroom.
+You know.	I get peeved.
+Mad.	Miffed.
+Mad.	Irked?
+I think you are.	Well, I'm not.
+Yes, you are, liar.	Oh, stop it.
+OK, liar.	That's enough!
+Ooh, that was good.	Really?
+I'm a man!	Tongue?
+No.	Good.
+What is this?	Anytown, U.
+Goodbye!	Double goodbye!
+Whoa.	It's Patty.
+Oh my God.	This is horrible!
+What?	I love you, George.
+Look what they did.	Hose under my sink.
+Well.	Sit down, Elaine.
+What?	Elaine.
+Yeah, and him too.	Can I help you?
+Geez!	You don't look well.
+So, that's it.	Yikes.
+No, not giving.	In case of what?
+Would you stop it.	What is this?
+It's JellO.	What about this?
+Heads up!	Aaah.
+Oh yeah, that eh.	Aah!
+It's ok, Jerry.	I can see that!
+He calls every week.	Yes, I'm fine.
+Blood!	All right.
+Hello, dough boy.	Mr.
+Manana.	What is this?
+Move it, move it!	What's going on?
+I'm babysitting!	Oh, that's a drag.
+Hello Jerry.	Aaaaahhh.
+Aaaaahhh.	Yeah.
+Chinese food!	Oh!
+No.	Too bad.
+Well.	'Pottery Barn'?
+Oh, no.	Can I have one?
+I can't.	So call now.
+I gotta prep.	That's him.
+Is he still nuts?	What do you think?
+Jerry!	Hey, Frankie!
+This is it.	Inside the van?
+It is the van!	We were ten.
+Come on.	I don't want a van.
+Oh, there's a spot.	Hold on.
+No, that's us.	Great.
+Ah, shut up, Jerry.	Oh, no.
+Oh, no.	Oh, yes.
+Oh, yes.	Hello?
+How many miles?	Two.
+All right, look.	OK, fine.
+Oh, it's fantastic.	It's Sunday.
+Oh, well.	Are you insane?
+Oh, listen, Jerry.	Oh, no, not Frankie.
+Hey!	Frankie!
+My name is Edgar.	Have a nice night.
+Oh.	Frankie.
+You hate the van.	But I'm keeping it.
+Jerry!	What?
+Girlfriend.	All right.
+What is that?	Don't go aknockin'.
+No he didnt.	Oh, no.
+Yeah.	I knew it.
+I'm getting nothing.	Yeah, me neither.
+Hey!	Oh my God!
+Jerry!	I'm sorry.
+No.	All right.
+El Paso!	What's he here for?
+Four hours.	More heavy gravy?
+Hey!	TicTacs work?
+Woah.	What, What is this?
+Hey.	Morning.
+Hey, shut up.	You shut up.
+And on your dates.	And shopping.
+Sara Sitarides?	Mmhu.
+Oh.	What's with you?
+The cat.	He took out Kruger?
+Of course not!	You're right.
+I had skin cancer.	Skin cancer!
+I know.	You can do that.
+Pliers?	Drawer.
+Got it.	What are they for?
+I.	Come again?
+Oh, so it backfired?	Yeah.
+That's the one.	Still got it.
+Jerry?	I don't know, this?
+Well, that's weird.	What are you doing?
+Yeah, I hope so.	I said I was sorry.
+Not me!	George, I'm sorry.
+Hey.	Hey.
+I know.	Oh.
+"That's all"?	I'm really sorry.
+I can't tell you.	Here, drink this.
+Okay.	Pinter?
+Jugdish.	Yes, Jugdish.
+No.	Uhhuh.
+Good one.	You all right?
+Oh .	Yeah.
+Beauty .	Oh, come on.
+Oh, I should.	Sure.
+You slept with Nina?	Nothing.
+Uh.	No good.
+Don't be ridiculous.	Oh my god.
+So what?	And milk.
+Oh, geez.	Hello?
+Really?	Believe me.
+I know.	I know.
+Heh.	Probably the reason.
+Stink eye?	Crook eye?
+Jerry?	Nina?
+Hi.	It's been years!
+Ah, I gotta go.	Ah.
+How as the date?	Pretty good.
+Uh, no.	Oh.
+Ah, no, no, no.	Why not?
+Oh, fantastic!	How about that.
+Hi.	Hey.
+'Kay.	Back together?
+Showering.	Ten minutes.
+So get this.	So?
+So she coughed.	Coughing.
+Wha.	Oh, come on!
+Thanks, buddy.	What?
+OK, Jerry.	Oh.
+Ouch!	Oh, that's bad.
+Oh, pickles!	Look, please stop!
+Unnnnh!	I can't.
+Well.	Yeah.
+This is nice.	Yes, clothes.
+Jerry?	Oh.
+So.	Oh, sure.
+Hey!	Hey, Tim.
+Mmhmm.	That's neat.
+Hi!	Hi, I'm Jerry.
+Hey.	Hey!
+Hey!	Hey.
+Oh, nothing for me.	"Atomic Sub"?
+Jerry, No!	His father.
+Yeah, Go!	What strike?
+Yeah, HH Bagels.	You?
+Worked?	Bagels?
+Hey, Jerry.	Hey, Tim.
+Jerry.	Gwen?
+Yeah.	Really?
+Clint Eastwood!	Yeah.
+Made it up.	"The Human Fund.
+Alright.	Happy Festivus!
+No!	His father.
+I can go either way.	You're telling me.
+I know.	Oh, that's classy.
+Hey.	I there.
+Hey!	Hey, Georgie!
+Hey, soup.	She didn't touch it.
+I don't know.	Excuse me?
+Jerry!	Gwen!
+Hold it!	George.
+Hey.	Hey.
+Hey, hey, hey!	No.
+Hey, gimme a dollar.	Wheres your money?
+The squinting?	No.
+The staring?	No.
+Thats right.	Hey!
+That chicks whacked.	"Rustproofing"?
+Yeah, thats right.	Keys?
+Hey, starving!	No, last one.
+Yes.	Sing it, sister!
+Okay.	Hey, George!
+Who is this?	Elaine!
+Oh, I dont know.	Come on.
+Ill see ya.	Bye.
+David.	Okay.
+Good point.	All right.
+Hey.	Hey.
+Wallet.	What?
+Hey, Jerry.	Hey, Joe Mayo.
+Thanks.	Music?
+Hey.	Hey, Elaine.
+Nice.	It's working.
+Well, I'm satisfied.	Of course.
+Ready to go?	All set.
+It's not a purse.	Oh.
+Not yet.	What?
+Did he get it?	No.
+What, she's out?	Well, so what?
+Allllll right!	What is that noise?
+Nice carryall.	It's European.
+Oh, come on, man!	That's my walkman!
+I already bought it!	I don't understand.
+There you go.	How do I look?
+That is your coat?	It sure is.
+Your what?	The.
+You mean a purse?	Yes, a purse.
+Hey, Babe.	Hello?
+hey!	What!
+Hehumm!	You can't give up.
+Right!	NOW!
+What does that mean?	Yeah.
+Enjoy.	Elaine huh?
+Oh!	No.
+Why would I.	It's ludicrous.
+No.	So.
+Exactly.	I'm not gay.
+Haaaaaa!	What's happening?
+No, no.	Ah!
+Ah!	Aw.
+Just read it!	Pretty good.
+Yes.	And you don't.
+Nooo.	So.
+Exactly.	Hmmmm.
+We.	No, no.
+She said no.	What did you do?
+What?	Check these out.
+Oh  That'll do!	What about Puddy?
+'Literally'?	No, go ahead.
+A little.	Oh, come on!
+Nodding off!	All right.
+All right.	Here!
+Security issue!	Oh, hey.
+Thanks.	I'm sorry.
+Sounds like a scam.	I'm very sorry.
+He's starin' at us.	Don't look at him.
+Don't look at him.	We don't hear that.
+Want a bite?	Nooo, I don't.
+Yeah.	So you live right.
+Yes.	Good.
+It's Phil's.	Who?
+Aw, Glenn.	Hi.
+Yeah, I'm here.	Phil.
+It's a big night.	Which is with who?
+Yeah, see?	You're a lifesaver.
+No!	Oh, Phil.
+Yeah, yeah.	Kramer!
+What?	You killed Fredo!
+'Man's best friend'.	Oh, my God.
+Oh, my God!	Hey, neighbor.
+How much was it?	Two hundred.
+OK.	Still no Puddy?
+What black guy?	Darryl.
+No, he isn't.	Isn't he, Elaine?
+That's not Irish.	I think he's black.
+No, it isn't.	Why not?
+Is he black?	Does it matter?
+Should I take that?	Uh, one second.
+Well.	Hey.
+From the grind.	What's that?
+Aw, Jerry.	What does that mean?
+Oooh!	Radar detector?
+You think it's hot?	Could be.
+Hey, Morty.	She's fifty.
+All right, look.	Wizards!
+Oh, well.	Aw.
+I had 'em, Jerry.	And then?
+I lost them.	Showmanship, George.
+Hey Jerry.	Hey Mickey.
+Mickey, DTs.	Hello?
+Hey.	Elaine?
+No, it's me.	George?
+You got any Ipecac?	Ipecac?
+I think it's neat.	I hear things.
+"It's me?	I thought so.
+They?	No, no.
+See, showmanship.	Yes!
+Gonorrhea!	One message.
+"Hey Jerry, it's me.	Sophie.
+Are you sick, Raef?	I sound funny?
+How's her handshake?	I don't know.
+Bought the farm?	Tractor!
+Huhho!	Never.
+How could you know?	Shh.
+Well, I'm sorry.	Hey, hey!
+Oh?	Uncle Leo.
+Oh, yeah.	Did I just see that?
+They made me buy it.	Yeah.
+Cocktail flu.	Oh, right.
+Oh, they don't care.	Who, criminals?
+Arrested?	Leo.
+Alright, alright.	Thank you.
+She's got priors.	Prior convictions?
+Nothing.	Mom, you too?
+That is correct.	Tina Turner?
+Jerry.	Hello?
+Hey, it's me.	Uncle Leo?
+Oh, that's nice.	Nightmares.
+Hey, buddy.	Ah!
+Good night.	Good night, Newman.
+Yes, Uncle Leo.	Oh, come on.
+I.	That guy!
+Uh, Headso.	Son of dad?
+End under water?	Be that long.
+Oh!	Sure.
+Dnggagnggawt.	Hello?
+I can't.	All right.
+Lovely evening.	Really bad meal.
+No.	How'd it taste?
+A little stale.	Yeah.
+Well, no.	Hi, Lisi.
+Hi, honey.	Uh, yeah.
+Fine.	Oh, thank god.
+Goodbye, Jerry.	Lopper.
+Out!	Lopper.
+Lopper.	Lisi, Lisi.
+Ha ha.	Oh.
+Yeah, yeah.	Oh, I can't.
+Look what I found.	Great.
+Wait a minute.	By yourself?
+So do you.	Game over.
+The nickname.	You mean like.
+There's no Gbone.	There's a gspot.
+All done.	Thank you.
+Is this mine?	Yeah.
+Yeah.	What?
+Come on, Jerry.	Notice what?
+Oh.	Yes, we have.
+Where did you go?	The store.
+Mm!	Stuff.
+Cleaning supplies?	And gum.
+Oh.	She's not a maid.
+Jerry's teasing.	Madeline stays here.
+Madeline stays here.	Hey, Tbone!
+No.	No Tbone?
+Hey, is that Tbone?	No!
+Well, why no Tbone?	Why no Tbone?
+I've done that.	No.
+Thanks, buddy.	Where you goin'?
+Huh?	Well, she's here.
+Uhoh.	Koko?
+Tell me about it.	No, George.
+Hey, hey, hey.	Ooh.
+What?	Never mind.
+Jerry, come on.	What?
+Come on.	Go back.
+Eh!	I said, never mind.
+Yeah.	I hate the counter.
+Hey.	Hey.
+No.	Hey, that's great.
+Oh, yeah.	Double zero?
+Say goodbye to Koko.	Goodbye, Koko.
+No.	For what?
+Yeah.	Oh, yeah?
+Hit.	Miss.
+Hit.	Elaine.
+Elaine.	Hello?
+I think it's over.	What's around you?
+You Steinfeld?	Yeah.
+My name is Maxwell.	Cindy.
+Oh, yeah?	Hey, come on.
+What do you want?	Here.
+Oh, boy.	Look at this guy.
+I found it morose.	Yeah.
+Oh!	One more lane to go.
+Oh, look who's here.	Maroon Golf.
+Con dios?	Can you believe her?
+Yeah.	Where are you going?
+Isn't it?	Maybe a little.
+All right.	Absolutely not.
+Ok, here's the deal.	What's that?
+No.	Oh.
+The side?	Yeah.
+All right!	Oh.
+Yeah, I know!	You were watchin'?
+Mr.	Not Pennypacker!
+You know him?	I wish I didn't.
+It's down the hall.	Oh, hello.
+Art.	Mr.
+Uh, Varnsen.	Pennypacker.
+Pennypacker.	Vandelay.
+The factory?	The Saab factory?
+Hey.	Well, you look, uh.
+Nah  what for?	To see a movie.
+Yeah.	What is that?
+Hey!	Ey, ey!
+No, thank you.	Nothing.
+What?	Have a good time.
+What?	Faux pas.
+It's dismissive.	It's pompous.
+You're so uptight.	Uptight?
+Our show, "Jerry"?	Right.
+"Jerry", oh my God.	Yeah!
+Right now?	"Jerry"!
+"Jerry"!	"Jerry"!
+Can I go like this?	Sure!
+Magic time.	What?
+How you been?	Good, good.
+Kimbrough.	Don't spell.
+Woo!	Shut up, George.
+Yeah!	Yeah!
+Hello, Jerry.	Hello, Newman.
+Take me!	Oh, forget it.
+Ah, Jerry?	Yeah.
+What's going on?	Kramer!
+Jerry?	Yeah.
+What?	What?
+No no  me first.	Alright.
+Okay.	We'll see you later.
+Nice day.	Another one?
+I want your wallet.	That's a shame.
+Forget it.	No, no, no.
+You're under arrest.	Under arrest?
+What is that?	Plane's ready.
+Here.	This one?
+That's right.	Do I have to?
+Oh no.	Gimme that rye.
+Call Marla Penny.	The virgin!
+Call Yev Kassem.	Who?
+Medium turkey chili.	Medium crab bisque.
+Come on, Jackie.	What?
+Really?	Oh yeah.
+I think we have.	Yeah, maybe we have.
+I am.	I'll talk slower.
+Murder one.	Murder one?

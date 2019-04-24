@@ -21,7 +21,7 @@ class Seq2Seq_Train_Jerry(object):
     def __init__(self):        
         # variables for training the LSTM seq2seq model
         self.batch_size = 64
-        self.num_epochs = 100
+        self.num_epochs = 500
         self.num_hidden_nodes = 256
 
         # variables for loading and formatting the Question and Answer text
@@ -33,9 +33,9 @@ class Seq2Seq_Train_Jerry(object):
     
     def _clean_text(self, input_text, target_text):
         '''
-        Removes all unneeded punctuation (which which in turn create a larger X matrix).
-        Keeps '.!?," punctuation, as that adds to semantic meaning. 
-        Right now, all uppercase text is included as well, but might change that.
+        Removes all unneeded punctuation (which would in turn create a larger X matrix).
+        Keeps '.!?," punctuation marks, as those adds to semantic meaning. 
+        Right now, all uppercase text is included as well, but might change that to lower for testing.
         '''
         punct_to_remove = '''[#$%&\()*+-/:;<=>@[\\]^_`{|}~]'''
         eos_punct = '''!?.'''
@@ -67,6 +67,8 @@ class Seq2Seq_Train_Jerry(object):
         return input_text, target_text
     
     def _clean_sentences(self, input_text_lst, target_text_lst):
+        # either keep full sentences or include all text up to max_seq_length,
+        # but either way, remove any blank sentences.
         input_text_to_keep = []
         target_text_to_keep = []
 
@@ -95,7 +97,14 @@ class Seq2Seq_Train_Jerry(object):
                        max_seq_length, 
                        duplicate_records,
                        sentences_only):
+        '''
+        Loads in Q-A paris from txt file, and calls functions to clean and procees text, 
+        as well as create dictionaries for converting characters to integer values.
+        Saves dictionaries and info about the models as .npy output files, so can easily
+        load into the predict model when chatting.
+        '''
 
+        # sets variables based on argument parsing
         self.txt_file_path = txt_file_path
         self.num_samples = num_samples
         self.max_seq_length = max_seq_length
@@ -122,7 +131,8 @@ class Seq2Seq_Train_Jerry(object):
             self.input_texts_initial.append(input_text)
             self.target_texts_initial.append(target_text)
 
-        # either keep full sentences 
+        # either keep full sentences or include all text up to max_seq length
+        # but either way, 
         self.input_texts_initial,  self.target_texts_initial = self._clean_sentences(self.input_texts_initial, self.target_texts_initial)
 
         for input_text, target_text in zip(self.input_texts_initial, self.target_texts_initial):
@@ -203,7 +213,7 @@ class Seq2Seq_Train_Jerry(object):
         self._save_actual_q_a_pairs_used()
 
     def _save_actual_q_a_pairs_used(self):
-        outF = open("data/jerry_q_a_USED.txt", "w")
+        outF = open("models/jerry/jerry_q_a_USED.txt", "w")
         outF.write(str(self.input_char2idx))
         outF.write("\n")
         outF.write(str(self.target_char2idx))
@@ -295,6 +305,7 @@ class Seq2Seq_Train_Jerry(object):
         np.save('models/jerry/jerry_model_history.npy', self.history.history)
 
 def str2bool(v):
+    # allows for boolean values to be used in argument parsing
     if v.lower() in ('yes', 'true', 't', 'y', '1'):
         return True
     elif v.lower() in ('no', 'false', 'f', 'n', '0'):
@@ -333,6 +344,7 @@ if __name__ == "__main__":
                         nargs='?',
                         const=False,
                         help='Choose to only include full sentences or not in training data')
+    
     # arguments for model weights file paths
     parser.add_argument('--savebest', 
                         default='models/jerry/jerry_char-weights_best.h5', 
@@ -352,7 +364,3 @@ if __name__ == "__main__":
                                  args.duplicaterecords,
                                  args.sentencesOnly)
     seq2seq_Jerry.train_model(args.savebest, args.savefinal)
-
-
-
-    

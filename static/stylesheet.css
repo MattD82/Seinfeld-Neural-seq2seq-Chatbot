@@ -2,7 +2,7 @@ body {
     padding-top: 0px;
     text-align: center;
     font-family: monaco, monospace;
-    background: url(http://images.fanpop.com/images/image_uploads/Seinfeld-seinfeld-425017_1280_1024.jpg) -0px 0px;
+    background: url(http://images.fanpop.com/images/image_uploads/Seinfeld-seinfeld-425017_1280_1024.jpg) 20px 0px;
     /* background-repeat: no-repeat */
     background-size: cover;
     }

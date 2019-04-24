@@ -8,24 +8,24 @@
         <br>
         <h2>This is a character-based seq2seq model</h2>
             <br>
-    <div class='inline-flex-parent'>
-        <div class='ex3'>
-            <form method=post>
-                {% for line in conversations %}
-                {{line}}
-                <br>
-                {% endfor %}
-                <p>Type your message to Jerry Here: <input type=text name=sentence></p>
-                <input class=button type=submit value=Send>
+                <div class='inline-flex-parent'>
+                    <div class='ex3'>
+                        <form method=post>
+                            {% for line in conversations %}
+                            {{line}}
+                            <br>
+                            {% endfor %}
+                            <p>Type your message to Jerry Here: <input type=text name=sentence></p>
+                            <input class=button type=submit value=Send>
 
-                <form method="post" action="/">
-                <button class="button"input type="submit" value="Clear" name="Clear">Clear</button>
-                </form>     
-            </form>
-        </div>
-        <div class='video'>
-            <iframe width="450" height="340" src="https://www.youtube.com/embed/xr3Tjx-e71c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"> </iframe>
-        </div>
-    </div>
+                            <form method="post" action="/">
+                            <button class="button"input type="submit" value="Clear" name="Clear">Clear</button>
+                            </form>     
+                        </form>
+                    </div>
+                    <div class='video'>
+                        <iframe width="430" height="340" src="https://www.youtube.com/embed/xr3Tjx-e71c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"> </iframe>
+                    </div>
+                </div>
     </body>
 </html>

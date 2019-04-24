@@ -13,7 +13,7 @@ class JerryChatBot(object):
     If you would like to chat continuously when running, set chat=True in argument parsing.
     '''
 
-    def __init__(self, model_to_use, best_or_final):  #'models/jerry/samples_5000_seq_40/' #'final'
+    def __init__(self, model_to_use='models/jerry/samples_soD_16000_seq_100/', best_or_final='final'):  #'models/jerry/samples_5000_seq_40/' #'final'
         # use same num hidden nodes as training model
         self.num_hidden_nodes = 256
 
@@ -49,11 +49,11 @@ class JerryChatBot(object):
         # "best" model seems to answer the same no matter the input. Still unsure why
         # this 
         if best_or_final == 'final':
-            file_path = model_to_use + 'jerry_char-weights_final_so_' + model_to_use[-14:-8] + model_to_use[-4:-1] + '.h5'
+            file_path = model_to_use + 'jerry_char-weights_final.h5' #_soD_' + model_to_use[-14:-8] + model_to_use[-4:-1] + '.h5'
             self.model.load_weights(file_path)
         
         else:
-            file_path = model_to_use + 'jerry_char-weights_best_so_' + model_to_use[-14:-8] + model_to_use[-4:-1] + '.h5'
+            file_path = model_to_use + 'jerry_char-weights_best.h5' #_soD_' + model_to_use[-14:-8] + model_to_use[-4:-1] + '.h5'
             self.model.load_weights(file_path)
 
         # create encoder and decoder models for prediction
@@ -81,7 +81,7 @@ class JerryChatBot(object):
         
         return encoder_input_sent
     
-    def _sample_with_diversity(self, preds, temperature=0.314532):  #0.453212 #0.2212
+    def _sample_with_diversity(self, preds, temperature=0.75):  #0.453212 #0.2212  #0.15
         preds = np.asarray(preds).astype('float64')
         preds = np.log(preds) / temperature
         exp_preds = np.exp(preds)
@@ -132,10 +132,10 @@ class JerryChatBot(object):
         return decoded_sentence
 
     def test_run(self, chat, diversity):
-        input_sentence_1 = "Do you know?"
-        input_sentence_2 = "Do you know?"
+        input_sentence_1 = "This is great!"
+        input_sentence_2 = "This is great!"
         input_sentence_3 = "Ha."
-        input_sentence_4 = "Wait wait wait, what"
+        input_sentence_4 = "What?"
         print(f"Input Sentence #1: {input_sentence_1}")
         print(f"Reply #1: {self.reply(input_sentence_1, diversity=True)}")
         print(f"Input Sentence #2: {input_sentence_2}")
@@ -176,7 +176,7 @@ def main():
     parser = argparse.ArgumentParser(
     description='Predict Jerry Seinfeld dialogue using seq2seq model.')
     parser.add_argument('--model', 
-                        default='models/jerry/samples_16000_seq_100/',  #jerry_q_a_test.txt
+                        default='models/jerry/samples_soD_16000_seq_100/',  #jerry_q_a_test.txt #models/jerry/samples_soD_16000_seq_100/
                         help='location of model files to use to predict')
     parser.add_argument('--bestorfinal', 
                         default='final',  #jerry_q_a_test.txt
