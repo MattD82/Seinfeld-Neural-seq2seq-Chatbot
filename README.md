@@ -37,16 +37,19 @@ _ Deploy a Flask app that allows users to have a conversation with the Jerry cha
 - 1,600 different characters have dialogue in the series, but Jerry, George, Elaine, and Kramer have the bulk of the lines.
 
 ![](images/lines_by_char_series.png)
+
 Figure 1. Lines Spoken per Character – All Seasons
 
 [Back to Top](#Table-of-Contents)
 
 # Processs Flow
-![](images/process_flow.png =100x)
 
-<img display=inline-block display=block margin-left=auto margin-right=auto width=50% src=images/process_flow.png width=200 height=500>
+<img display=inline-block display=block margin-left=auto margin-right=auto width=50% src=images/process_flow.png>
 
-![](images/process_flow_2.png)
+<br>
+
+## Flask App Processs Flow
+<img display=inline-block display=block margin-left=auto margin-right=auto width=50% src=images/process_flow_2.png>
 
 [Back to Top](#Table-of-Contents)
 
@@ -57,10 +60,6 @@ Figure 1. Lines Spoken per Character – All Seasons
 
 ### Other examples of funny/interesting conversations I've had with the Jerry Bot:
 ```
-
-
-
-
 Jerry: Aw, we can't do it, who are we kidding.
 You: Talk?
 Jerry: Yeah.
@@ -109,7 +108,7 @@ Here is a screenshot from the flask app I created, allowing users to seamlessly 
 
 Ideally, I'd like to deploy this on a free tier AWS instance as well, in order to let others interact with Jerry, and maybe even offer up suggestions for improvements.
 
-
+![](images/app_screen_shot.png)
 
 # Conclusion
 A model incorporating a seq2seq LSTM was able to learn the speech patterns of Jerry Seinfeld relatively well, but it is far from perfect.
@@ -117,7 +116,7 @@ As we can see, the model is responding using correct punctuation and sentence st
 
 A few things that could potentially help any seq2seq model improve are:
 - More data – helps the model generalize well in that it will respond intelligently to unseen questions.
-- Additional LSTM layers – allows model to learn longer sequences
+- Additional LSTM layers – allows model to learn longer sequences.
 
 Other applications for seq2seq models include:
 - Machine translation
@@ -135,11 +134,13 @@ Other applications for seq2seq models include:
 
 ## Appendix
 
-#### Acknowledgements and inspiration
+#### Acknowledgements and Inspiration
 - Thanks very much to Frank, Danny, and Kayla at Galvanize for all of the guidance, instruction, and wisdom. Without them, none of this would have been even remotely possible, and I will always be grateful for their knowledge and expertise.
 - [A ten-minute introduction to sequence-to-sequence learning in Keras](https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html)
 - [How to Develop an Encoder-Decoder Model for Sequence-to-Sequence Prediction in Keras](https://machinelearningmastery.com/develop-encoder-decoder-model-sequence-sequence-prediction-keras/)
 - [NLP | Sequence to Sequence Networks](https://towardsdatascience.com/nlp-sequence-to-sequence-networks-part-1-processing-text-data-d141a5643b72)
+- [How I Used Deep Learning to Train a Chatbot to Talk Like Me (Sorta)](https://dzone.com/articles/how-i-used-deep-learning-to-train-a-chatbot-to-tal)
+
 
 #### Tech Stack Used
 
