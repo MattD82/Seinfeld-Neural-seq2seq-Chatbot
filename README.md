@@ -1,3 +1,5 @@
+![](images/header.png)
+
 # Seinfeld Neural seq2seq Chatbot
 Final Capstone Project for Galvanize Data Science Immersive 
 
