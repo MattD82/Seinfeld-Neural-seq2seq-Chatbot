@@ -13,6 +13,7 @@ by Matt Devor
 - [Results](#results)
 - [Conclusion](#conclusion)
 - [Next Steps](#next-steps)
+- [Appendix](#Appendix)
 
 # Introduction
 I’ve been a Seinfeld fan since the early 90’s, so when I discovered a database of episode scripts, I thought that would be a great opportunity to explore the corpus of dialogue, and learn much more about NLP, recurrent neural networks, and chatbots in the process.
@@ -41,7 +42,9 @@ Figure 1. Lines Spoken per Character – All Seasons
 [Back to Top](#Table-of-Contents)
 
 # Processs Flow
-![](images/process_flow.png)
+![](images/process_flow.png =100x)
+
+<img display=inline-block display=block margin-left=auto margin-right=auto width=50% src=images/process_flow.png width=200 height=500>
 
 ![](images/process_flow_2.png)
 
@@ -54,9 +57,10 @@ Figure 1. Lines Spoken per Character – All Seasons
 
 ### Other examples of funny/interesting conversations I've had with the Jerry Bot:
 ```
-You: Stay with me here.
-Jerry: Oh!
-You: Ok. Now. Where were we?
+
+
+
+
 Jerry: Aw, we can't do it, who are we kidding.
 You: Talk?
 Jerry: Yeah.
@@ -87,9 +91,25 @@ Jerry: Oh, Elaine. 
 
 You: I'm DONE with this BOT!
 Jerry: Hey, look at this guy!
+
+You: Is George really a marine biologist? 
+Jerry: No, really. 
+You: What does that mean? 
+Jerry: Well. 
+You: Is it true or not?? 
+Jerry: Wow. 
+You: Too many question marks?
+Jerry: All right.
 ```
 
 [Back to Top](#Table-of-Contents)
+
+# Flask App
+Here is a screenshot from the flask app I created, allowing users to seamlessly interact with the Jerry Bot. Note the late 90's website design was completely intentional, as I thought it would fit well with the time period of the show ;)
+
+Ideally, I'd like to deploy this on a free tier AWS instance as well, in order to let others interact with Jerry, and maybe even offer up suggestions for improvements.
+
+
 
 # Conclusion
 A model incorporating a seq2seq LSTM was able to learn the speech patterns of Jerry Seinfeld relatively well, but it is far from perfect.
@@ -113,5 +133,15 @@ Other applications for seq2seq models include:
 
 [Back to Top](#Table-of-Contents)
 
+## Appendix
 
+#### Acknowledgements and inspiration
+- Thanks very much to Frank, Danny, and Kayla at Galvanize for all of the guidance, instruction, and wisdom. Without them, none of this would have been even remotely possible, and I will always be grateful for their knowledge and expertise.
+- [A ten-minute introduction to sequence-to-sequence learning in Keras](https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html)
+- [How to Develop an Encoder-Decoder Model for Sequence-to-Sequence Prediction in Keras](https://machinelearningmastery.com/develop-encoder-decoder-model-sequence-sequence-prediction-keras/)
+- [NLP | Sequence to Sequence Networks](https://towardsdatascience.com/nlp-sequence-to-sequence-networks-part-1-processing-text-data-d141a5643b72)
+
+#### Tech Stack Used
+
+![](images/tech_stack.png)
 
