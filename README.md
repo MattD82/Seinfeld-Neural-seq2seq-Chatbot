@@ -142,6 +142,7 @@ Other applications for seq2seq models include:
 - [How I Used Deep Learning to Train a Chatbot to Talk Like Me (Sorta)](https://dzone.com/articles/how-i-used-deep-learning-to-train-a-chatbot-to-tal)
 
 
+
 #### Tech Stack Used
 
 ![](images/tech_stack.png)

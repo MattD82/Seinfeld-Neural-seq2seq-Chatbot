@@ -13,7 +13,7 @@ class JerryChatBot(object):
     If you would like to chat continuously when running, set chat=True in argument parsing.
     '''
 
-    def __init__(self, model_to_use='models/jerry/samples_soD_16000_seq_100/', best_or_final='final'):  #'models/jerry/samples_5000_seq_40/' #'final'
+    def __init__(self, model_to_use='models/jerry/samples_soD_16000_seq_50/', best_or_final='final'):  #'models/jerry/samples_5000_seq_40/' #'final'
         # use same num hidden nodes as training model
         self.num_hidden_nodes = 256
 
@@ -176,7 +176,7 @@ def main():
     parser = argparse.ArgumentParser(
     description='Predict Jerry Seinfeld dialogue using seq2seq model.')
     parser.add_argument('--model', 
-                        default='models/jerry/samples_soD_16000_seq_100/',  #jerry_q_a_test.txt #models/jerry/samples_soD_16000_seq_100/
+                        default='models/jerry/samples_soD_16000_seq_50/',  #jerry_q_a_test.txt #models/jerry/samples_soD_16000_seq_100/
                         help='location of model files to use to predict')
     parser.add_argument('--bestorfinal', 
                         default='final',  #jerry_q_a_test.txt
